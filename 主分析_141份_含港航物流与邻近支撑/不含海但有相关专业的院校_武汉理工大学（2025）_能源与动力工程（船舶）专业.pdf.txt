@@ -1,0 +1,1043 @@
+
+
+[Page 1]
+能源与动力工程（船舶）专业 2024 版本科培养方案
+Undergraduate Education Plan for Specialty in
+Energy & Power Engineering(2024)
+专业名称 能源与动力工程 主干学科 动力工程及工程热物理
+Major Energy & Power
+System and
+Automation
+Major Disciplines Power Engineering and
+Engineering Thermophysics
+计划学制 四年 授予学位 工学学士
+Duration 4years Degree Granted Bachelor of Engineering
+所属大类 能源动力类 大类培养年限 1 年
+Disciplinary Duration 1year
+最低毕业学分规定
+Graduation Credit Criteria
+课程分类
+Course
+Classification
+课程性质
+Course Nature
+通识教育课程
+General
+Education
+Courser
+学科基础课程
+Disciplinary
+Fundamental
+Courses
+专业课程
+Specialty
+Elective
+Courses
+个性课程
+Personalized
+Course
+集中性实践
+教学环节
+Specialized
+Practice
+Schedule
+课外学分
+Extra- Course
+Credits
+总学分
+Total
+Credits
+必修课
+Required Courses 38 42.5 24 \ 23.5
+10 175选修课
+Elective Courses 9 \ 22 6 \
+一、专业简介
+1 Professional Introduction
+能源与动力工程致力于传统能源的利用及新能源的开发，以及如何更高效、清洁地把能源转化
+为动力。本专业以工程热物理相关理论为基础，以能源高效洁净转换与利用、动力系统及装备可靠
+运行与控制、低碳零碳燃料与可再生能源技术研发与应用、节能环保与可持续发展为学科方向，培
+养从事能源、动力、环保等领域的科学研究、技术开发、工程设计、运行控制、教学、管理等工作
+的高素质专门人才。
+能源与动力工程（船舶）专业始建于 1946 年，是武汉理工大学最具优势和特色的专业之一，教学
+团队是湖北省优秀基层教学组织，团队教师获博士学位比例达 95%，有留学经历比例达 60%。多名
+教师先后获得“精品课程教学名师”、“师德标兵”“教学名师”和“优秀党员”等荣誉称号。专业
+拥有国家级工程实践教育中心、国家级水陆交通实验实践教学中心、国家级船舶运输实验实训教学
+中心、国家级水陆交通虚拟实验教学中心、船舶动力工程技术交通运输行业重点实验室、船舶与海
+洋工程动力系统国家工程实验室（电控实验室）、高性能舰船技术教育部重点实验室等教学科研资
+源，获国家科技进步特等奖 1 项、二等奖 1 项、国家技术发明二等奖 1 项、国家教学成果奖二等奖
+1 项、湖北省教学成果奖一等奖 2 项、二等奖 2 项等。
+Energy and Power Engineering is committed to the utilization of traditional energy sources and the
+development of new energy sources, as well as how to convert energy into power more efficiently and
+
+
+[Page 2]
+cleanly. Based on the theory of engineering thermophysics, this major focuses on efficient and clean energy
+conversion and utilization, reliable operation and control of power systems and equipment, research and
+development and application of low-carbon and zero-carbon fuels and renewable energy technologies, as
+well as energy conservation, environmental protection, and sustainable development. It aims to cultivate
+high-quality professionals engaged in scientific research, technology development, engineering design,
+operation control, teaching, and management in the fields of energy, power, and environmental protection.
+The Energy and Power Engineering (Marine) major was established in 1946 and is one of the most
+advantageous and distinctive majors at Wuhan University of Technology. The teaching team is an excellent
+grass-roots teaching organization in Hubei Province, with 95% of the teachers holding doctorates and 60%
+having overseas study experience. Many teachers have been awarded honorary titles such as "Outstanding
+Teacher for Quality Courses," "Model Teacher for Teacher Ethics," "Outstanding Teacher for Teaching,"
+and "Excellent Party Member." The major boasts national-level engineering practice education centers,
+national-level land and water transportation experimental and practical teaching centers, national-level ship
+transportation experimental and training teaching centers, national-level land and water transportation
+virtual experimental teaching centers, key laboratories for transportation in the field of marine power
+engineering technology, national engineering laboratories for marine and ocean engineering power systems
+(electronic control laboratories), and key laboratories of the Ministry of Education for high-performance
+ship technology. It has won one special award and one second award for national scientific and
+technological progress, one second award for national technological invention, one second award for
+national teaching achievements, two first awards and two second awards for teaching achievements in
+Hubei Province, and many other honors.
+二、 培养目标与毕业要求
+2 Educational Objectives &Requirements
+（一） 培养目标
+本专业培养具备动力工程及工程热物理学科宽厚基础理论，系统掌握能源高效洁净转化与利用、
+能源动力装备与系统、能源与环境系统工程等方面专业知识，能从事能源、动力、环保等领域的科
+学研究、技术开发、设计制造、智能控制、教学、管理等工作，富有社会责任感，具有国际视野、
+创新创业精神、工程实践能力和竞争意识的高素质专门人才。
+本专业期待毕业生经过五年左右的工作实践，具有的职业能力和取得的职业成就如下：
+1.具有良好的社会公德、人文科学素养和职业道德，在工程实践中能承担并履行能源与动力工程
+相关领域对技术与管理人员要求的社会义务及责任 。
+2.能够独立从事能源动力领域的科学研究、技术开发、工程设计、运行管理等工作，并成为技术
+骨干或管理人才，在船舶、汽车两大交通行业中具有就业竞争力。
+3.能通过不断学习持续拓展知识和能力，把握能源、动力及相关领域新理论和新技术的发展趋
+势，并具有对新技术与应用的敏锐性和洞察力。
+4.能够就能源动力领域的复杂工程问题与业界同行及社会公众进行有效沟通和交流，能够通过终
+身学习促进专业发展。
+5.具有团队合作与组织管理能力，能够胜任多学科背景下团队负责人的角色，能够适应技术发展
+及社会变革，推动能源与动力工程相关行业的可持续发展。
+2.1 Education Objectives
+This major trains student with generous basic theories of power engineering and engineering
+thermophysics, systematic mastery of energy-efficient and clean conversion and utilization, energy power
+equipment and systems, energy and environmental system engineering, and other professional knowledge,
+and can be engaged in the fields of energy, power, environmental protection, etc. Scientific research,
+technology development, design and manufacturing, intelligent control, teaching, management, etc., are
+
+
+[Page 3]
+highly qualified professionals with a sense of social responsibility, international vision, innovative and
+entrepreneurial spirit, engineering practice ability, and competitive awareness.
+This major expects graduates to have the following professional abilities and achievements after about
+five years of work practice:
+1.Have good social ethics, humanities, and professional ethics, and be able to undertake and perform the
+social obligations and responsibilities required by technical and managerial personnel in the fields of
+energy and power engineering in engineering practice.
+2.Be able to independently engage in scientific research, technology development, engineering design,
+operation management, and other work in the field of energy and power, and become a technical backbone
+or managerial talent, and have employment competitiveness in the shipping and automobile transportation
+industries.
+3.Able to continuously expand knowledge and capabilities through continuous learning, grasp the
+development trend of new theories and new technologies in energy, power, and related fields, and have a
+keenness and insight into new technologies and applications.
+4.Ability to effectively communicate and communicate with industry colleagues and the public on
+complex engineering issues in the energy and power field, and to promote professional development
+through lifelong learning.
+5.Possess teamwork and organization and management capabilities can be competent for the role of team
+leader in a multidisciplinary background, can adapt to technological development and social changes, and
+promote the sustainable development of energy and power engineering-related industries.
+（二）毕业要求
+本专业学生毕业时应当达到中国工程教育专业认证协会工程教育认证标准规定的能力，即：
+1.工程知识:能够掌握数学、自然科学、技术科学基础和能源与动力工程专业知识，并将 其
+应用于解决现代能源动力领域的复杂工程问题。
+2.问题分析: 能够应用数学、自然科学和工程科学的基本原理，识别、表达、并通过文献研
+究分析能源动力领域复杂工程问题，以获得有效结论。
+3.解决方案:能够设计针对能源动力领域复杂工程问题的解决方案，设计满足特定需求的系
+统、设备（部件）、生产或运行流程，并能够在设计环节中体现创新意识，考虑社会、健康、安
+全、法律、文化以及环境等因素。
+4.研究:能够基于科学原理并采用科学方法对能源动力领域复杂工程问题进行研究，包括 设
+计实验、分析与解释数据、并通过信息综合得到合理有效的结论。
+5.使用现代工具:能够开发、选择与使用恰当的技术、资源、现代工程工具和信息技术工
+具 ，对能源动力领域复杂工程问题进行预测、模拟、求解和论证，并能够理解其局限性。
+6.工程与可持续发展:能够基于能源动力工程相关背景知识进行合理分析，评价专业工程实践
+和复杂工程问题解决方案，并理解应承担的责任。能将大工程观及可持续发展的理念贯穿于能源
+动力领域产品设计制造、运行调试及其自动化的工程实践中。
+7.伦理与职业规范:有工程报国、工程为民的意识，具有人文社会科学素养和社会责任感，能
+够理解和应用工程伦理，在工程实践中遵守工程职业道德、规范和相关法律，履行责任。
+8.个人和团队:能够正确认识和处理个人与团队的关系，在多学科背景下的团队中承担个体、
+团队成员以及负责人的角色。
+9.沟通:具备良好的人际沟通及交往能力，能够就复杂工程问题与业界同行及社会公众进行有
+效沟通和交流，包括撰写报告和设计文稿、陈述发言、清晰表达或回应指令等。并具备一定的国
+际视野，能够在跨文化背景下进行沟通和交流。
+10.项目管理:理解并掌握工程管理基本原理与经济决策方法，并能将其应用于能源动力领域
+所设计的多学科环境中。
+11.终身学习:具有自主学习和终身学习的意识，掌握自主学习和终身学习的方法，具有不断
+学习和适应能源动力及相关领域技术和观念发展、变化的能力。
+2.2 Graduation Requirements
+Upon graduation, students in this major should meet the abilities required by the Engineering
+
+
+[Page 4]
+Education Certification Standards of the China Engineering Education Professional Certification
+Association, namely:
+1.Able to master the basics of mathematics, natural sciences, technical sciences, and energy and
+power engineering expertise, and apply them to solve complex engineering problems in the field of
+modern energy and power.
+2.Able to apply basic principles of mathematics, natural sciences, and engineering sciences to
+identify, express, and analyze complex engineering problems in the field of energy and power through
+literature research to obtain effective conclusions.
+3.Be able to design solutions to complex engineering problems in the energy and power field, design
+systems, equipment (components), production or operation processes that meet specific needs, and be able
+to reflect the sense of innovation in the design process, and consider social, health, safety, legal, cultural
+and environmental factors.
+4.Able to study complex engineering problems in the field of energy and power based on scientific
+principles and using scientific methods, including designing experiments, analyzing and interpreting data,
+and obtaining reasonable and effective conclusions through information synthesis.
+5.Be able to develop, select and use appropriate technologies, resources, modern engineering tools,
+and information technology tools to predict, simulate, solve and demonstrate complex engineering
+problems in the field of energy and power, and understand their limitations.
+6.Ability to conduct reasonable analyses based on background knowledge of energy and power
+engineering, evaluate professional engineering practices and solutions to complex engineering problems,
+and understand the responsibilities that should be assumed. It can run the concept of large-scale
+engineering and sustainable development through the engineering practice of product design,
+manufacturing, operation and commissioning and automation in the field of energy and power.
+7.Have the awareness of serving the country and the people, have the literacy of humanities and
+social sciences and a sense of social responsibility, be able to understand and apply engineering ethics,
+abide by engineering professional ethics, norms and relevant laws in engineering practice, and fulfill
+responsibilities.
+8.Able to correctly understand and handle the relationship between individuals and teams, and
+assume the roles of individuals, team members, and leaders in a multi-disciplinary team.
+9.Have good interpersonal communication and communication skills, and be able to effectively
+communicate and communicate with industry colleagues and the public on complex engineering issues,
+including writing reports and design manuscripts, presentations, clear expressions or response
+instructions, etc. And have a certain international perspective, able to communicate and exchange in a
+cross-cultural context.
+10. Understand and master the basic principles of engineering management and economic decision-
+making methods, and be able to apply them in the multidisciplinary environment designed in the field of
+energy and power.
+11. Have the consciousness of independent learning and lifelong learning, master the methods of
+independent learning and lifelong learning, and have the ability to continuously learn and adapt to the
+development and change of technologies and concepts in energy power and related fields.
+附：培养目标实现矩阵
+毕业要求 培养目标 1 培养目标 2 培养目标 3 培养目标 4 培养目标 5
+毕业要求 1 √ √ √
+毕业要求 2 √ √ √
+毕业要求 3 √ √ √ √
+毕业要求 4 √ √ √
+毕业要求 5 √ √ √
+毕业要求 6 √ √ √ √
+毕业要求 7 √ √ √
+
+
+[Page 5]
+毕业要求 8 √
+毕业要求 9 √
+毕业要求 10 √
+毕业要求 11 √
+毕业要求的达成需以课程（教学环节）的教学活动为支撑。本专业为 合理设置课程体系、落实对
+毕业要求的支撑课程，对各项毕业要求进行了解。每项毕业要求（一级指标）被分解为若干层层递进的
+指标点（二级指标） ，前一指标点的达成是下一指标点达成的基础，而下一指标点的达成是前一指标
+点的升华，所有指标点一起，支撑了该毕业要求的达成。根据上述分解方法， 本专业各项毕业要求的
+指标点分解如下表所示。
+表： 毕业要求指标点的分解
+毕业要求 指标点
+毕业要求 1.工程知识:能够掌握数学、自然科
+学 、 技 术 科 学 基 础 和 能 源 与 动 力 工 程 专 业 知
+识，并将 其应用于解决现代能源动力领域的复
+杂工程问题。
+1.1 掌握专业必需的物理、化学、力学等自然
+科学知识，并运用其对能源动力领域中复杂工
+程问题进行原理、抽象性描述。
+1.2 掌握专业必需的数学知识并将其用于解决
+能源动力领域工程问题的建模和求解。
+1.3 掌 握 机 械 学 、 材 料 、 电 工 电 子 、 自 动 控
+制、计算机技术等工程基础知识并将其用于解
+决能源动力领域复杂工程问题。
+1.4 掌握能源转换、利用与储存、污染物排放
+与控制、动力系统与动力机械方面的专业知识
+将其用于解决复杂工程问题。
+毕业要求 2.问题分析: 能够应用数学、自然科
+学和工程科学的基本原理，识别、表达、并通
+过文献研究分析能源动力领域复杂工程问题，
+以获得有效结论。
+2.1 能够应用能源与动力工程的基础知识，结
+合文献研究，准确识别和描述能源与动力工程
+领 域 中 的 复 杂 工 程 问 题 ， 并 提 出 多 种 解 决 方
+案。
+2.2 能够综合运用数学、自然科学和能源与动
+力工程专业相关知识，分析多种解决方案的关
+键影响因素，并获得有效结论。
+毕业要求 3.解决方案:能够设计针对能源动力领
+域复杂工程问题的解决方案，设计满足特定需
+求的系统、设备（部件）、生产或运行流程，并
+能够在设计环节中体现创新意识，考虑社会、
+健康、安全、法律、文化以及环境等因素。
+3.1 掌握能源动力领域产品设计、生产、检验
+与监管的相关技术规范、标准以及管理条例，
+具备依照标准和规范设计相关设备和工艺流程
+的能力。
+3.2 了解能源动力领域前沿技术、发展趋势、
+创新方法，能够设计满足能源动力领域特定需
+求的系统、设备（部件）、生产或运行流程，并
+在设计环节中体现创新意识。
+3.3 在能源动力领域的设计过程中考虑社会、
+健康、安全、法律、文化以及环境等因素， 提
+出解决方案。
+毕业要求 4.研究:能够基于科学原理并采用科学 4.1 能够基于材料物理、材料科学与工程的基
+
+
+[Page 6]
+方法对能源动力领域复杂工程问题进行研究，
+包括 设计实验、分析与解释数据、并通过信息
+综合得到合理有效的结论。
+础理论，通过文献研究或相关方法，调研和分
+析复杂工程问题的解决方案。
+4.2 能够基于科学原理，设计实验方案、研究
+方案、技术路线并分析筛选。
+4.3 能够对能源动力领域复杂工程问题中所涉
+及到的物理现象、材料特性、系统及设备性能
+进行理论分析或实验测试、验证。
+4.4 能够将实验结论与工程问题相结合，对能
+源动力领域中特定的工程问题设计实验方案、
+搭建实验系统，正确采集、整理、分析实验数
+据，并通过信息关联与综合得到合理 有效的结
+论。
+毕业要求 5.使用现代工具:能够开发、选择与使
+用恰当的技术、资源、现代工程工具和信息技
+术工具 ，对能源动力领域复杂工程问题进行预
+测 、 模 拟 、 求 解 和 论 证 ， 并 能 够 理 解 其 局 限
+性。
+5.1 能够将计算机程序语言、CAD、能源动力领
+域仿真模拟软件等现代工具，应用于分析、模
+拟、设计能源动力领域相关设备及系统，并能
+够理解其局限性。
+5.2 能够针对具体的对象，选择前沿实验仪器
+设备和先进测试分析技术或开发工具，模拟、
+预测和分析能源动力领域复杂工程问题，并能
+够理解其局限性。
+毕业要求 6.工程与可持续发展:能够基于能源动
+力工程相关背景知识进行合理分析，评价专业
+工程实践和复杂工程问题解决方案，并理解应
+承担的责任。能将大工程观及可持续发展的理
+念贯穿于能源动力领域产品设计制造、运行调
+试及其自动化的工程实践中。
+6.1 熟悉国家、地方、行业相关法律法规，熟
+悉 国 家 的 知 识 产 权 、 产 业 行 业 政 策 、 技 术 标
+准，理解社会文化、国情等对复杂工程问题的
+影响。
+6.2 能够针对能源动力领域技术产品设计及运
+行对社会、健康、安全、生态等的影响以及可
+能产生的法律问题、文化意义等，进行合理评
+估，并理解工程技术人员应承担的责任。
+毕业要求 7.伦理与职业规范:有工程报国、工程
+为民的意识，具有人文社会科学素养和社会责
+任感，能够理解和应用工程伦理，在工程实践
+中遵守工程职业道德、规范和相关法律，履行
+责任。
+7.1 具有人文社会科学素养和社会责任感，有
+工程报国、工程为民的意识。
+7.2 在工程实践中遵守工程职业道德、规范和
+相关法律，履行责任。
+毕业要求 8.个人和团队:能够正确认识和处理个
+人与团队的关系，在多学科背景下的团队中承
+担个体、团队成员以及负责人的角色。
+8.1 具有较强的团队意识和协作精神，能够发
+挥团队成员作用，独立或合作开展工作。
+8.2 能 与 其 他 学 科 的 成 员 有 效 沟 通 ， 合 作 共
+事，具有跨学科综合能力，理解在跨学科团队
+中个人的角色，并承担相应的职责。
+毕业要求 9.沟通:具备良好的人际沟通及交往能
+力，能够就复杂工程问题与业界同行及社会公
+众进行有效沟通和交流，包括撰写报告和设计
+文稿、陈述发言、清晰表达或回应指令等。并
+具备一定的国际视野，能够在跨文化背景下进
+行沟通和交流。
+9.1 能够熟练掌握工程语言并能对工程问题进
+行准确的书面和口头描述。
+9.2 能够就复杂工程问题与业界同行及社会公
+众进行有效沟通和交流。
+9.3 具备一定的国际视野，能够在跨文化背景
+下进行沟通和交流。
+毕业要求 10.项目管理:理解并掌握工程管理基
+本原理与经济决策方法，并能将其应用于能源
+动力领域所设计的多学科环境中。
+10.1 了解和掌握工程管理的基本知识、经济分
+析和决策方法。
+10.2 能在多学科环境下，在设计开发解决方案
+的 过 程 中 ， 运 用 工 程 管 理 理 论 和 经 济 决 策 方
+法，开展工程决策及项目管理等。
+毕业要求 11.终身学习:具有自主学习和终身学 11.1 具有强烈的求知欲和勇于探索的精神，持
+
+
+[Page 7]
+习的意识，掌握自主学习和终身学习的方法，
+具有不断学习和适应能源动力及相关领域技术
+和观念发展、变化的能力。
+续关注和跟踪相关领域科学技术的发展动态。
+11.2 适应现代技术的发展，具备不断获取新的
+知识、技能、持续自我提升的能力。
+附：毕业要求实现矩阵
+课程名称
+能源与动力工程专业毕业要求
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11)
+工程图学 B(10053117112) L
+机械设计基础课程设计(10053321195) L
+机械设计基础 A(10054111002) L
+金属工艺学 B(10054117065) M
+储能原理与技术(10055121030) M
+机械制造工程实训 B(10057311034) H
+船舶清洁能源技术 A(10062124004) L
+工程力学 B(10063121093) L
+船舶动力装置原理 B(10064117098) H
+传热学 D(10064117099) M
+流体力学 C(10064121051) L
+船舶机械智能制造(10064121054) L
+自动控制原理 B(10064121057) L
+工程热力学 A(10064121059) L
+能源动力测试技术(10064121066) L
+工程力学 B 实验(10064221078) H
+能源与动力工程专业综合实验(下
+)(10064221081)
+H
+能源与动力工程专业综合实验(上
+)(10064221082)
+L
+能源动力测试技术实验(10064221083) L
+热与流体课程实验(10064221084) L
+动力机械工程微机应用技术(10065113020) H
+能源概论(10065113021) L
+能源与动力工程专业英语(10065117018) L
+船舶污染控制(10065117020) L
+内燃机与动力装置匹配(10065117025) L
+船舶管系与工艺设计 B(10065117031) L
+轮机自动化 A(10065117051) M
+振动与噪声控制(10065117059) M
+船舶辅机 B(10065117067) M
+信号分析与处理(10065117198) L
+动力系统自动化 B(10065117213) M
+船舶原理 C(10065117215) M
+分布式能源系统(10065121003) L
+动力定位及机桨优化配置(10065121006) H
+动力机械振动理论及应用(10065121007) M
+
+
+[Page 8]
+氢能与制氢技术(10065121014) H
+燃烧学(10065121015) M
+新能源及智能船舶动力系统(10065121016) L
+新能源热利用与发电技术(10065121017) M
+制冷与空调技术(10065121018) H
+船舶动力系统仿真(10065121019) L
+能源动力系统原理(10065124165) L
+能源动力工程材料(10065124170) L
+混合动力系统原理(10065124182) H
+内燃机排放控制 A(10065124700) L
+动力机械电子控制技术 A(10065124701) M
+动力系统建模与仿真 A(10065124702) M
+船舶与海洋工程概论(10066117171) H
+可再生能源与新能源技术(10066117175) H
+声学理论及应用(10066121114) L
+船舶腐蚀与防护(10066121116) L
+船舶电力系统及推进技术(10066121117) H
+工程计算基础 A(10066124001) M
+能源动力系统课程设计(10067317187) L
+工程热力学和传热学课程设计(10067321109) L
+毕业设计(论文)(10067324146) L
+Python 程序设计基础 B(10121121085) H
+计算机基础与 Python 程序设计综合实验
+B(10121221089)
+L
+电工与电子技术基础 C(10133121098) M
+电工电子实习 B(10137311009) H
+线性代数(10153111001) H
+大学物理 B(10153113042) L
+高等数学 A 下(10153121060) L
+高等数学 A 上(10153121061) L
+物理实验 B(10154211025) L
+概率论与数理统计 B(10155111054) H
+大学英语 4(10201121071) L
+大学英语 3(10201121072) L
+大学英语 2(10201121073) M
+大学英语 1(10201121074) M
+思想道德与法治(10211124001) M
+毛泽东思想和中国特色社会主义理论体系概论
+(10211124002)
+L
+习近平新时代中国特色社会主义思想概论
+(10211124003)
+L
+马克思主义基本原理(10211124004) M
+中国近现代史纲要(10211124005) H
+形势与政策(10218116001) L
+
+
+[Page 9]
+形势与政策(10218116002) L
+形势与政策(10218116003) L
+形势与政策(10218116004) L
+形势与政策(10218116005) L
+形势与政策(10218116006) L
+形势与政策(10218116007) L
+形势与政策(10218116008) L
+体育 4(10271117043) M
+体育 3(10271117044) L
+体育 2(10271117045) M
+体育 1(10271117046) H
+军事理论(10381121001) H
+军事技能训练(10381321003) L
+心理健康教育(10388117003) L
+通识教
+育选修
+课
+“四史”类 L
+人文社科类 L
+科技创新类 L
+经济管理类 L
+创新创业类 L
+艺术审美类 L
+体育健康类 L
+备注：表中用“H”、“M”、“L”分别表示该课程对指标点的支撑强度为“高”、“中”、“低”。
+三、专业核心课程
+3 Core Courses
+船舶动力装置原理 B,传热学 D,流体力学 C,船舶机械智能制造,工程热力学 A,能源概论,能源
+动力系统原理
+Principle & Design of Marine Power Plant B,Heat Transfer D,Fluid Mechanics,Marine Machinery
+Intelligent Manufacturing,Engineering Thermodynamics A,Introduction to Energy,Internal Combustion
+Engine Theory D
+
+
+[Page 10]
+四、 教学建议进程表
+4 Course Schedule
+开课单位
+Course College
+课程编号
+Course Number
+课程名称
+Course Title
+学分
+Crs
+学时分配
+Including
+建议修读学
+期
+Suggested
+Term
+先修课程
+Prerequisi
+te Course总学时
+Tot hrs.
+理论
+Theory
+实验
+Exp.
+上机
+Ope-ratio.
+实践
+Prac-tice.
+课外
+Extra-cur.
+（一）通识教育必修课程
+1 General Education Compulsory Courses
+计算机与人工智能学院 10121121085 Python 程序设计基础 B
+Foundation of Python Programming B 2 32 32 0 0 0 0 1
+计算机与人工智能学院 10121221089
+计算机基础与 Python 程序设计综合实验 B
+Comprehensive Experiments of Foundation of
+Computer and PYTHON Language Programming B
+1 32 0 32 0 0 0 1
+外国语学院 10201121071 大学英语 4
+College English Ⅳ 2 48 32 0 0 0 16 4 大学英语 2
+外国语学院 10201121072 大学英语 3
+College English Ⅲ 2 32 32 0 0 0 0 3 大学英语 2
+外国语学院 10201121073 大学英语 2
+College English Ⅱ 2 32 32 0 0 0 0 2
+外国语学院 10201121074 大学英语 1
+College English Ⅰ 2 32 32 0 0 0 0 1
+马克思主义学院 10211124001 思想道德与法治
+Morality and the rule of law 3 48 42 0 0 6 0 1
+马克思主义学院 10211124002
+毛泽东思想和中国特色社会主义理论体系概论
+Introduction to Mao Zedong Thought and Socialism
+with Chinese Characteristics
+3 48 30 0 0 18 0 3
+马克思主义学院 10211124003
+习近平新时代中国特色社会主义思想概论
+Xi Jinping Thought on Socialism with Chinese
+Characteristics for a New Era
+3 48 36 0 0 12 0 4
+马克思主义学院 10211124004 马克思主义基本原理
+Marxism Philosophy 3 48 42 0 0 6 0 3
+马克思主义学院 10211124005 中国近现代史纲要
+Outline of Contemporary and Modern Chinese History 3 48 42 0 0 6 0 2
+马克思主义学院 10218116001 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 1
+马克思主义学院 10218116002 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 2
+马克思主义学院 10218116003 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 3
+
+
+[Page 11]
+马克思主义学院 10218116004 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 4
+马克思主义学院 10218116005 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 5
+马克思主义学院 10218116006 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 6
+马克思主义学院 10218116007 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 7
+马克思主义学院 10218116008 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 8
+体育学院 10271117043 体育 4
+Physical Education Ⅳ 1 32 32 0 0 0 0 4 基础体育,
+基础体育 2
+体育学院 10271117044 体育 3
+Physical Education Ⅲ 1 32 32 0 0 0 0 3 基础体育,
+基础体育 2
+体育学院 10271117045 体育 2
+Physical Education Ⅱ 1 32 32 0 0 0 0 2
+体育学院 10271117046 体育 1
+Physical Education Ⅰ 1 32 32 0 0 0 0 1
+学生工作部（处）、武装部 10381121001 军事理论
+Military Theory 2 32 32 0 0 0 0 2
+学生工作部（处）、武装部 10381321003 军事技能训练
+Military Skills Training 2 136 0 0 0 136 0 1
+学生工作部（处）、武装部 10388117003 心理健康教育
+Mental Health Education 2 32 24 0 0 8 0 2
+小 计 Subtotal 38 840 600 32 0 192 16
+修读说明:
+NOTE:
+（二）通识教育选修课程
+2 General Education Elective Courses
+“四史”类
+Education of "Four Histories"
+1.通识课程应修满至少 9 学分；
+2.至少修读“四史”课程以及创新创业类课程各 1 门；
+3.非艺术类专业学生还应在艺术审美类课程中至少选修 2 学分；
+4.学校引进开设的通识教育网络课程采用“学分认定”方式计入通识选修课，最高计入 4 学分。
+5. 必须选修人文社科类中《国家安全教育》课程。
+1. Elective courses ≥9 credits.
+2.At least one course in Education of "Four Histories" and one course in innovation and entrepreneurship;
+3.Non art major students should also take at least 2 elective credits in art aesthetics courses;
+4.The general education online courses introduced by the school are included in the general education elective courses through credit recognition, with a maximum of 4
+credits.
+人文社科类
+Humanities and Social Sciences
+科技创新类
+Technology innovation
+经济管理类
+Economic Management
+创新创业类
+Innovation and entrepreneurship
+
+
+[Page 12]
+5. National Security Education of the Humanities and Social Sciences Courses is the specialized elective course艺术审美类
+Art Aesthetics
+体育健康类
+Sports and Health
+小 计 Subtotal 9 144
+（三）学科基础课程
+3 Disciplinary Fundamental Courses
+交通与物流工程学院 10053117112 工程图学 B
+Engineering Graphics 3.5 72 56 0 0 0 16 1
+交通与物流工程学院 10054111002 机械设计基础 A
+Mechanical Design 3.5 56 50 6 0 0 0 3
+工程图学
+B,工程图学
+B
+交通与物流工程学院 10054117065 金属工艺学 B
+Metallurgical TechnologyB 2 32 30 2 0 0 3
+工程图学
+B,互换性与
+测量技术
+B,机械制造
+工程实训
+B,工程图学
+B,机械制造
+工程实训 A
+船海与能源动力工程学院 10063121093 工程力学 B
+Engineering MechanicsB 4 64 64 0 0 0 0 3 理论力学 B
+船海与能源动力工程学院 10064121051 流体力学 C
+Fluid Mechanics 2 32 26 6 0 0 4
+高等数学 A
+下,高等数
+学 A 上
+船海与能源动力工程学院 10064221078 工程力学 B 实验
+Engineering Mechanics Experiments B 0.5 16 0 16 0 0 0 3
+船海与能源动力工程学院 10065124170 能源动力工程材料
+Energy and Power Engineering Materials 2.5 40 36 4 0 0 0 2
+自动化学院 10133121098
+电工与电子技术基础 C
+Fundamentals of Electrical Technology & Electrical
+Engineering C
+3 48 48 0 0 0 0 3
+大学物理,
+高等数学 B
+下,高等数
+学 B 上,高
+等数学 1,高
+等数学 A
+上,高等数
+学 A 下
+数学与统计学院 10153111001 线性代数
+Linear Algebra 2.5 40 40 0 0 0 0 1
+
+
+[Page 13]
+物理与力学学院 10153113042 大学物理 B
+College Physics 5 80 80 0 0 0 0 2
+高等数学 B
+下,高等数
+学 B 上,高
+等数学 A
+下,高等数
+学 A 上,高
+等数学(gj)
+上,高等数
+学(gj)下,高
+等数学 A
+上
+数学与统计学院 10153121060 高等数学 A 下
+Advanced Mathematics AⅡ 5.5 88 88 0 0 0 0 2 高等数学 A
+上
+数学与统计学院 10153121061 高等数学 A 上
+Advanced Mathematics AⅠ 4.5 72 72 0 0 0 0 1
+物理与力学学院 10154211025 物理实验 B
+Physics Experiment 1 32 0 32 0 0 0 4 大学物理 B
+数学与统计学院 10155111054 概率论与数理统计 B
+Probability and Mathematical Statistics 3 48 48 0 0 0 0 3
+高等数学 A
+上,线性代
+数
+小 计 Subtotal 42.5 720 638 66 0 0 16
+修读说明:
+NOTE:
+（四）专业必修课程
+4 Specialized Required Courses
+船海与能源动力工程学院 10064117098 船舶动力装置原理 B
+Principle & Design of Marine Power Plant B 2 32 30 2 0 0 5 机械设计基
+础 A
+船海与能源动力工程学院 10064117099 传热学 D
+Heat Transfer D 2 32 32 0 0 0 5
+流体力学
+C,工程热力
+学 A,工程
+热力学 A,
+工程热力学
+A
+船海与能源动力工程学院 10064121054 船舶机械智能制造
+Marine Machinery Intelligent Manufacturing 2 32 30 2 0 0 5
+机械设计基
+础 A,机械
+制图,金属
+工艺学 A
+船海与能源动力工程学院 10064121057 自动控制原理 B
+Automatic Control Theory 2 32 32 0 0 0 0 4
+
+
+[Page 14]
+船海与能源动力工程学院 10064121059 工程热力学 A
+Engineering Thermodynamics A 3 48 48 0 0 0 0 5
+高等数学 A
+下,高等数
+学 A 上,大
+学物理 B
+上,大学物
+理 B 下
+船海与能源动力工程学院 10064121066
+能源动力测试技术
+Measurement Techniques of Energy and Power
+Engineering
+2 32 32 0 0 0 0 4
+高等数学 A
+下,高等数
+学 A 上,大
+学物理 B
+上,大学物
+理 B 下,电
+工与电子技
+术基础 C
+船海与能源动力工程学院 10064221081
+能源与动力工程专业综合实验(下)
+Comprehensive Experiment of Energy and Power
+Engineering 2
+0.5 16 0 16 0 0 7
+传热学 C,
+工程热力学
+A,流体力学
+D,传热学
+C,船舶制冷
+与空调技
+术,工程热
+力学 A
+船海与能源动力工程学院 10064221082
+能源与动力工程专业综合实验(上)
+Comprehensive Experiment of Energy and Power
+Engineering 1
+0.5 16 0 16 0 0 6
+内燃机学
+D,内燃机结
+构认知与实
+操 A
+船海与能源动力工程学院 10064221083
+能源动力测试技术实验
+Lab of Measurement Techniques of Energy and Power
+Engineering
+0.5 16 0 16 0 0 4 能源动力测
+试技术
+船海与能源动力工程学院 10064221084 热与流体课程实验
+Lab of Engineering Thermodynamics and Heat Transfer 0.5 16 0 16 0 0 5
+工程热力学
+与传热学
+B,工程热力
+学 A,传热
+学,工程热
+力学与传热
+学 A
+船海与能源动力工程学院 10065113021 能源概论
+Introduction to Energy 2 32 32 0 0 0 4
+船海与能源动力工程学院 10065124165 能源动力系统原理 4 64 64 0 0 0 0 6
+
+
+[Page 15]
+Internal Combustion Engine Theory D
+船海与能源动力工程学院 10066117175 可再生能源与新能源技术
+Renewable Energy and New Energy Technologies 2 32 32 0 0 7
+船海与能源动力工程学院 10187311005 专业导论
+Introduction to Specialty 1 16 16 0 0 0 0 1
+小 计 Subtotal 24 416 348 68 0 0 0
+修读说明:
+NOTE:
+（五）专业选修课程
+5 Specialized Elective Courses
+(1)专业选修（公共部分）
+船海与能源动力工程学院 10065117051 轮机自动化 A
+Marine Machinery Automation 2 32 28 4 0 6
+船海与能源动力工程学院 10065117031 船舶管系与工艺设计 B
+Design of Ship Piping System and Process 2 32 32 0 0 0 6 船舶动力装
+置原理 A
+船海与能源动力工程学院 10066121117 船舶电力系统及推进技术
+Ship Electric System and Propulsion Technology 2 32 28 4 0 0
+船海与能源动力工程学院 10065121019 船舶动力系统仿真
+Simulation of ship power system 2 32 32 0 0 0 7
+船舶辅机,
+船舶动力装
+置
+船海与能源动力工程学院 10065121007 动力机械振动理论及应用
+Vibration Theory and Application of Power Mechiney 2 32 30 2 0 0 6
+大学物理,
+高等数学 A
+下,高等数
+学 A 上,线
+性代数
+船海与能源动力工程学院 10065121006 动力定位及机桨优化配置
+DP and Optimization of Ship-engine-propulsion 2 32 32 0 0 0 6
+自动控制原
+理 E,船舶动
+力装置原理
+B
+船海与能源动力工程学院 10065117215 船舶原理 C
+Principle of Naval Architecture 2 32 32 0 0 0 0 5
+流体力学
+C,船舶流体
+力学,流体
+力学 A
+船海与能源动力工程学院 10065117018 能源与动力工程专业英语
+Specialized English of Energy and Power Engineering 2 32 32 0 0 0 0 7 内燃机学 C
+船海与能源动力工程学院 10065113020 动力机械工程微机应用技术
+Microcomputer Application Technology for Power 2 32 28 4 0 0 5 电工与电子
+技术基础 C
+
+
+[Page 16]
+Machinery Engineering
+交通与物流工程学院 10055121030 储能原理与技术
+Principle and Technology of?Energy Storage 2 32 32 0 0 0 0 5
+新能源与可
+再生能源 ,
+可再生能源
+与新能源技
+术
+船海与能源动力工程学院 10065117067 船舶辅机 B
+Marine Auxiliary Machine 2 32 32 0 0 5
+船海与能源动力工程学院 10065117198 信号分析与处理
+Signal Analysis and Disposal 2 32 32 0 0 0 0 5
+传热学 A,
+大学物理,
+高等数学 A
+下,高等数
+学 A 上,线
+性代数 A,
+工程热力学
+A
+船海与能源动力工程学院 10065117213 动力系统自动化 B
+Automation of Power System B 2 32 32 0 0 0 5 内燃机学 D
+(1)专业选修—新能源科学
+船海与能源动力工程学院 10065121016 新能源及智能船舶动力系统
+New Energy and Intelligent Ship Power System 2 32 32 0 0 0 7 船舶动力装
+置原理
+船海与能源动力工程学院 10065121015 燃烧学
+Combustion Theory 2 32 28 4 0 0 5
+流体力学
+B,工程热力
+学与传热学
+A
+船海与能源动力工程学院 10065121014
+氢能与制氢技术
+Hydrogen Energy and Hydrogen Production
+Technology
+2 32 32 0 0 0 7
+流体力学
+C,工程热力
+学与传热学
+B
+船海与能源动力工程学院 10065121003 分布式能源系统
+Distributed Energy Systems 2 32 32 0 0 0 7
+船海与能源动力工程学院 10065121017
+新能源热利用与发电技术
+Renewable energy heat utilization and power
+generation technology
+2 32 32 0 0 0 7
+工程热力学
+A,工程热力
+学 C
+船海与能源动力工程学院 10065121018 制冷与空调技术
+Refrigerating and Air-conditioning 2 32 32 0 0 0 6
+船舶制冷与
+空调技术,
+船舶制冷与
+空调技术
+
+
+[Page 17]
+(1)专业选修—先进动力科学
+船海与能源动力工程学院 10065124701 动力机械电子控制技术 A
+Power mechanoelectronic control technology 2 32 32 0 0 0 0 6
+船海与能源动力工程学院 10065124700 内燃机排放控制 A
+Emissions Control of IC Engines 2 32 32 0 0 0 0 7
+船海与能源动力工程学院 10065124182 混合动力系统原理
+Introduction to Hybrid Power 2 32 32 0 0 0 0 6
+船海与能源动力工程学院 10065117059 振动与噪声控制
+Controlling of Vibration and Noise 2 32 32 0 0 0 0 5
+大学物理,
+高等数学 A
+下,高等数
+学 A 上
+船海与能源动力工程学院 10065117025 内燃机与动力装置匹配
+Matching between IC Engines and Power Plant 2 32 32 0 0 0 7
+发动机结
+构,内燃机
+学
+船海与能源动力工程学院 10065124702 动力系统建模与仿真 A
+Simulation Calculation of IC Engine Working Process 2 32 32 0 0 0 0 6
+小 计 Subtotal 50 800 782 18 0 0 0
+修读说明:要求至少选修 22 学分，且同一方向限选课不低于 10 学分，任选课不低于 12 学分。
+NOTE:Minimum subtotal credits are 22. Students should take one specialized direction and 10 credits for limited optional courses, at least 12 credits for unlimited optional
+courses.
+（六）个性课程
+6 Personalized Elective Courses
+船海与能源动力工程学院 10062124004 船舶清洁能源技术 A
+Clean Energy Techniques for Ships 2 32 32 0 0 0 0 5
+船海与能源动力工程学院 10065117020 船舶污染控制
+Ship Pollution Control 2 32 32 0 0 0 6
+工程力学
+A,专业导
+论,流体力
+学 A
+船海与能源动力工程学院 10066117171 船舶与海洋工程概论
+Introduction to Ships and Marine Engineering 2 32 32 0 0 0 6
+船舶原理
+B,船舶动力
+装置
+船海与能源动力工程学院 10066121114 声学理论及应用
+Acoustic Theory and Application 2 32 28 0 0 4 7
+船海与能源动力工程学院 10066121116 船舶腐蚀与防护
+Corrosion and protection of ships 2 32 32 0 0 0 6
+船海与能源动力工程学院 10066124001 工程计算基础 A
+Basics of Engineering Mathematics and Computation 2 32 32 0 0 0 0 4
+
+
+[Page 18]
+小 计 Subtotal 12 192 188 0 0 4 0
+修读说明:学生从全校发布的个性课程目录中选课，要求至少选修 6 学分。
+NOTE:Students choose from the personalized curriculum catalog of the entire school, and are required to obtain at least 6 credits.
+（七）集中性实践教学环节
+7 Specialized Practice Schedule
+(1)实践课
+交通与物流工程学院 10053321195 机械设计基础课程设计
+Practice for Foundation of Mechanical Design 2 32 0 0 0 32 0 4 机械设计基
+础 A
+交通与物流工程学院 10057311034 机械制造工程实训 B
+Machinery Manufacturing Engineering Practice B 4 64 0 0 0 64 0 4
+工程图学 A
+上,互换性
+与测量技术
+B,工程图学
+B,工程图学
+A 下
+船海与能源动力工程学院 10067317187 能源动力系统课程设计
+Course Design of Energy and Power System 3 48 0 0 0 48 7
+工程图学
+B,内燃机学
+D,机械设计
+基础 A
+船海与能源动力工程学院 10067321109 工程热力学和传热学课程设计
+Course Design on Thermodynamics and Heat Transfer 0.5 8 0 0 0 8 5
+工程热力
+学,传热学,
+机械制图
+船海与能源动力工程学院 10067324146 毕业设计(论文)
+Graduation Project (Thesis) 8 0 0 0 0 0 0 8
+自动化学院 10137311009 电工电子实习 B
+Practice of Electrical Engineering & Electronics 1 16 0 0 0 16 0 3
+电工学,电
+工学,电工
+学,电工学,
+电工学
+船海与能源动力工程学院 10191111001 内燃机结构认知 B
+Structure Acknowledge for Internal Combustion Engine 2 32 0 0 0 32 0 6
+船海与能源动力工程学院 10194111001 生产实习
+Specialty Practice 3 48 0 0 0 48 0 6
+内燃机学
+D,能源与动
+力工程专业
+综合实验
+(下),能源与
+动力工程专
+业综合实验
+(上),动力机
+
+
+[Page 19]
+械监测与控
+制
+小 计 Subtotal 23.5 248 0 0 0 248 0
+修读说明:
+NOTE:
+
+
+[Page 20]
+五、 修读指导
+5 Recommendations on Course Studies
+1.课外培养方案详见《武汉理工大学第二课堂课外学分实施办法》。
+2.汉语授课本科层次国际学生汉语类课程修读要求详见《武汉理工大学本科层次国际学生公共汉语课程
+设置与修读要求》，其它课程修读与中国学生培养方案保持一致。
+3.各专业应不断强化劳动教育，将劳动要素融入专业教育，充分依托实习实训、社会调查等实践教学环
+节，设置劳动教育模块，标注含不少于 32 学时（2 学分）的劳动教育，明确劳动教育的目标、内容、形
+式和考核要求。
+1.Please refer to the cultivation plan of the second class-Implementation Measures for Extracurricular Credits of
+the Second Class of Wuhan University of Technology.
+2.Chinese courses for International students accepting Chinese teaching at undergraduate level can be found in
+detail the Public Chinese Curriculum and Study Requirements for International Students at undergraduate level of
+Wuhan University of Technology, and the study of other courses should be consistent with the undergraduate
+training program for Chinese students.
+3.All majors should continue to strengthen labor education, integrate labor elements into specialty education, fully
+rely on practical teaching links such as practical training and social investigation, set up labor education modules,
+label labor education with no less than 32 class hours (2 credits), and clarify the goal, content, form and
+assessment requirements of labor education.
+个课外学分。10 课外培养方案详见《武汉理工大学第二课堂课外学分实施办法》，共计
+Please refer to the cultivation plan of the second class-Implementation Measures for
+Extracurricular Credits of the Second Class of Wuhan University of Technology，with a total
+of 10 extracurricular credits.
+学院教学负责人：王冲
+专业培养方案负责人：贺玉海
+
+
+[Page 21]
+附件：课程教学进程图
+Annex：Teaching Process Map

@@ -1,0 +1,918 @@
+
+
+[Page 1]
+1  
+  
+海洋科学与工程系 
+海洋工程与技术专业本科人才培养方案 
+（2021 级） 
+ 
+一、系部专业介绍 
+海洋工程与技术专业是一门有效合理地开发和利用海洋资源的新兴综合专业学科。 新兴海洋工程包括
+海岸线的建设与防护，岛屿开发建设，在大陆架较浅水域的海上平台、海底管线等工程设施；在大陆架较
+深水域的石油和天然气勘探开釆平台、半潜式平台、大型浮式储油库、大型浮式机场、浮式风机、深海浮
+式牧场、海上新能源平台等高端海洋工程设施；在深水海域的无人船或无人潜水器、远程遥控的海底无人
+采矿设施、深水海底管线及立管系统等海底工程设施和深海高端装备；基于大数据平台和物联网云服务的
+智能海洋工程系统设施。海洋工程产业是一项周期较长、资金密 集、科技密集的高新技术产业，对我国综
+合国力的提升有着至关重要的影响。 新兴海洋工程与技术学科是为上述海洋工程设施的勘察、 设计、 建造、
+海上安装与维护提供支持与决策的工程技术学科， 是我国“海洋强国”战略与中长期“深海战略”发展人才紧缺
+的专业学科。 
+南方科技大学海洋工程与技术专业在教育部“新工科”建设的指导思想下办学，为深圳市践行社会主义
+先行示范区的“新基建”建设服务，为深圳市建设全球海洋中心城市的目标培养具有国际视野的高素质人才，
+填补国家、粤港澳大湾区和深圳市在海洋工程与技术专业的高端人才需求缺口。具有南科大特色 的海洋工
+程与技术专业，改变传统填鸭式理论教学方式，以多学科交叉融合为特点、寓教于海洋工程实践项目，通
+过项目设计系列综合课程的设置，着重培养学生的创新能力、实践能力与独立解决实际问题的能力，培养
+具有国际竞争力的专业技术人才。 
+二、专业培养目标及培养要求 
+（一）培养目标 
+   本专业培养具有良好的思想道德素质和较高的人文科学素养，具备海洋工程与技术的基本理论、基础
+知识和基本技能，系统掌握海洋工程及高端技术特定领域专业知识和专项技能，能在海洋工程、海洋高端
+
+
+[Page 2]
+2  
+技术及相关领域从事科研、管理、设计、建设及技术研发等多方面的工作，具有国际视野的高素质科技专
+门人才。 
+（二）培养要求 
+毕业生应获得以下几个方面的知识和能力： 
+1 具有从事海洋工程方案论证、设计、施工及工程问题研究所需要的相关数学和自然科学、人文社会
+科学知识； 
+2 具有从事海洋工程方案论证、设计、施工及工程问题研究所需要的坚实的专业基础知识及技能。包
+括坚实的海洋工程相关力学基础知识，适用于新兴海洋工程需要及发展的工程材料相关知识，适于新型海
+洋工程需要和发展的相关加工、装配、质量控制及制图知识与技能； 
+3 系统深入地掌握海洋工程领域的工程技术理论和方法。包括海洋工程设计相关理论与方法，海洋工
+程施工相关知识，海洋工程发展及前沿领域相关知识，海洋工程领域新材料、新工艺、新设备相关知识，
+对海洋工程涉及的交叉技术有广泛且深入的理解，并对现代社会问题、对工程与世界和社会的影响关系等
+具有独特的认识，对海洋工程领域相关规程规范具有学习和掌握的能力； 
+4 具有适于现代海洋工程国际化发展需要的外语知识及国际工程管理知识。包括掌握至少1门外语，
+熟悉国际工程管理相关知识等； 
+5 具有适于海洋工程发展需要的知识积累和能力。包括终身学习与独立获取知识的能力、运用计算机
+建立数学模型的能力和熟练掌握使用仪器设备的能力； 
+6 具有从事大型海洋工程设计施工及解决工程实际问题的能力。包括分析问题的能力、计划与综合能
+力、动手能力、解决实际工程问题的能力，以及在海洋工程行业规程和相关法律法规规定的范围内，按相
+应的质量标准与程序开展工作的能力； 
+7 具有海洋工程项目管理与实施能力。包括具有组织协调、衔接工程项目，适应技术和管理变化的能
+力；具有设计、预算、组织、指挥和管理工程项目，整合必要人力和资源的基本能力；具有组织领导项目
+组，协调项目活动，完成工程项目的能力；具有应对突发事件的能力； 
+8 具有适于海洋工程发展需求的创新能力。包括创造性与批判性思维能力、逻辑推理能力与创新能
+力； 
+9 具有适于海洋工程从业需要的心理素质，身体素质和职业道德素质； 
+10 具备有效的沟通与交流能力，和一定的领导能力。 
+三、学制、授予学位及毕业学分要求  
+1、学制：4年。按照学分制管理机制，实行弹性学习年限，但不得低于3年或超过6年。 
+2、学位：对完成并符合本科培养方案学位要求的学生，授予工学学士学位。 
+3、最低学分要求：海洋工程本科专业毕业最低学分要求为149学分（不含英语课学分）。课程结构要
+
+
+[Page 3]
+3  
+求如下： 
+课程模块 课程类别 最低学分要求 
+通识必修课程（55 学分） 
+理工基础类 28 
+军事体育类 8 
+思想政治品德类 16 
+写作与交流类 2 
+劳育类 1 
+通识选修课程（13 学分） 
+人文类 4 
+社科类 4 
+艺术类 2 
+理工类 3 
+专业课程（81 学分） 
+专业基础课 29 
+专业核心课 24 
+专业选修课 14 
+实践课程(包括毕业论文、实习、
+科研创新项目） 14 
+合计（不含英语课学分） 149 
+四、专业类及专业代码 
+专业类：海洋工程类（0819）；专业代码：海洋工程与技术（081902T）。 
+五、专业主要（干）课程 
+本专业的基础课程为：概率论与数理统计、海洋工程概论、理论力学 I-B、材料力学、结构力学 I、流
+体力学、土力学、海洋工程水动力学、工程施工与项目管理、CAD 与工程制图、电路基础。 
+本专业的核心课程为：海洋工程设计 I、海洋工程设计 II、海洋工程设计 III、海洋工程设计 IV、土力学
+实验、水动力学实验、海洋工程材料与结构实验、海洋工程材料与结构等。 
+六、主要实践性教学环节  
+主要实践性教学主要包括： 认知实习、 生产实习、 科技创新项目， 毕业论文 （设计） 等。 另外， 为落实
+教育部新工科教育， 大量实践性教学包含于专业特色的海洋工程设计I、 海洋工程设计II、 海洋工程设计III、
+海洋工程设计 IV 系列课程。 
+七、进入专业前应修读完成课程的要求 
+进入专业时间 课程编号 课程名称 先修课程 
+第一学年结束时
+申请进入专业 
+MA101B 高等数学（上）A 
+Calculus I A  
+MA102B 高等数学（下）A 
+Calculus II A MA101B 
+PHY103B 大学物理 (上) B 
+General Physics B (I)  
+PHY105B 大学物理(下) B 
+General Physics B (II) PHY103B 
+
+
+[Page 4]
+4  
+MA107A 线性代数 A 
+Linear Algebra A  
+CS102B 计算机程序设计基础 B 
+Introduction to Computer Programming B  
+第二学年结束时
+申请进入专业 
+MA101B 高等数学（上）A 
+Calculus I A  
+MA102B 高等数学（下）A 
+Calculus II A MA101B 
+PHY103B 大学物理 (上) B 
+General Physics B (I)  
+PHY105B 大学物理(下) B 
+General Physics B (II) PHY103B 
+MA212 概率论与数理统计 
+Probability and Mathematical Statistics MA102B 
+CS102B 计算机程序设计基础 B 
+Introduction to Programming B  
+MAE203B 理论力学 I-B 
+Theoretical Mechanics I-Statics and Dynamic MA107A 
+1. 第二学年结束时申请进入专业，原则上应已修读完培养方案中总学分的40%的学分 
+2. 个别优秀的学生也可视已修课程情况由专业教指委讨论决定。 
+ 
+八、通识必修课程教学修读要求 
+1、理工基础类课程 
+课程 
+编号 
+课程名称 
+（中英文名） 学分 其中实
+验学分 
+周 
+学时 
+开课 
+学期 
+建议修课
+学期 
+先修 
+课程 
+开课
+院系 
+MA101B 高等数学（上）A 
+Calculus I A 4 0 4 春秋 1/秋  数学 
+MA102B 高等数学（下）A 
+Calculus II A 4 0 4 春秋 1/春 MA101B 数学 
+MA107A 线性代数 A 
+Linear Algebra A 4 0 4 春秋 1/秋  数学 
+PHY103B 大学物理 (上) B 
+General Physics B (I) 4 0 4 春秋 1/秋  物理 
+PHY105B 大学物理(下) B 
+General Physics B (II) 4 0 4 春秋 1/春 PHY103B 物理 
+CH101B 化学原理 B 
+General Chemistry 3 0 3 春秋 3/秋  化学 
+CS102B 
+计算机程序设计基础 B 
+Introduction to Computer 
+Programming B 
+3 1 4 春秋 1/春秋  计算
+机 
+PHY104B 
+基础物理实验 
+Experiments of Fundamental 
+Physics 
+2 2 4 春秋 1/春秋  物理 
+合计 28 3 31     
+ 
+2、军事体育类课程 
+课程 
+编号 
+课程名称 
+(中英文) 学分 其中实
+验学分 
+周学
+时 
+开课
+学期 
+建议修
+课学期 
+授课
+语言 
+先修
+课程 
+开课 
+院系 
+GE102 军事理论 
+Military Theory 2   
+开学前 
+C 无 学生工
+作部 GE104 军事技能 
+Military Skills 2 2  C 无 
+GE131 体育 I 1  2 秋 1/秋 C 无 体育 
+
+
+[Page 5]
+5  
+Physical Education I 中心 
+GE132 体育 II 
+Physical Education II 1  2 春 1/春 C 无 
+GE231 体育 III 
+Physical Education III 1  2 秋 2/秋 C 无 
+GE232 体育 IV 
+Physical Education IV 1  2 春 2/春 C 无 
+GE331 体育 V 
+Physical Education V 0  2 秋 3/秋 C 无 
+GE332 体育 Ⅵ 
+Physical Education Ⅵ 0  2 春 3/春 C 无 
+合计 8 2       
+注： 体育课程四年修读， 为必修课。 第1-4 学期的体育Ⅰ-体育Ⅳ为体育选项课， 每学期1 学分； 第5-6 学期的体育 V-体育Ⅷ
+为体育选项课，不设学分，具体按照体育中心公布《南方科技大学体育课程方案》执行。 
+ 
+3、思想政治品德类课程 
+4. 劳育课程 
+32 学时，1 学分 
+课程 
+编号 
+课程名称 
+（中英文名） 学分 其中实
+验学分 
+周 
+学时 
+开课 
+学期 
+建议修
+课学期 
+先修 
+课程 开课院系 
+IPE105 形势与政策 
+Situation and Policy 2  2 春秋 
+1-3/春
+秋 
+无 
+思政中心 
+IPE103 
+中国近现代史纲要 
+The Outline of Modern and 
+Contemporary History of China 
+2  2 春秋 无 
+IPE101 
+思想道德修养和法律基础 
+Cultivation of Ethic Thought and 
+Fundamentals of Law 
+2  2 春秋 无 
+IPE104 
+毛泽东思想和中国特色社会主义理论
+体系概论 
+Mao Zedong Thought and 
+Introduction to the Theoretical System 
+of Socialism with Chinese 
+Characteristic 
+3  3 春秋 无 
+IPE102 马克思主义基本原理概论 
+The Basic Principles of Marxism 2  2 春秋 无 
+IPE107 
+马克思主义基本原理实践课 
+Practice Course of the Basic Principles 
+of Marxism 
+1 1  春秋夏 
+ 
+无 
+IPE106 
+思想道德修养与法律基础实践课 
+Practice Course of the Basic Principles 
+of Marxism 
+1 1  春秋夏 
+ 
+无 
+IPE109 
+中国近现代史纲要实践课 
+Practice Course of Brief History of 
+Modern China 
+1 1  春秋夏 
+ 
+无 
+IPE110 
+毛泽东思想和中国特色社会主义理论
+体系概论实践课 
+Practice Course of Introduction to Mao 
+Zedong Thought and Theoretical 
+System of Socialism with Chinese 
+Characteristic 
+2 2  春秋夏 
+ 
+无 
+总计 16 5      
+
+
+[Page 6]
+6  
+5、中文写作与交流类课程 
+课程 
+编号 
+课程名称 
+（中英文名） 学分 其中实
+验学分 
+周 
+学时 
+开课 
+学期 
+建议修
+课学期 
+先修 
+课程 
+开课 
+院系 
+HUM032 写作与交流 
+Writing and Communication Skills 2 0 2 春秋 1/春秋 无 人文中心 
+总计 2 0      
+6、外语类课程 
+学生在入学后进行语言测试，根据测试结果，确定修读类别分级修读： 
+A 类修读 SUSTech English III、 English for Academic Purposes，合计 6 学分； 
+B 类修读 SUSTech English II、SUSTech English III、 English for Academic Purposes，合计 10 学分； 
+C 类修读 SUSTech English I、SUSTech English II、SUSTech English III、 English for Academic Purposes，
+合计 14 学分。 
+课程 
+编号 
+课程名称 
+（中英文名） 学分 其中实
+验学分 
+周 
+学时 
+开课 
+学期 
+开课 
+院系 
+CLE021 SUSTech English I 4 0 4 秋 
+语言中心 CLE022 SUSTech English II 4 0 4 春秋 
+CLE023 SUSTech English III 4 0 4 春秋 
+CLE030 English for Academic Purposes 2 0 2 春秋 
+ 
+九、通识选修课程修读要求 
+1、人文类课程最低修读要求 4 学分、社科类课程最低修读要求 4 学分、艺术类课程最低修读要求 2 学分。 
+2、理工类课程：下列课程中至少修读 3 学分 
+ 
+  
+课程 
+编号 
+课程名称 
+（中英文名） 学分 其中实
+验学分 
+周 
+学时 
+开课 
+学期 
+建议修
+课学期 
+先修 
+课程 
+开课 
+院系 
+BIO102B 生命科学概论 
+Introduction to Life Science 3  3 春秋 1/春秋 无 生物 
+CS103 人工智能导论 
+Introduction to Artificial Intelligence 2  2 秋 1/秋 无 计算机 
+ME232 机器人引论 
+Prolegomenon to Robotics 3  3 春 1/春 无 机械 
+PHYS001 基础物理开放实验 
+Open Physics Laboratory I 1 1 2 夏 1/夏 无 物理 
+总计 9 1 10     
+
+
+[Page 7]
+7  
+十、专业课程教学安排一览表 
+表 1 专业必修课（基础课与专业核心课）教学安排一览表 
+海洋工程与技术专业 
+课程
+类别 
+课程 
+编号 
+课程名称 
+(中英文) 
+学
+分 
+其中
+实验
+学分 
+周
+学
+时 
+开课
+学期 
+建议
+修课
+学期 
+授课
+语言 先修课程 开课
+院系 
+专
+业
+基
+础
+课 
+ME102 
+CAD 与工程制图 
+CAD and Engineering 
+Drawing 
+3 2 5 春/秋 1/秋 B/E  机械
+系 
+MA212 
+概率论与数理统计 
+Probability and 
+Mathematical Statistics 
+3 0 3 春秋 1/春
+秋 E MA102B 数学
+系 
+OCE107 
+海洋工程概论* 
+Introduction of Ocean 
+Engineering 
+3 0 3 春 1/春 E  海洋
+系 
+EE104 
+电路基础 
+Fundamentals of 
+Electric Circuits 
+2  0 2 春/秋 
+1/春
+或 2/
+秋 
+B MA101B 
+MA107A 
+电子
+系 
+MAE203B 
+理论力学 I-B 
+Theoretical Mechanics I-
+Statics and Dynamic 
+3 0 3 秋 2/秋 E MA107A 力学
+系 
+MAE303 流体力学 
+Fluid Mechanics 3 0 3 秋 3/秋 B  力学
+系 
+OCE209 土力学 
+Soil Mechanics 3 0 3 秋 2/秋 E  海洋
+系 
+MAE202 材料力学 
+Material Mechanics 3 0 3 春 2/春 B MA107A 
+MA102B 
+力学
+系 
+OCE322 结构力学 I 
+Structural Mechanics I 3 0 3 秋 3/秋 E  海洋
+系 
+OCE329 
+工程施工与项目管理** 
+Engineering Construction 
+and Project Management 
+3 0 3 秋 3/秋 B/E  海洋
+系 
+OCE207 海洋工程水动力学*** 
+Offshore Hydrodynamics 3 0 3 春 3/春 E  海洋
+系 
+合计 32 2 34 专业基础课中 ME102，EE104，和 OCE329 三门课中至
+少选 2 门课，多出的学分算作专业选修学分 
+专
+业
+核
+心
+课 
+OCE213 
+海洋工程设计 I：环境、
+经济与法律**** 
+Ocean Engineering 
+Design I 
+3 1 4 秋 2/秋 E  海洋
+系 
+OCE211 
+海洋工程设计 II：系泊与
+基础**** 
+Ocean Engineering 
+Design II  
+3 1 4 春 2/春 E  海洋
+系 
+OCE338 结构设计 
+Structural Design 3 0 3 秋 2/秋 E  海洋
+系 
+OCE339 
+海洋工程设计 III：固定式
+平台与浮式平台**** 
+Ocean Engineering 
+Design III 
+3 1 4 秋 3/秋 E  海洋
+系 
+OCE324 
+海洋工程材料与结构实验 
+Marine Engineering 
+Materials and Structure 
+Experiment 
+1 1 2 春 2/3 春 E  海洋
+系 
+OCE327 
+土力学实验 
+Soil Mechanics 
+Experiment 
+1 1 2 秋 3/秋 B/E OCE209 海洋
+系 
+OCE328 水动力学实验 
+Hydrodynamic 1 1 2 春 3/春 E  海洋
+系 
+
+
+[Page 8]
+8  
+Experiment 
+OCE326 
+海洋工程设计 IV：资源
+开发与设备**** 
+Ocean Engineering 
+Design IV 
+3 1 4 春 3/春 E  海洋
+系 
+OCE208 
+海洋工程材料 
+Marine Engineering 
+Materials and Structures 
+3 0 3 春 2 春 E  海洋
+系 
+OCE320 
+海洋工程监测技术 
+Monitoring Technology 
+for Ocean Engineering 
+3 0 3 秋 3/秋 E  海洋
+系 
+合计 24 7 31  
+实
+践
+课
+程 
+OCE473 认知实习 
+Production Practice 2 2 4 春 2/春 C  海洋
+系 
+OCE474 生产实习 
+Fieldwork 2 2 4 夏 3/夏 C  海洋
+系 
+OCE480 
+科研创新项目 
+Projects of Science and 
+Technology Innovation 
+2 2 4 秋 4/秋 B  海洋
+系 
+OCE490 
+毕业论文（设计） 
+Thesis (Graduation 
+Project) 
+8 8 16 春 4/春 B  海洋
+系 
+合计 14 14 28  
+合计 70 23 93  
+注*：如学生已修读《工程学引论》 （ME111，3 学分） ，可以此课程替代《海洋工程概论》 （OCE107，3 学分） 。 
+注**：工程施工与项目管理包括管理概论、工程项目管理和工程经济； 
+注***：海洋工程水动力学包含波浪力学和浮体性能 
+注****：海洋工程设计 I 包含海洋工程环境、工程项目管理、工程经济与法律法规以及可行性分析；海洋工程设计II 包含海洋管
+线、系泊系统及海洋基础；海洋工程设计 III 包含海洋固定及浮式平台工程材料及结构设计；海洋工程设计IV 包含海洋资源开发
+与设备 
+（授课语言：C 中文；B 中英双语；E 英文）  
+  
+
+
+[Page 9]
+9  
+表 2 专业选修课教学安排一览表 
+海洋工程与技术专业 
+课程 
+编号 
+课程名称 
+(中英文) 
+学 
+分 
+其中
+实验
+学分 
+周学
+时 
+开课
+学期 
+建议
+修课
+学期 
+授课
+语言 先修课程 开课
+院系 
+海洋工程类 
+OCE470 地质实习 
+Geology Field Trip 2 2 4 夏 2/夏 B OCE100 
+OCE202 
+海洋
+系 
+ME301 动力学与机械振动 
+Dynamics and Vibration 2 1 3 秋 3/秋 B MAE203 
+MA201b 
+机械
+系 
+ME303 
+机械设计基础 
+Fundamentals of Machine 
+Design 
+3 0 3 春/
+秋 3/秋 E 
+ME102 
+MAE203  
+MAE202 
+机械
+系 
+OCE331 复合材料结构的稳定性与破坏 
+Stability & Failure of Composite 
+Structures 
+3 0 3 秋 3/秋 E  海洋
+系 
+MAE304 弹性力学 
+Elastic Mechanics 4 0 4 春 3/春 C MAE203 
+MAE202 
+力学
+系 
+ME363 
+先进复合材料原理与应用
+Application of Advanced 
+Composite Materials 
+3 0 3 春 3/春 B  机械
+系 
+OCE304 
+计算海洋学基础 
+Introduction to Computational 
+Oceanography 
+3 0 3 春 3/春 B CS102B 海洋
+系 
+OCE335 海底天然气水合物勘探与开采 
+Exploration and Production of 
+Oceanic Gas Hydrates 
+3 0 3 春 3/春 E  海洋
+系 
+OCE323 结构力学 II 
+Structural Mechanics II 3 0 3 春 3/春 E  海洋
+系 
+OCE336 地基处理 
+Ground Improvement 3 0 3 春 3/春 E  海洋
+系 
+OCE337 组合结构 
+Composite Structures 3 0 3 春 3/春 E  海洋
+系 
+OCE334 海洋结构动力学 
+Dynamics of Offshore Structures 3 0 3 春 3/春 E  海洋
+系 
+MAE403 计算流体力学 
+Computational Fluid Dynamics 3 0 3 秋 4/秋 B  力学
+系 
+MAE409 有限元法 
+Finite Element Method 3 0 3 春秋 4/秋 B  力学
+系 
+OCE414 混凝土结构的耐久性与加固 
+Durability and Reinforcement of 
+Concrete Structures 
+3 0 3 秋 4/秋 E  海洋
+系 
+OCE415 结构疲劳及断裂分析 
+Fatigue & Fracture in Marine 
+Structures 
+3 0 3 秋 4/秋 E  海洋
+系 
+OCE416 
+工程，可持续性和环境 
+Engineering, Sustainability and 
+the Environment 
+2 0 2 春 4/春 E  海洋
+系 
+OCE419 
+海洋可再生能源 
+Offshore Environment and 
+Sustainable Energy 
+2 0 2 春 4/春 E  海洋
+系 
+OCE420 海洋油气集输管道 
+Offshore Pipelines 2 0 2 春 4/春 E  海洋
+系 
+OCE422 系泊系统 
+Moorings and Risers 2 0 2 春 4/春 E  海洋
+系 
+
+
+[Page 10]
+10  
+智能海洋技术 
+EE205 信号和系统 
+Signals and Systems 3 1 4 秋 2/秋 B MA101B 电子
+系 
+OCE210 智能海洋探测 
+Smart Ocean Exploration 3 0 3 春 2/春 E  海洋
+系 
+ESE329 遥感原理 
+Principles of Remote Sensing 3 0 3 春 2/春 C 
+MA102B 
+PHY105B 
+ESE201 
+环境
+学院 
+EE323 数字信号处理 
+Digital Signal Processing 3 1 4 秋 3/秋 E EE205 电子
+系 
+ESE317 地理信息系统与遥感应用 
+Application of GIS & RS 3 0.5 3.5 秋 3/秋 C CS102B 
+ESE201 
+环境
+学院 
+ESS303 
+空间大地测量学概论
+Fundamentals of Space 
+Geodetics 
+3 0 3 秋 3/秋 B MA101B 
+MA107A 
+地空
+系 
+ME307 
+控制工程基础 
+Fundamentals of Control 
+Engineering 
+3 0 3 秋 3/秋 B EE104 机械
+系 
+ME306 机器人基础 
+Intelligent Robot Technology 3 3 6 春 3/春 B  机械
+系 
+ME431 
+机器人应用与创新 
+Application and Innovation of 
+Robot 
+3 3 6 春 3/春 B  机械
+系 
+CS405 机器学习 
+Machine Learning 3 0 3 秋 4/秋 B MA212 
+MA107A 
+计算
+机系 
+OCE402 
+海洋地震观测基础 
+Fundamentals of Marine 
+Seismology Observations 
+3 0 3 秋 4/秋 B OCE304 海洋
+系 
+OCE406 天然灾害与监测 
+Natural Hazards and Monitoring 2 0 2 秋 4/秋 B  海洋
+系 
+其他类 
+OCE105 
+海滨地貌原理 
+Introduction to Coastal 
+Morphology 
+3 0 3 秋 1/秋 B  海洋
+系 
+OCE302 
+海洋生态系统导论 
+Introduction to Marine 
+Ecosystem 
+3 0 3 秋 2/秋 B  海洋
+系 
+OCE100 海洋科学概论 
+Principles of Oceanography 3 0 3 春 2/春 B  海洋
+系 
+OCE314 卫星海洋学 
+Satellite Oceanography 3 0 3 春 3/春 B  海洋
+系 
+OCE471 海上实习 
+Marine Cruises 2 2 4 夏 3/夏 B OCE100 海洋
+系 
+合计 104 13.5 11 7 . 5  
+注： 以上课程至少选修14 学分； 本系选修课至少选修8 学分。第二年结束进入专业的学生， 部分已修相近课程可认定为
+专业选修课学分。 
+注**：如学生已修读《有限元理论与工程实践》（ME314，3 学分），可以此课程替代《有限元法》（MAE409，3 学
+分）。 
+ 
+  
+
+
+[Page 11]
+11  
+表 3 实践性教学环节安排表 
+海洋工程与技术专业   
+课程 
+编号 
+课程名称 
+(中英文) 
+学分 其中
+实验
+学分 
+周学
+时 
+开课
+学期 
+建议
+修课
+学期 
+授课语
+言 
+先修课程 开课
+院系 
+ME102 CAD 与工程制图 
+CAD and Engineering Drawing 3 2 5 秋/春 1/秋 B/E  机械
+系 
+BIO104 普通生物学实验 
+General Biology Laboratory 2 2 4 春 1/春 B BIO102B 
+或 BIO103 
+生物
+系 
+OCE210 海洋工程设计 I 
+Ocean Engineering Design I 3 1 4 秋 2/秋 E  海洋
+系 
+OCE211 海洋工程设计 II 
+Ocean Engineering Design II 3 1 4 春 2/春 E  海洋
+系 
+OCE324 
+海洋工程材料与结构实验 
+Marine Engineering Materials 
+and Structure Experiment 
+1 1 2 春 2/春 E OCE322 海洋
+系 
+OCE473 认知实习 
+Fieldwork 2 2 4 春 2/春 C  海洋
+系 
+OCE339 海洋工程设计 III 
+Ocean Engineering Design III 3 1 4 秋 3/秋 E  海洋
+系 
+OCE327 土力学实验 
+Soil Mechanics Experiment 1 1 2 秋 3/秋 B/E OCE209 海洋
+系 
+OCE328 水动力学实验 
+Hydrodynamic Experiment 1 1 2 春 3/春 E  海洋
+系 
+OCE326 海洋工程设计 IV 
+Ocean Engineering Design IV 3 1 4 春 3/春 E  海洋
+系 
+OCE474 生产实习 
+Production Practice 2 2 4 夏 3/夏 C  海洋
+系 
+OCE480 
+科研创新项目 
+Projects of Science and 
+Technology Innovation 
+2 2 4 秋 4/秋 B  海洋
+系 
+OCE490 毕业论文（设计） 
+Thesis (Graduation Project) 8 8 16 春 4/春 B  海洋
+系 
+以下为选修课程 
+CS207 数字逻辑 
+Digital Logic 3 1 4 秋/春 2/秋 E  计算
+机 
+EE205 信号和系统 
+Signals and Systems 3 1 4 秋 2/秋 B MA101B 电子
+系 
+OCE470 地质实习 
+Practice of Geology 2 2 4 夏 2/夏 B OCE100 
+OCE202 
+海洋
+系 
+CS321 创新实践 I 
+Group Projects I 2 2 4 秋 3/秋 B  计算
+机 
+ME301 动力学与机械振动 
+Dynamics and Vibration 2 1 3 秋 3/秋 B MAE203B 
+MA201b 
+机械
+系 
+EE323 数字信号处理 
+Digital Signal Processing 3 1 4 秋 3/秋 E EE205 电子
+系 
+ESE317 地理信息系统与遥感应用 
+Application of GIS & RS 3 0.5 3.5 秋 3/秋 C CS102B 
+ESE201 
+环境
+学院 
+OCE471 海上实习 
+Marine Cruises 2 2 4 夏 3/夏 B OCE100 海洋
+系 
+合计  52 33.5 85.5 
+ 
+                                                      
+ 
+  
+
+
+[Page 12]
+12  
+表 4 学时、学分汇总表 
+海洋工程与技术专业 
+ 总学时 总学分 最低学分要求 占总学分百分比 
+通识必修课程（不含英语课学分） 864 55 55 37% 
+通识选修课程   13 9% 
+专业基础课 544 32 29 19% 
+专业核心课 496 24 24 16% 
+专业选修课 1880 104 14 9% 
+实践课程（包括毕业论文/设计、科技
+创新项目、专业实习） 448 14 14 9% 
+合计（不含英语课学分） 4232 229 149 100% 
+
+
+[Page 13]
+13  
+海洋工程与技术专业课程结构图 
+  
+
+
+
+[Page 14]
+14  
+海洋工程与技术专业建议选课指导计划范例（不含英语课，军训） 
+  
+ 

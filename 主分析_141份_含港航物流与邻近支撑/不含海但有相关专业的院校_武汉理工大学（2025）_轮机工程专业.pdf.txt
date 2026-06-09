@@ -1,0 +1,929 @@
+
+
+[Page 1]
+轮机工程专业 2024 版本科培养方案
+Undergraduate Education Plan for Specialty in
+Marine Engineering(2024)
+专业名称 轮机工程 主干学科 船舶与海洋工程
+Major Marine Engineering Major Disciplines Marine and Ocean
+Engineering
+计划学制 四年 授予学位 工学学士
+Duration 4years Degree Granted Bachelor of Engineering
+最低毕业学分规定
+Graduation Credit Criteria
+课程分类
+Course
+Classification
+课程性质
+Course Nature
+通识教育课程
+General
+Education
+Courser
+学科基础课程
+Disciplinary
+Fundamental
+Courses
+专业课程
+Specialty
+Elective
+Courses
+个性课程
+Personalized
+Course
+集中性实践
+教学环节
+Specialized
+Practice
+Schedule
+课外学分
+Extra- Course
+Credits
+总学分
+Total
+Credits
+必修课
+Required Courses 38 39 33 \ 25
+10 175选修课
+Elective Courses 9 \ 21 \ \
+一、专业简介
+1 Professional Introduction
+轮机工程专业立足于国家建设航运强国的战略，适应于航运业发展的需求，特别是面对即将到
+来的船舶智能化和智能船舶管理的挑战，按照教育部建设“新工科”精神和学校“宽口径、厚基础、
+强能力、高素质”人才培养思路，以船舶动力装置、船舶电力系统和轮机自动化等学科为支撑，重
+点突出船舶机电一体化下对电、测、控等方面的课程和实践教育，培养具有航海教育背景的工程技
+术人才和复合型人才。本专业 2019 年获首批国家级一流本科专业建设点，是国家级特色专业、国
+防特色专业、湖北省品牌专业。轮机工程专业为教育部唯一一所重点高校开设的航海类专业。
+本专业立足武汉理工大学船舶与海洋工程优势特色学科、一级学科国家重点学科、“ 双一流学科”
+和国家 A+ 学科办学,拥有一支以院士、国家重点自然科学基金获得者、首席教授为引领，特色专
+业责任教授、精品课程名师、青年教学名师等优秀中青年教师为骨干的高水平教师队伍。近五年，
+专业教师承担省部级以上教学研究与改革项目 15 项，荣获国家教学成果二等奖 1 项，湖北省教
+学成果特等奖 1 项、一等奖 3 项、二等奖 1 项。学生在中国“互联网+”大学生创新创业大赛、
+“挑战杯”全国大学生课外学术科技作品竞赛和创业计划大赛、全国大学生交通运输科技大赛、全
+国大学生节能减排社会实践与科技竞赛、全国海洋航行器设计与制作大赛等赛事中共获奖 122 项，
+其中包括国家级特等奖 2 项、国家级一等奖 10 项、国家级二等奖 12 项、国家级三等奖 9 项、省部
+级特等奖 22 项等大奖。
+The Marine Engineering major is based on the strategy of building a strong shipping country in the
+country, adapting to the needs of the development of the shipping industry, especially in the face of the
+upcoming challenges of ship intelligence and intelligent ship management. In accordance with the spirit of
+the Ministry of Education's "New Engineering" construction and the school's "Wide caliber, Thick
+
+
+[Page 2]
+Foundation, Strong Ability, and High Quality" talent training ideas, supported by disciplines such as ship
+power equipment, ship power system, and marine automation, the emphasis is on courses and practical
+education in electricity, measurement, control, and other aspects under the integration of ship mechanics
+and electronics, to cultivate engineering and technical talents and composite talents with a background in
+navigation education. This major was awarded the first batch of national first-class undergraduate major
+construction sites in 2019, and is a national characteristic major, national defense characteristic major, and
+Hubei Province brand major. The Marine Engineering major is the only navigation related major offered by
+the Ministry of Education as a key university.
+This major is based on the advantageous characteristic disciplines of Ship and Ocean Engineering at Wuhan
+University of Technology, a first-class discipline, a national key discipline, a "Double First Class
+Discipline", and a national A+discipline. It has a high-level teaching team led by academicians, recipients
+of the National Key Natural Science Foundation, and chief professors, with outstanding young and middle-
+aged teachers as the backbone, including characteristic professional responsibility professors, excellent
+course teachers, and young teaching teachers. In the past five years, professional teachers have undertaken
+15 teaching research and reform projects at or above the provincial and ministerial levels, and have won 1
+second prize of the National Teaching Achievement Award, 1 special prize of Hubei Province Teaching
+Achievement Award, 3 first prizes, and 1 second prize. Students won 122 awards in China's "Internet plus"
+Undergraduate Innovation and Entrepreneurship Competition, the "Challenge Cup" National
+Undergraduate Extracurricular Academic Science and Technology Works Competition and
+Entrepreneurship Plan Competition, the National Undergraduate Transport Science and Technology
+Competition, the National Undergraduate Energy Conservation and Emission Reduction Social Practice
+and Science and Technology Competition, the National Marine Vehicle Design and Production Competition
+and other events, including 2 national grand prizes, 10 national first prizes, 12 national second prizes, 9
+national third prizes, 22 provincial and ministerial grand prizes and other awards.
+二、 培养目标与毕业要求
+2 Educational Objectives &Requirements
+（一） 培养目标
+本专业培养适应国家海洋强国战略需求，具有良好的社会责任感、职业道德、人文素养和科学
+工程素质，掌握船舶动力、船舶电气和自动化控制等基础理论知识，具备现代化船舶轮机管理能力，
+既能从事远洋船舶的维护与管理、修理与检验等工作，也能承担船海工程和交通运输工程领域的科
+学研究、船舶监修监造及技术服务等方面的工作，符合国际海员适任标准要求，具备海船船员二管
+轮适任资格，具有国际竞争能力的高端航海人才。
+本专业期待毕业生经过五年左右的工作实践，具有的职业能力和取得的职业成就如下：
+1.具有爱国情怀、国际视野以及良好的社会责任感、人文社科素养和职业道德；
+2.能够胜任船海工程和交通运输工程领域的轮机管理、技术服务和科学研究等岗位工作，在工作
+实践中体现创新意识；
+3.能够结合工作需要，面对船舶大型化、智能化、自主化发展的挑战，掌握先进的船舶管理与制
+造技术和航运企事业管理方法，成为航运业高级管理人员；
+4.具有终身学习的意识、自主学习的能力，能够跟踪并掌握行业前沿技术和发展趋势，能快速适
+应职业发展与岗位变迁，在团队中具有协调和领导能力；
+5.具有海洋安全与环保意识，在实践中掌握管理与决策方法，理解并遵守法律法规，积极服务国
+家与社会。
+2.1 Education Objectives
+Marine engineering cultivates high-end maritime talents with good sense of social responsibility,
+
+
+[Page 3]
+professional ethics, humanistic quality and scientific engineering quality to meet the requirement of China's
+marine economic powerful nation strategy. They master the basic theoretical knowledge of ship power
+plant, ship electrical and automation control, and have the ability of managing modern ship engine system.
+They can not only be engaged in the maintenance and management, repair and inspection of ocean-going
+ships, but also undertake the scientific research, ship repair supervision and technical services in the field of
+ship and ocean engineering and transportation engineering. Meanwhile, they meet the requirements of the
+international seafarers' competency standards, are qualified as the second engineers, and have the
+international competitiveness when they graduate.
+This major expects graduates to have the following professional abilities and achievements after about
+five years of work practice:
+1.Have patriotism, international vision and good sense of social responsibility, humanities and social
+science literacy and professional ethics.
+2.Capable of marine engineering management, technical service and scientific research in the field of
+marine engineering and Transportation Engineering. Embody the sense of innovation in work practice.
+3.Be able to meet the challenges of large-scale, intelligent and autonomous development of ships in
+combination with the work needs, master advanced ship management and manufacturing technology and
+shipping enterprise management methods, and become senior management personnel of shipping industry.
+4.Have the consciousness of lifelong learning and the ability of independent learning, be able to track and
+master the industry leading-edge technology and development trend, adapt to the career development and
+post change quickly, and have the ability of coordination and leadership in the team.
+5.Have awareness of marine safety and environmental protection, master management and decision-
+making methods in practice, understand and abide by laws and regulations, and actively serve the country
+and society.
+（二）毕业要求
+本专业学生毕业时应当达到中国工程教育专业认证协会工程教育认证标准规定的能力，即：
+1.工程知识:具有从事船海工程和交通运输工程领域相关工作所需要的数学、自然科学、工程
+基础和专业知识，能够将其用于解决相关领域的复杂工程问题。
+2.问题分析:能够应用数学、自然科学、工程科学和专业知识的基本原理，并通过文献研究，
+识别、表达、分析船海工程和交通运输工程领域的复杂工程问题，以获得有效结论。
+3.设计/开发解决方案:能够设计针对船海工程和交通运输工程相关领域复杂工程问题的解决
+方案，能进行船舶管系工艺设计、 船舶电气控制线路设计，并能够在设计、开发环节中体现创新
+意识，考虑社会、健康、安全、法律、文化以及环境等因素。
+4.研究:能够综合运用轮机工程及电气控制基础理论和技术手段对专业相关领域复杂工程问题
+进行研究，包括设计实验、分析与解释数据，并通过结果讨论得到合理有效的结论。
+5.使用现代工具:能够针对船海工程和交通运输工程相关领域复杂工程问题，选用现代工程开
+发工具和信息技术工具，对船舶管系工艺、船舶电气控制线路进行设计，使用系统软件对船舶进
+行现代化管理，并能够理解其局限性。
+6.工程与可持续发展:在解决复杂工程问题时，能够合理分析、评价船海工程和交通运输工程
+相关领域工程实践对健康、安全、环境、法律以及经济和社会可持续发展的影响，并理解应承担
+的责任。
+7.伦理与职业规范:有工程报国、工程为民的意识，具有人文社会科学素养和社会责任感，能
+够理解和应用工程伦理，在船海工程和交通运输工程相关领域工程实践中遵守工程职业道德、规
+范和相关法律，履行责任。
+8.个人和团队:具有一定的组织管理能力、表达能力、人际交往能力和团队合作能力，能够在
+多学科背景下的团队中承担个体、团队成员以及负责人的角色。
+9.沟通:能够就船海工程和交通运输工程相关领域复杂工程问题与行业管理服务机构、同行及
+社会公众进行有效沟通和交流，包括撰写船舶管理报告与文档、陈述发言、清晰表达或回应指
+令。并具备一定的国际视野，能够在跨文化背景下进行沟通和交流。
+10.项目管理:理解并掌握船舶管理原理与经济决策方法，并能在多学科环境中应用。
+
+
+[Page 4]
+11.终身学习:具有自主学习和终身学习的意识，有不断学习和适应发展的能力。
+2.2 Graduation Requirements
+Upon graduation, students in this major should meet the abilities required by the Engineering
+Education Certification Standards of the China Engineering Education Professional Certification
+Association, namely:
+1.have the mathematics, natural science, engineering foundation and professional knowledge
+required for the related work in the field of marine engineering and transportation engineering, and can be
+used to solve complex engineering problems in related fields.
+2.be able to apply the basic principles of mathematics, natural science, engineering science and
+professional knowledge, and through literature research, identify, express and analyze complex
+engineering problems in ship and ocean engineering and transportation engineering, so as to obtain
+effective conclusions.
+3.be able to design solutions for complex engineering problems in ship and ocean engineering and
+transportation engineering related fields, be able to carry out ship piping design and ship electrical control
+circuit design, and be able to reflect innovation awareness in design and development, and consider social,
+health, safety, legal, cultural and environmental factors.
+4.be able to comprehensively use the basic theory and technical methods of marine engineering and
+electrical control to study complex engineering problems in professional related fields, including design
+experiments, analysis and interpretation of data, and get reasonable and effective conclusions through
+result discussion.
+5.be able to use modern engineering development tools and information technology tools to design
+ship piping process and ship electrical control circuit, use system software to carry out modern
+management of the ship, and be able to understand its limitations.
+6.When solving complex engineering problems, one should be able to reasonably analyze and
+evaluate the impact of engineering practices in the fields of marine engineering and transportation
+engineering on health, safety, environment, law, as well as economic and social sustainable development,
+and understand the responsibilities that should be undertaken.
+7.Have a sense of engineering serving the country and the people, possess humanistic and social
+science literacy and a sense of social responsibility, be able to understand and apply engineering ethics,
+abide by engineering professional ethics, standards, and relevant laws in the field of ship and sea
+engineering and transportation engineering practice, and fulfill responsibilities.
+8.have certain organization and management ability, expression ability, interpersonal skills and team
+cooperation ability, and be able to undertake the role of individual, team member and person in charge in
+the team under the multi-disciplinary background.
+9.be able to communicate effectively with industry management service agencies, peers and the
+public on complex engineering issues in related fields of ship and ocean engineering and transportation
+engineering, including writing ship management report and documents, statement and statement, clearly
+expressing or responding to instructions. And have a certain international vision, can communicate in the
+cross-cultural context.
+10.understand and master ship management principles and economic decision-making methods, and
+be able to apply them in a multidisciplinary environment.
+11.ability of self-study and to engage in innovation and life-long learning, and enable to keep
+learning and adapt to social development.
+附：培养目标实现矩阵
+毕业要求 培养目标 1 培养目标 2 培养目标 3 培养目标 4 培养目标 5
+毕业要求 1 √
+毕业要求 2 √ √ √
+毕业要求 3 √ √ √
+毕业要求 4 √ √ √
+毕业要求 5 √ √
+
+
+[Page 5]
+毕业要求 6 √ √
+毕业要求 7 √ √ √
+毕业要求 8 √ √
+毕业要求 9 √ √ √
+毕业要求 10 √ √ √
+毕业要求 11 √ √
+毕业要求的达成需以课程（教学环节）的教学活动为支撑。本专业为 合理设置课程体系、落实对
+毕业要求的支撑课程，对各项毕业要求进行了解。每项毕业要求（一级指标）被分解为若干层层递进的
+指标点（二级指标） ，前一指标点的达成是下一指标点达成的基础，而下一指标点的达成是前一指标
+点的升华，所有指标点一起，支撑了该毕业要求的达成。根据上述分解方法， 本专业各项毕业要求的
+指标点分解如下表所示。
+表： 毕业要求指标点的分解
+毕业要求 指标点
+毕业要求 1.工程知识:具有从事船海工程和交通
+运输工程领域相关工作所需要的数学、自然科
+学、工程基础和专业知识，能够将其用于解决
+相关领域的复杂工程问题。
+1.1 能将数学、物理等工科学生必备的工科基
+础知识运用到轮机管理、船舶制造、设备维护
+与修理等系统问题的恰当描述中。
+1.2 掌握从事轮机工程专业所需工程基础和专
+业知识，并针对具体的对象运用物理和数学方
+面的知识建立正确的数学模型。
+1.3 能够将相关物理知识和数学模型方法用于
+推演、比较分析工程问题解决方案，解决轮机
+工程复杂工程问题。
+1.4 能将专业知识用于船舶的运行管理和维护
+保障、船舶及配套设备的监修监造和技术服务
+中。
+毕业要求 2.问题分析:能够应用数学、自然科
+学、工程科学和专业知识的基本原理，并通过
+文献研究，识别、表达、分析船海工程和交通
+运输工程领域的复杂工程问题，以获得有效结
+论。
+2.1 能够运用数学、专业知识识别和判断船舶
+海洋工程和交通运输工程领域相关问题的关键
+环节和参数。
+2.2 能运用相关科学原理和数学模型方法，表
+达复杂工程问题，并结合专业知识对问题进行
+有效分析。
+2.3 掌握文献检索方法，分析研究过程的影响
+因 素 ， 通 过 文 献 研 究 设 计 技 术 路 线 与 研 究 内
+容。
+2.4 寻求可替代解决方案，应用于船舶海洋工
+程和交通运输工程相关系统的设计和分析中，
+以获得有效结论。
+毕业要求 3.设计/开发解决方案:能够设计针对
+船海工程和交通运输工程相关领域复杂工程问
+题的解决方案，能进行船舶管系工艺设计、 船
+3.1 能根据船舶检验与管理的技术规范、标准
+以及管理条例，正确设计船舶管系与电气控制
+系统，掌握工程设计的全流程设计方法，了解
+
+
+[Page 6]
+舶电气控制线路设计，并能够在设计、开发环
+节中体现创新意识，考虑社会、健康、安全、
+法律、文化以及环境等因素。
+影响设计目标和技术方案的各种因素。
+3.2 能针对特定需求独立进行方案的设计，并
+综合考虑经济、社会、健康、安全、法律、文
+化及环境等因素。
+3.3 能够针对不合理的设计提出修改和优化方
+案，并在设计中体现创新意识和可持续性的理
+念。
+3.4 对设计的方案进行总结归纳，形成独特的
+理论与实用的结论综合应用到相关领域。
+毕业要求 4.研究:能够综合运用轮机工程及电气
+控制基础理论和技术手段对专业相关领域复杂
+工程问题进行研究，包括设计实验、分析与解
+释 数 据 ， 并 通 过 结 果 讨 论 得 到 合 理 有 效 的 结
+论。
+4.1 能 运 用 热 力 学 、 工 程 力 学 、 电 工 电 子 技
+术、控制理论等自然科学的基本原理，调研船
+舶海洋与交通运输工程领域突出的问题。
+4.2 能 应 用 热 力 学 、 工 程 力 学 、 电 工 电 子 技
+术、控制理论等自然科学的基本原理，设计可
+行的专业实验方案，评估方案可行性。
+4.3 能够在研究方案的基础上，选择正确的研
+究路线、合适的实验装置和科学的计算方法采
+集实验数据、开展专业实验研究。
+4.4 根据实验系统的设计方案，利用工程技术
+及仿真工具，结合专业相关领域复杂工程问题
+对实验结果进行分析和解释，通过信息综合得
+到合理有效的结论。
+毕业要求 5.使用现代工具:能够针对船海工程和
+交通运输工程相关领域复杂工程问题，选用现
+代工程开发工具和信息技术工具，对船舶管系
+工艺、船舶电气控制线路进行设计，使用系统
+软件对船舶进行现代化管理，并能够理解其局
+限性。
+5.1 熟悉现代仿真、VR 等技术工具和计算机软
+件，以及现代工具在解决船海工程和交通运输
+工程相关领域中的实际问题的作用。
+5.2 能 针 对 具 体 的 对 象 ， 恰 当 选 择 和 使 用 仪
+器、计算机技术以及仿真工具，完成复杂工程
+问题分析、计算、设计，及模拟与仿真分析，
+进行工程问题的预测，能理解上述方法的局限
+性。
+5.3 能够在使用现代工具对系统进行设计和船
+舶进行管理的过程中体现船联网 5G 技术的理
+念。
+毕业要求 6.工程与可持续发展:在解决复杂工程
+问题时，能够合理分析、评价船海工程和交通
+运输工程相关领域工程实践对健康、安全、环
+境、法律以及经济和社会可持续发展的影响，
+并理解应承担的责任。
+6.1 通过工程实习、实训、社会实践，思政课
+堂和课程思政的学习，能深入了解船舶海洋与
+交 通 运 输 工 程 领 域 相 关 的 法 律 法 规 、 产 业 政
+策 、 技 术 标 准 、 船 员 质 量 管 理 体 系 及 IMO 公
+约，以及轮机工程实践所涉及的健康、安全、
+环境和法律问题。
+6.2 通 过 航 行 认 识 实 习 和 实 操 训 练 ， 知 晓 节
+能、减排和降耗的重要性，理解环境保护和可
+持续发展的理念和内涵，能正确评估工程实践
+对社会可持续发展的影响。
+毕业要求 7.伦理与职业规范:有工程报国、工程
+为民的意识，具有人文社会科学素养和社会责
+任感，能够理解和应用工程伦理，在船海工程
+和交通运输工程相关领域工程实践中遵守工程
+职业道德、规范和相关法律，履行责任。
+7.1 尊重生命，诚信守则，具有人文知识、思
+辨能力、处事能力和科学精神；建立正确的价
+值 观 、 人 生 观 和 世 界 观 ， 适 应 个 人 与 社 会 关
+系，理解中国国情。
+7.2 通过思政课程、专业课程思政、人文、社
+科、体质训练、军训、海员职业道德与修养等
+课程的学习，培养职业道德，遵守行为规范。
+
+
+[Page 7]
+7.3 在轮机工程实践中，践行社会主义核心价
+值观，提高专业素养，自觉遵守职业道德、行
+为规范和工程伦理，履行社会责任。
+毕业要求 8.个人和团队:具有一定的组织管理能
+力 、 表 达 能 力 、 人 际 交 往 能 力 和 团 队 合 作 能
+力，能够在多学科背景下的团队中承担个体、
+团队成员以及负责人的角色。
+8.1 通过专业证书训练、机舱资源管理等课程
+的课堂分组讨论、实验、实习、课程设计、科
+技训练及社会实践等环节，明确并接受个人在
+团队中的角色，合理处理个人与团队的关系，
+能够在团队合作中承担一定的分工与协作，能
+与其他学科的成员有效沟通和协作。
+8.2 综合运用工学、人文社会科学等多学科知
+识独立完成团队赋予的工作任务。
+8.3 具备一定的组织管理和沟通协调的能力，
+能合理制订工作计划，根据团队成员的知识和
+能力特征分配任务，并协调完成工作任务。
+毕业要求 9.沟通:能够就船海工程和交通运输工
+程 相 关 领 域 复 杂 工 程 问 题 与 行 业 管 理 服 务 机
+构、同行及社会公众进行有效沟通和交流，包
+括撰写船舶管理报告与文档、陈述发言、清晰
+表达或回应指令。并具备一定的国际视野，能
+够在跨文化背景下进行沟通和交流。
+9.1 能够就船海工程和交通运输工程相关领域
+复杂工程问题与业界同行及社会公众进行有效
+沟通和交流，能通过书面报告和口头陈述清晰
+地表达问题的解决方案、过程和结果，并能理
+解业界同行及社会公众的质疑和建议。
+9.2 具有英语听说读写的基本能力，能够通过
+阅读国内外技术文献、参加学术讲座等环节，
+理解不同文化、技术行为之间的差异，了解专
+业领域的国际发展趋势、研究热点。
+9.3 能够在跨文化背景下进行沟通和交流，具
+有一定的国际视野。
+毕业要求 10.项目管理:理解并掌握船舶管理原
+理 与 经 济 决 策 方 法 ， 并 能 在 多 学 科 环 境 中 应
+用。
+10.1 掌握船舶原理、船舶管理、船海与交通运
+输工程领域涉及的经济及管理学知识，能够应
+用轮机工程实践中的管理与决策方法。
+10.2 能够识别船海和交通运输领域安全与经济
+决策中的关键因素。
+10.3 能够在多学科环境中，设计船海和交通运
+输实践中的工程管理及安全与经济决策方案。
+毕业要求 11.终身学习:具有自主学习和终身学
+习的意识，有不断学习和适应发展的能力。
+11.1 具有时间观念和效率意识，能够正确认识
+自我探索和学习新知识的重要性，具有自主学
+习和终身学习的意识。
+11.2 能利用计算机、互联网等现代技术工具，
+了解终身学习的途径和方式，掌握有效的自学
+方 法 ， 具 有 较 强 的 自 学 和 适 应 职 业 发 展 的 能
+力，包括对技术问题的理解能力，归纳总结的
+能力和提出问题的能力。
+附：毕业要求实现矩阵
+课程名称
+轮机工程专业毕业要求
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11)
+工程图学 B(10053117112) H M H H
+机械设计基础 A(10053121194) H L H H
+机械制造工程实训 A(10053321196) M H
+流体力学 C(10063124227) M M L L
+
+
+[Page 8]
+工程力学 B(10063124232) H H L H L
+船舶动力装置原理 B(10064117098) L H
+轮机英语(10064117114) H M L
+轮机自动化 B(10064117115) L H L L
+工程热力学与传热学 B(10064117119) L H
+船舶防污染技术 A(10064121060) L L M H
+船舶清洁能源技术(10064121061) M L
+船舶能效操作(10064121062) L H
+轮机工程基础(10064121064) M L
+船舶柴油机 A1(10064124381) M H
+船舶电气设备与系统 C(10064124382) L L H L
+船舶辅机 A1(10064124383) M H L
+船舶辅机实验(10064217129) M L
+工程热力学与传热学实验(10064217131) L M L
+工程力学 B 实验(10064221078) L M L
+船舶自动化实验(10064221085) L L M
+船舶电气实验(10064221086) L L M
+船用发动机实验(10064224001) M L
+燃烧学导论(10065113019) L M
+振动与噪声控制(10065117059) L H L
+船舶机械制造工艺学 C(10065117069) L M L
+船舶动力装置工艺学(10065117071) L M L
+船机安装与检验(10065117073) M L
+船舶管系与工艺设计 C(10065117074) L H
+海洋工程装备概论 B(10065117077) L M
+船舶动力系统仿真(10065121019) M M
+轮机工程测试技术(10065121028) L M M
+动力机械监测与控制(10065124289) L H
+船舶认识实习(10067317149) L L M
+轮机英语听力与会话训练(10067317152) M
+轮机模拟器训练(10067317188) L
+毕业实习和毕业设计(10067324292) L H L H L H M M
+船用发动机拆装与操作训练(10067324404) L
+船用辅机拆装与操作训练(10067324412) L M
+Python 程序设计基础 B(10121121085) M M
+计算机基础与 Python 程序设计综合实验
+B(10121221089)
+M L L
+电工与电子技术基础 B(10133121096) H H H
+线性代数(10153111001) H H L L
+大学物理 B(10153113042) H H L L
+数值计算(10153116002) H H M L
+高等数学 A 下(10153121060) H H M L
+高等数学 A 上(10153121061) H H M L
+
+
+[Page 9]
+物理实验 B(10154211025) M M
+概率论与数理统计 B(10155111043) M M L L
+复变函数与积分变换 B(10155111056) H H M L
+大学英语 4(10201121071) L L L H
+大学英语 3(10201121072) L L L H
+大学英语 2(10201121073) L L L H
+大学英语 1(10201121074) L L L H
+思想道德与法治(10211124001) L H
+毛泽东思想和中国特色社会主义理论体系概论
+(10211124002)
+M
+习近平新时代中国特色社会主义思想概论
+(10211124003)
+M
+马克思主义基本原理(10211124004) M
+中国近现代史纲要(10211124005) M
+形势与政策(10218116001) M
+形势与政策(10218116002) M
+形势与政策(10218116003) M
+形势与政策(10218116004) M
+形势与政策(10218116005) M
+形势与政策(10218116006) M
+形势与政策(10218116007) M
+形势与政策(10218116008) M
+军事理论(10381121001) L L
+军事技能训练(10381321003) L M
+心理健康教育(10388117003) M M
+通识教
+育选修
+课
+“四史”类 M
+人文社科类 M
+科技创新类 M
+经济管理类 M
+创新创业类 M
+艺术审美类 M
+体育健康类 M
+备注：表中用“H”、“M”、“L”分别表示该课程对指标点的支撑强度为“高”、“中”、“低”。
+三、专业核心课程
+3 Core Courses
+轮机英语,轮机自动化 B,船舶柴油机 A1,船舶电气设备与系统 C,船舶辅机 A1,轮机维护与修理,
+船舶管理 A
+Marine Engineering English,Marine Machinery Automation,Marine Diesel Engine,Marine Electric
+Equipment and System,Marine Auxiliary Machinery,Marine Machinery Maintenance and Repair,Ship
+Management
+
+
+[Page 10]
+四、 教学建议进程表
+4 Course Schedule
+开课单位
+Course College
+课程编号
+Course Number
+课程名称
+Course Title
+学分
+Crs
+学时分配
+Including
+建议修读学
+期
+Suggested
+Term
+先修课程
+Prerequisi
+te Course总学时
+Tot hrs.
+理论
+Theory
+实验
+Exp.
+上机
+Ope-ratio.
+实践
+Prac-tice.
+课外
+Extra-cur.
+（一）通识教育必修课程
+1 General Education Compulsory Courses
+计算机与人工智能学院 10121121085 Python 程序设计基础 B
+Foundation of Python Programming B 2 32 32 0 0 0 0 1
+计算机与人工智能学院 10121221089
+计算机基础与 Python 程序设计综合实验 B
+Comprehensive Experiments of Foundation of
+Computer and PYTHON Language Programming B
+1 32 0 32 0 0 0 1
+外国语学院 10201121071 大学英语 4
+College English Ⅳ 2 48 32 0 0 0 16 4 大学英语 2
+外国语学院 10201121072 大学英语 3
+College English Ⅲ 2 32 32 0 0 0 0 3 大学英语 2
+外国语学院 10201121073 大学英语 2
+College English Ⅱ 2 32 32 0 0 0 0 2
+外国语学院 10201121074 大学英语 1
+College English Ⅰ 2 32 32 0 0 0 0 1
+马克思主义学院 10211124001 思想道德与法治
+Morality and the rule of law 3 48 42 0 0 6 0 1
+马克思主义学院 10211124002
+毛泽东思想和中国特色社会主义理论体系概论
+Introduction to Mao Zedong Thought and Socialism
+with Chinese Characteristics
+3 48 30 0 0 18 0 3
+马克思主义学院 10211124003
+习近平新时代中国特色社会主义思想概论
+Xi Jinping Thought on Socialism with Chinese
+Characteristics for a New Era
+3 48 36 0 0 12 0 4
+马克思主义学院 10211124004 马克思主义基本原理
+Marxism Philosophy 3 48 42 0 0 6 0 3
+马克思主义学院 10211124005 中国近现代史纲要
+Outline of Contemporary and Modern Chinese History 3 48 42 0 0 6 0 2
+马克思主义学院 10218116001 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 1
+马克思主义学院 10218116002 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 2
+马克思主义学院 10218116003 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 3
+
+
+[Page 11]
+马克思主义学院 10218116004 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 4
+马克思主义学院 10218116005 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 5
+马克思主义学院 10218116006 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 6
+马克思主义学院 10218116007 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 7
+马克思主义学院 10218116008 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 8
+体育学院 10271121002 航海体育 4
+Navigation Sports Ⅳ 1 32 32 0 0 0 0 4
+体育学院 10271121003 航海体育 3
+Navigation Sports Ⅲ 1 32 32 0 0 0 0 3
+体育学院 10271121004 航海体育 2
+Navigation Sports Ⅱ 1 32 32 0 0 0 0 2
+体育学院 10271121005 航海体育 1
+Navigation Sports Ⅰ 1 32 32 0 0 0 0 1
+学生工作部（处）、武装部 10381121001 军事理论
+Military Theory 2 32 32 0 0 0 0 2
+学生工作部（处）、武装部 10381321003 军事技能训练
+Military Skills Training 2 136 0 0 0 136 0 1
+学生工作部（处）、武装部 10388117003 心理健康教育
+Mental Health Education 2 32 24 0 0 8 0 2
+小 计 Subtotal 38 840 600 32 0 192 16
+修读说明:
+NOTE:
+（二）通识教育选修课程
+2 General Education Elective Courses
+“四史”类
+Education of "Four Histories"
+1.通识课程应修满至少 9 学分；
+2.至少修读“四史”课程以及创新创业类课程各 1 门；
+3.非艺术类专业学生还应在艺术审美类课程中至少选修 2 学分；
+4.学校引进开设的通识教育网络课程采用“学分认定”方式计入通识选修课，最高计入 4 学分。
+5. 必须选修人文社科类中《国家安全教育》课程。
+1. Elective courses ≥9 credits.
+2.At least one course in Education of "Four Histories" and one course in innovation and entrepreneurship;
+3.Non art major students should also take at least 2 elective credits in art aesthetics courses;
+4.The general education online courses introduced by the school are included in the general education elective courses through credit recognition, with a maximum of 4
+credits.
+人文社科类
+Humanities and Social Sciences
+科技创新类
+Technology innovation
+经济管理类
+Economic Management
+创新创业类
+Innovation and entrepreneurship
+
+
+[Page 12]
+5. National Security Education of the Humanities and Social Sciences Courses is the specialized elective course艺术审美类
+Art Aesthetics
+体育健康类
+Sports and Health
+小 计 Subtotal 9 144
+（三）学科基础课程
+3 Disciplinary Fundamental Courses
+交通与物流工程学院 10053117112 工程图学 B
+Engineering Graphics 3.5 72 56 0 0 0 16 1
+交通与物流工程学院 10053121194 机械设计基础 A
+Fundamentals of Mechanical Design A 3.5 56 50 6 0 0 0 4 工程图学 B
+船海与能源动力工程学院 10063124227 流体力学 C
+Fluid Mechanics 2 32 26 6 0 0 0 4
+船海与能源动力工程学院 10063124232 工程力学 B
+Engineering Mechanics B 4 64 64 0 0 0 0 3
+船海与能源动力工程学院 10064221078 工程力学 B 实验
+Engineering Mechanics Experiments B 0.5 16 0 16 0 0 0 3
+自动化学院 10133121096 电工与电子技术基础 B
+Fundamentals of electrical and electronictechnology B 4 64 54 10 0 0 0 4
+高等数学 1,
+高等数学 2,
+大学物理 1,
+大学物理 2,
+大学物理 B
+上,高等数
+学 B 下,大
+学物理 B
+下
+数学与统计学院 10153111001 线性代数
+Linear Algebra 2.5 40 40 0 0 0 0 2
+物理与力学学院 10153113042 大学物理 B
+College Physics 5 80 80 0 0 0 0 3
+高等数学 B
+下,高等数
+学 B 上,高
+等数学 A
+下,高等数
+学 A 上,高
+等数学(gj)
+上,高等数
+学(gj)下,高
+等数学 A
+上
+
+
+[Page 13]
+数学与统计学院 10153121060 高等数学 A 下
+Advanced Mathematics AⅡ 5.5 88 88 0 0 0 0 2 高等数学 A
+上
+数学与统计学院 10153121061 高等数学 A 上
+Advanced Mathematics AⅠ 4.5 72 72 0 0 0 0 1
+物理与力学学院 10154211025 物理实验 B
+Physics Experiment 1 32 0 32 0 0 0 4 大学物理 B
+数学与统计学院 10155111056
+复变函数与积分变换 B
+Functions of a Complex Variable and Integral
+Transforms
+3 48 48 0 0 0 0 3
+高等数学 A
+上,高等数
+学 A 下
+小 计 Subtotal 39 664 578 70 0 0 16
+修读说明:
+NOTE:
+（四）专业必修课程
+4 Specialized Required Courses
+船海与能源动力工程学院 10064117114 轮机英语
+Marine Engineering English 3 48 48 0 0 6
+船海与能源动力工程学院 10064117115 轮机自动化 B
+Marine Machinery Automation 3 48 48 0 0 6
+船海与能源动力工程学院 10064117119 工程热力学与传热学 B
+Engineering Thermodynamics and Heat Transfer 3.5 56 56 0 0 4
+船海与能源动力工程学院 10064121064 轮机工程基础
+Marine Engineering Foundation 3 48 48 0 0 0 3
+船海与能源动力工程学院 10064124381 船舶柴油机 A1
+Marine Diesel Engine 3 48 48 0 0 0 0 5
+船海与能源动力工程学院 10064124382 船舶电气设备与系统 C
+Marine Electric Equipment and System 3 48 48 0 0 0 0 5
+船海与能源动力工程学院 10064124383 船舶辅机 A1
+Marine Auxiliary Machinery 4 64 64 0 0 0 0 5
+船海与能源动力工程学院 10064217129 船舶辅机实验
+Marine Auxiliary Machinery Experiment 0.5 16 0 16 0 5
+船海与能源动力工程学院 10064217131
+工程热力学与传热学实验
+Thermodynamics for Engineering and Heat Transfer
+Experiment
+0.5 16 0 16 0 0 0 4
+船海与能源动力工程学院 10064221085 船舶自动化实验
+Experiment of Marine Machinery Automation 0.5 16 0 16 0 0 6 轮机自动化
+船海与能源动力工程学院 10064221086 船舶电气实验
+Experiment of Marine Electrical 0.5 16 0 16 0 0 5 船舶电气设
+备与系统
+船海与能源动力工程学院 10064224001 船用发动机实验
+Marine Engine Experiment 0.5 16 0 16 0 0 0 5
+
+
+[Page 14]
+船海与能源动力工程学院 10184124002 轮机维护与修理
+Marine Machinery Maintenance and Repair 2 32 26 6 0 0 0 6
+船海与能源动力工程学院 10185111002 轮机自动化基础
+Foundation of Marine Automatic Control 2 32 28 4 0 0 0 5
+船海与能源动力工程学院 10187311003 专业导论
+Introduction to Specialty 1 16 16 0 0 0 0 1
+船海与能源动力工程学院 10194111003 船舶管理 A
+Ship Management 3 48 48 0 0 0 0 6
+小 计 Subtotal 33 568 478 90 0 0 0
+修读说明:
+NOTE:
+（五）专业选修课程
+5 Specialized Elective Courses
+(1)专业教育课程
+船海与能源动力工程学院 10064117098 船舶动力装置原理 B
+Principle & Design of Marine Power Plant B 2 32 30 2 0 0 6 机械设计基
+础 A
+船海与能源动力工程学院 10064121060 船舶防污染技术 A
+Marine Pollution Prevention Technology 2 32 28 4 0 0 5
+工程力学
+A,专业导
+论,流体力
+学 A
+船海与能源动力工程学院 10064121061 船舶清洁能源技术
+Clean Energy Techniques for Ships 2 32 28 4 0 0 5
+船海与能源动力工程学院 10064121062 船舶能效操作
+Ship Energy Efficient Operation 1 16 16 0 0 0 5
+船海与能源动力工程学院 10065113019 燃烧学导论
+Introduction to Combution 2 32 30 2 0 0 6
+流体力学
+B,工程热力
+学与传热学
+A
+船海与能源动力工程学院 10065117059 振动与噪声控制
+Controlling of Vibration and Noise 2 32 32 0 0 0 0 6
+大学物理,
+高等数学 A
+下,高等数
+学 A 上
+船海与能源动力工程学院 10065117069 船舶机械制造工艺学 C
+Marine Machinery Manufacture Technology 2 32 30 2 0 0 0 7
+船海与能源动力工程学院 10065117071 船舶动力装置工艺学
+Marine Power Plant Installation Technology 3 48 46 2 0 7
+船海与能源动力工程学院 10065117073 船机安装与检验 2 32 32 0 0 0 0 7
+
+
+[Page 15]
+Installation and Inspection of Marine Machinery
+船海与能源动力工程学院 10065117074 船舶管系与工艺设计 C
+Design of Ship Piping System and Process 2 32 32 0 0 6
+船海与能源动力工程学院 10065117077 海洋工程装备概论 B
+Introduction to Offshore Engineering Equipment 1.5 24 24 0 0 0 0 4
+船海与能源动力工程学院 10065121019 船舶动力系统仿真
+Simulation of ship power system 2 32 32 0 0 0 5
+船舶辅机,
+船舶动力装
+置
+船海与能源动力工程学院 10065121028
+轮机工程测试技术
+Measurement and Test Technique of Marine
+Engineering
+2 32 28 4 0 0 5 轮机工程基
+础
+船海与能源动力工程学院 10065124289 动力机械监测与控制 2 32 32 0 0 0 0 7
+船海与能源动力工程学院 10175111005 PLC 原理及应用
+Principles & Applications of PLC 2 32 28 4 0 0 0 4
+船海与能源动力工程学院 10175111006
+船舶电气管理工艺
+Technological Management of Marine Electrical
+Equipment
+1 16 16 0 0 0 0 5
+船海与能源动力工程学院 10175111007
+船舶电站自动控制系统与管理
+Auto-control System and Management of Marine
+Power Station
+2 32 32 0 0 0 0 6
+船海与能源动力工程学院 10184111001 船舶计算机管理
+Computer Aid Marine Management 1.5 24 12 0 12 0 0 6
+船海与能源动力工程学院 10184111002 船舶原理 D
+Ship Principle 1.5 24 24 0 0 0 0 4
+机械设计基
+础 A,流体
+力学 C,高
+等数学 A
+下,高等数
+学 A 上
+船海与能源动力工程学院 10184111003 电力推进系统
+Electric Propulsion System 1.5 24 24 0 0 0 0 5
+船海与能源动力工程学院 10184111004 跨文化交流
+Intercultural Communication 1.5 24 24 0 0 0 0 3
+船海与能源动力工程学院 10184111005 轮机工程英语会话
+Oral English of Marine Engineering 1.5 24 24 0 0 0 0 6
+船海与能源动力工程学院 10185111003
+轮机自动化系统微机应用
+Application of Microcomputer in Marine Engineering
+System
+2 32 28 4 0 0 0 5
+航运学院 10194111008 航海概论
+Navigation Outline 1.5 24 24 0 0 0 0 2
+小 计 Subtotal 43.5 696 656 28 12 0 0
+
+
+[Page 16]
+修读说明:
+NOTE:
+（六）个性课程
+6 Personalized Elective Courses
+（七）集中性实践教学环节
+7 Specialized Practice Schedule
+(1)集中性实践教学环节
+交通与物流工程学院 10053321196 机械制造工程实训 A
+Training on Mechanical Manufacturing Engineering 4 64 0 0 0 64 0 3
+互换性与测
+量技术 B,
+工程图学 A
+上,工程图
+学 A 下
+船海与能源动力工程学院 10067317149 船舶认识实习
+Vessel Recognized Practice 2 32 0 0 0 32 0 5
+船海与能源动力工程学院 10067317152 轮机英语听力与会话训练
+Training for Marine Engineering 0.5 8 0 0 0 8 7
+船舶管理
+C,轮机英
+语,船舶辅
+机 A,船舶
+柴油机 A
+船海与能源动力工程学院 10067317188 轮机模拟器训练
+Marine Engineering Simulator Training 1 16 0 0 0 16 7
+船舶辅机,
+船舶柴油
+机,轮机自
+动化
+船海与能源动力工程学院 10067324292 毕业实习和毕业设计
+Practice or Design for Graduation 8 256 0 0 0 0 0 8
+船海与能源动力工程学院 10067324404
+船用发动机拆装与操作训练
+Marine Engine Dismantling ， Installation and
+Operation Training
+1 16 0 0 0 16 0 7
+船海与能源动力工程学院 10067324412
+船用辅机拆装与操作训练
+Marine Auxiliary Machinery Dismantling， Installation
+and Operation Training
+1 16 0 0 0 16 0 7
+船海与能源动力工程学院 10187311004 柴油机拆装实习
+Diesel Engine Dismantling Practice 2 32 0 0 0 32 0 5
+船海与能源动力工程学院 10194111004 机舱资源管理训练
+Training of Engine Room Resource Management 0.5 8 0 0 0 8 0 7
+船海与能源动力工程学院 10194111005 船舶电站操作与管理训练 1 16 0 0 0 16 0 7
+
+
+[Page 17]
+Operating and Management of Marine Power Station
+船海与能源动力工程学院 10194111007
+船舶电气设备管理与工艺训练
+Management and Techniques of Marine Electrical
+Equipment
+1 16 0 0 0 16 0 7
+航运学院 10194124003 专业证书培训（含保安共计六个合格证）
+Training for Certificates 3 96 0 0 0 96 0 2 专业导论
+小 计 Subtotal 25 576 0 0 0 320 0
+修读说明:
+NOTE:
+
+
+[Page 18]
+五、 修读指导
+5 Recommendations on Course Studies
+1.课外培养方案详见《武汉理工大学第二课堂课外学分实施办法》。
+2.汉语授课本科层次国际学生汉语类课程修读要求详见《武汉理工大学本科层次国际学生公共汉语课程
+设置与修读要求》，其它课程修读与中国学生培养方案保持一致。
+3.各专业应不断强化劳动教育，将劳动要素融入专业教育，充分依托实习实训、社会调查等实践教学环
+节，设置劳动教育模块，标注含不少于 32 学时（2 学分）的劳动教育，明确劳动教育的目标、内容、形
+式和考核要求。
+1.Please refer to the cultivation plan of the second class-Implementation Measures for Extracurricular Credits of
+the Second Class of Wuhan University of Technology.
+2.Chinese courses for International students accepting Chinese teaching at undergraduate level can be found in
+detail the Public Chinese Curriculum and Study Requirements for International Students at undergraduate level of
+Wuhan University of Technology, and the study of other courses should be consistent with the undergraduate
+training program for Chinese students.
+3.All majors should continue to strengthen labor education, integrate labor elements into specialty education, fully
+rely on practical teaching links such as practical training and social investigation, set up labor education modules,
+label labor education with no less than 32 class hours (2 credits), and clarify the goal, content, form and
+assessment requirements of labor education.
+学院教学负责人：王冲
+专业培养方案负责人：毛小兵
+
+
+[Page 19]
+附件：课程教学进程图
+Annex：Teaching Process Map

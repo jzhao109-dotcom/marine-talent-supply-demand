@@ -1,0 +1,939 @@
+
+
+[Page 1]
+船舶与海洋工程专业（卓越班）专业 2024 版本科培养方案
+Undergraduate Education Plan for Specialty in
+Naval Architecture and Ocean Engineering (Excellent Engineer
+Class)(2024)
+专业名称 船舶与海洋工程 主干学科 船舶与海洋工程
+Major Naval Architecture
+& Ocean
+Engineering
+Major Disciplines Naval Architecture and
+Ocean Engineering
+计划学制 四年 授予学位 工学学士
+Duration 4years Degree Granted Bachelor of Engineering
+所属大类 海洋工程类 大类培养年限 1 年
+Disciplinary Ocean Engineering Duration 1year
+最低毕业学分规定
+Graduation Credit Criteria
+课程分类
+Course
+Classification
+课程性质
+Course Nature
+通识教育课程
+General
+Education
+Courser
+学科基础课程
+Disciplinary
+Fundamental
+Courses
+专业课程
+Specialty
+Elective
+Courses
+个性课程
+Personalized
+Course
+集中性实践
+教学环节
+Specialized
+Practice
+Schedule
+课外学分
+Extra- Course
+Credits
+总学分
+Total
+Credits
+必修课
+Required Courses 38 39 27 \ 27
+10 175选修课
+Elective Courses 9 \ 19 6 \
+一、专业简介
+1 Professional Introduction
+船舶与海洋工程是为水上交通运输、海洋资源开发和海洋防务等提供各类装备和服务，对国民
+经济发展及国防建设现代化具有十分重要意义的工程领域。船舶与海洋工程专业是培养具备现代船
+舶与海洋工程设计、研发、建造的基本技能和管理基础知识、能在船舶与海洋结构物设计、研发、
+制造、检验、营运和管理等部门从事技术和管理方面工作的高级工程技术人员的专业。
+武汉理工大学船舶与海洋工程专业创建于 1946 年，历经湖北省品牌专业、国家级特色专业、教育
+部卓越工程师试点专业、教育部高等学校综合改革试点专业的建设发展，2019 年获批国家级一流
+本科专业第一批建设点，办学力量和规模在国内名列前茅。本专业所在的船舶与海洋工程学科是我
+国首批学位授权点，具有一级学科博士点和博士后流动站，是全国三个一级学科国家重点学科之一。
+本专业拥有国家水运安全工程技术研究中心、高性能舰船技术教育部重点实验室等 10 个国家级和
+省部级科研基地，拥有船舶运输实验实训教学中心等三个国家级实验教学示范中心，与江南造船、
+外高桥造船等 10 余个骨干造船企业签约作为大学生实践和实习基地，办学条件优越。70 余年来，
+本专业培养了近 2 万名学生覆盖了我国船舶与海洋工程全领域，大批优秀毕业生已成为行业知名企
+业的中坚力量。
+
+
+[Page 2]
+Naval Architecture and Ocean Engineering is an essential engineering field that provides a variety of
+equipment and services for water transportation, marine resource development, and maritime defense. It
+holds significant importance for the development of the national economy and the modernization of
+national defense construction. This major aim to cultivate senior engineering and technical personnel
+equipped with fundamental skills in modern design, research and development, and construction of naval
+and marine structures, as well as basic knowledge in management, enabling them to engage in technical
+and managerial roles in the departments of design, research and development, manufacturing, inspection,
+operation, and management of naval and marine structures.
+The Naval Architecture and Ocean Engineering major of Wuhan University of Technology was established
+in 1946. It has undergone several stages of development, including being recognized as a Hubei Province
+Brand Specialty, a National Feature Specialty, a pilot program for outstanding engineers by the Ministry of
+Education, and a comprehensive reform pilot major for higher education institutions by the Ministry of
+Education. By 2019, the major was designated as one of the first batch of national first-class undergraduate
+program construction points, with its educational strength and scale ranking among the top in the country.
+The discipline in which this major is housed is one of the first degree-granting disciplines in China,
+featuring a first-level discipline doctoral program and a post-doctoral research station, and is one of the
+three national key disciplines at the first level. This major boast 10 national and provincial-level research
+bases, including the National Engineering Technology Research Center for Water Transport Safety and the
+Key Laboratory of High-Performance Ships and Ocean Engineering Technology of the Ministry of
+Education. Additionally, it has three national-level experimental teaching demonstration centers, such as the
+Marine Transportation Experiment and Practical Teaching Center. The major has established cooperative
+relationships with over 10 major shipbuilding enterprises, including Jiangnan Shipyard and Waigaoqiao
+Shipyard, providing students with excellent practical and internship bases and ensuring superior
+educational conditions. Over the past 70 years, this major has trained nearly 20,000 students covering the
+entire field of naval and marine engineering in China, with many outstanding graduates becoming the
+backbone of well-known enterprises in the industry.
+二、 培养目标与毕业要求
+2 Educational Objectives &Requirements
+（一） 培养目标
+以国家经济社会发展对船舶与海洋工程领域人才的需求为导向，以培养具备“适应性强、实干
+精神强、创新意识强”的高级技术及管理人才为宗旨，培养具备坚实的数学、力学、计算机、外语、
+船舶与海洋工程结构物设计制造、专业技术服务以及必要的机械设计制造及其自动化、数据分析、
+工程经济与项目管理等知识，掌握船舶与海洋工程的基本原理以及以船舶与海洋工程装备设计制造
+为主的专业技能和研究方法，具有社会责任感和国际交流能力，能在船舶与海洋工程相关领域从事
+科学研究、项目策划与管理、生产运营与经营管理等工作的高级复合型专业人才。
+本专业期待毕业生经过五年左右的工作实践，具有的职业能力和取得的职业成就如下：
+1.能在船舶与海洋工程行业、学术界、教育界成功地开展与专业职业相关的规划设计、运营组
+织、学术研究及创新创业等工作，适应独立和团队工作环境
+2.能够理解、分析和解决船舶与海洋工程领域实践问题
+3.能以法律、伦理、监管、社会、环境和经济等方面的宽广视角开展船舶与海洋工程领域工作
+4.能与国内外同行、客户和公众有效沟通
+5.能够通过研究生教育、继续教育或其他终身学习渠道增强知识的积累和综合能力的提升，适应
+
+
+[Page 3]
+职业发展，在船舶与海洋工程领域具备职场竞争力
+2.1 Education Objectives
+Guided by the demand of national economic and social development for talents in the field of Naval
+Architect & Ocean Engineering, and for the purpose of training senior technical and managerial talents
+with "strong adaptability, strong hard-working spirit and strong innovation consciousness", the students can
+master the knowledge of mathematics, mechanics, computer, foreign language, structure design and
+manufacturing in Naval Architect & Ocean Engineering, professional and technical services, the necessary
+mechanical design manufacturing and automation, data analysis, project management and engineering
+economy. The talents who also master the basic principle of ship and ocean engineering, professional skills
+and research methods mainly in the design and manufacture of equipment in Naval Architect & Ocean
+Engineering. Those compound professionals are supposed to have a sense of social responsibility and
+international communication ability, be able to engage in scientific research, project planning and
+management, production and operation management and other work in the related fields of Naval Architect
+& Ocean Engineering.
+This major expects graduates to have the following professional abilities and achievements after about
+five years of work practice:
+1.be able to carry out professional planning, design, operation organization, academic research, innovation
+and entrepreneurship successfully in industry, academia, and education sector of Naval Architect & Ocean
+Engineering, and also able to adapt to the independent and team working environment
+2.be able to understand, analyze and solve practical problems in the field of Naval Architect & Ocean
+Engineering
+3.be able to work in the field of Naval Architect & Ocean Engineering from broad perspectives of legal,
+ethical, regulatory, social, environmental economic
+4.be able to communicate with domestic and foreign counterparts, customers and public effectively
+5.be able to enhance knowledge accumulation and comprehensive ability through graduate education,
+continuing education or other lifelong learning channels, and adapt to career development, in order to be
+competitive in the field of Naval Architect & Ocean Engineering
+（二）毕业要求
+本专业学生毕业时应当达到中国工程教育专业认证协会工程教育认证标准规定的能力，即：
+1.工程知识:具有数学、自然科学、工程基础和船海专业知识，能够用于认识、分析并解决船
+海研发与生产、技术改造和服役过程中的复杂工程问题。
+2.问题分析:能够应用数学、自然科学和工程科学的基本原理和跨学科知识，通过文献研究和
+知识整合，识别、表达、分析并研究船海工程实践中的基本科学问题与复杂工程问题，掌握问题
+分析的方法，并获得有效结论。
+3.设计/开发解决方案:能够设计针对船海工程复杂工程问题的解决方案，开发船海装备，在
+设计环节中体现创新意识，同时考虑社会、健康、安全、法律、文化以及环境等因素。
+4.研究:掌握船舶与海洋工程的基本理论和研究方法，具有研究和开发新装备的初步能力，包
+括调研、设计新装备、提出解决方案、实施实验计划、采集数据、分析与解释数据、并通过信息
+综合得出合理有效结论和撰写论文或技术报告。
+5.使用现代工具使用:能够开发、选择与使用恰当的技术、资源、现代工程工具和信息技术工
+具，包括对复杂工程问题进行数据统计与分析、预测与模拟，并理解所得结论的适用性和局限
+性。
+6.工程与可持续发展:在解决复杂工程问题时，能够基于工程相关背景知识，分析和评价工程
+实践对健康、安全、环境、法律以及经济和社会可持续发展的影响，并理解应承担的责任。
+7.伦理与职业规范:有工程报国、工程为民的意识，具有人文社会科学素养和社会责任感，能
+够理解和应用工程伦理，在工程实践中遵守工程职业道德、规范和相关法律，履行责任。
+8.个人和团队:具有表达与交往能力、团队协作和组织管理能力，能够在多学科背景下的团队
+中承担个体、团队成员以及负责人的角色。
+9.沟通:具备国际视野，针对船海相关领域的基本科学问题和复杂工程问题，能够在跨文化背
+
+
+[Page 4]
+景下与业界同行及社会公众进行有效沟通和交流，包括设计方案和撰写报告、陈述发言与问题讨
+论。
+10.项目管理:理解并掌握工程管理原理与经济决策方法，具有在多学科环境应用的能力。
+11.终身学习:具有自主学习的能力，增强创新精神、创造意识和创业能力，具有不断学习和
+适应科技进步与社会发展的能力。
+2.2 Graduation Requirements
+Upon graduation, students in this major should meet the abilities required by the Engineering
+Education Certification Standards of the China Engineering Education Professional Certification
+Association, namely:
+1.The ability to solve complex engineering problems in the field of Naval Architecture and Ocean
+Engineering by using mathematics, natural science, and basic and professional engineering knowledge.
+2.The ability to identify, express and analyze complex engineering problems in the field of Naval
+Architecture and Ocean Engineering through literature review by applying the basic principle of
+mathematics, natural science, and engineering science, in order to achieve valid conclusions.
+3.The ability to design solutions for complex engineering problems in the field of Naval Architecture
+and Ocean Engineering, and systems, units (components) or processes that meet specific requirement with
+creativity, considering the factors such as society, health, safety, law, culture and environment.
+4.The ability to investigate complex engineering problems in the field of Naval Architecture and
+Ocean Engineering based on scientific principle and methods, including experiment design, data analysis
+and interpretation, and valid and reasonable conclusions got from information integration.
+5.The ability to develop, select and use appropriate technology, resources, modern engineering tools
+and information technology tools for complex engineering problems in the field of Naval Architecture and
+Ocean Engineering, including the prediction and simulation of the complex engineering problems and the
+understanding of their limitations.
+6.When solving complex engineering problems, be able to analyze and evaluate the impact of
+engineering practices on health, safety, environment, law, as well as economic and social sustainable
+development based on engineering related background knowledge, and understand the responsibilities that
+should be undertaken.
+7.With a sense of engineering serving the country and the people, possessing humanistic and social
+science literacy and a sense of social responsibility, able to understand and apply engineering ethics, abide
+by engineering professional ethics, norms and relevant laws in engineering practice, and fulfill
+responsibilities.
+8.The ability to take on the role of individual, team members and leaders in a multidisciplinary team.
+9.The ability to effectively communicate and exchange with industry colleagues and the public on
+complex engineering problems, including writing of reports and design manuscripts, presentation, and
+clear express and response of instructions, and to communicate under the cross-cultural background with
+sufficient international perspective.
+10.The understanding and acquiring of the engineering management principle and economic
+decision-making methods, which can be applied in the multi-disciplinary environment.
+11.The understanding and acquiring of the engineering management principle and economic
+decision-making methods, which can be applied in the multi-disciplinary environment.
+附：培养目标实现矩阵
+毕业要求 培养目标 1 培养目标 2 培养目标 3 培养目标 4 培养目标 5
+毕业要求 1 √ √ √
+毕业要求 2 √ √ √
+毕业要求 3 √ √ √ √
+毕业要求 4 √ √ √
+毕业要求 5 √ √ √
+毕业要求 6 √ √ √ √
+
+
+[Page 5]
+毕业要求 7 √ √ √
+毕业要求 8 √ √
+毕业要求 9 √ √ √ √
+毕业要求 10 √ √
+毕业要求 11 √ √
+毕业要求的达成需以课程（教学环节）的教学活动为支撑。本专业为 合理设置课程体系、落实对
+毕业要求的支撑课程，对各项毕业要求进行了解。每项毕业要求（一级指标）被分解为若干层层递进的
+指标点（二级指标） ，前一指标点的达成是下一指标点达成的基础，而下一指标点的达成是前一指标
+点的升华，所有指标点一起，支撑了该毕业要求的达成。根据上述分解方法， 本专业各项毕业要求的
+指标点分解如下表所示。
+表： 毕业要求指标点的分解
+毕业要求 指标点
+毕业要求 1.工程知识:具有数学、自然科学、工
+程基础和船海专业知识，能够用于认识、分析
+并解决船海研发与生产、技术改造和服役过程
+中的复杂工程问题。
+1.1 能将数学、自然科学、工程基础用于工程
+问题的表述。
+1.2 能够运用数学、自然科学和专业知识针对
+船海工程的实际问题建立数学模型并求解。
+1.3 能 够 将 相 关 知 识 和 数 学 模 型 方 法 用 于 推
+演、分析船海工程实践中的问题。
+1.4 能够将相关知识和数学模型方法用于船海
+研发与生产、技术改造和服役过程中工程问题
+解决方案的比较和综合。
+毕业要求 2.问题分析:能够应用数学、自然科学
+和工程科学的基本原理和跨学科知识，通过文
+献研究和知识整合，识别、表达、分析并研究
+船海工程实践中的基本科学问题与复杂工程问
+题，掌握问题分析的方法，并获得有效结论。
+2.1 能够运用数学、自然科学和工程科学的基
+本原理，识别和判断船海工程实践中基本科学
+问题与复杂工程问题的关键环节。
+2.2 能够结合数学模型方法，对船海工程实践
+中的基本科学问题与复杂工程问题进行正确表
+述。
+2.3 能认识到解决问题方案的多样性，会通过
+文献研究寻求可替代的解决方案。
+2.4 能借助文献研究，分析影响因素，得出有
+效结论。
+毕业要求 3.设计/开发解决方案:能够设计针对
+船海工程复杂工程问题的解决方案，开发船海
+装备，在设计环节中体现创新意识，同时考虑
+社会、健康、安全、法律、文化以及环境等因
+素。
+3.1 掌握船舶、海洋平台等关键设备的设计和
+产品开发全周期、全流程的方法和技术，了解
+影响设计目标和技术方案的各种因素。
+3.2 能够针对特定需求，完成船海装备的结构
+和性能设计。
+3.3 能够针对船海装备进行生产技术或工艺流
+程设计，并在设计中体现创新意识。
+3.4 在设计中能够考虑安全、健康、法律、文
+化及环境等制约因素。
+
+
+[Page 6]
+毕业要求 4.研究:掌握船舶与海洋工程的基本理
+论和研究方法，具有研究和开发新装备的初步
+能 力 ， 包 括 调 研 、 设 计 新 装 备 、 提 出 解 决 方
+案、实施实验计划、采集数据、分析与解释数
+据、并通过信息综合得出合理有效结论和撰写
+论文或技术报告。
+4.1 能够基于船舶与海洋工程的基础理论，通
+过文献研究或相关方法，调研和分析复杂工程
+问题的解决方案。
+4.2 能 够 根 据 船 海 装 备 的 特 征 ， 选 择 技 术 路
+线，设计实验方案。
+4.3 能够根据实验方案，构建实验系统，安全
+地开展实验，正确地采集实验数据。
+4.4 能够对实验结果进行分析和解释，通过信
+息综合得出合理有效的结论，撰写论文或技术
+报告。
+毕业要求 5.使用现代工具使用:能够开发、选择
+与使用恰当的技术、资源、现代工程工具和信
+息技术工具，包括对复杂工程问题进行数据统
+计与分析、预测与模拟，并理解所得结论的适
+用性和局限性。
+5.1 了解船海工程常用的现代仪器、信息技术
+工 具 、 工 程 工 具 和 模 拟 软 件 的 使 用 原 理 和 方
+法，并理解其局限性。
+5.2 能够选择与使用恰当的仪器、信息资源、
+工程工具和专业模拟软件，对复杂工程问题进
+行分析、计算与设计。
+5.3 能够针对特定装备，开发或选用满足特定
+需求的现代工具，模拟和预测其结构、性能与
+应用等，并分析其适用性和局限性。
+毕业要求 6.工程与可持续发展:在解决复杂工程
+问题时，能够基于工程相关背景知识，分析和
+评价工程实践对健康、安全、环境、法律以及
+经济和社会可持续发展的影响，并理解应承担
+的责任。
+6.1 解决复杂工程问题。
+6.2 能够基于工程相关背景知识，分析和评价
+工程实践对可持续发展的影响。
+毕业要求 7.伦理与职业规范:有工程报国、工程
+为民的意识，具有人文社会科学素养和社会责
+任感，能够理解和应用工程伦理，在工程实践
+中遵守工程职业道德、规范和相关法律，履行
+责任。
+7.1 有工程报国、工程为民的意识。
+7.2 具有人文社会科学素养和社会责任感。
+7.3 在工程实践中遵守工程职业道德、规范和
+相关法律，履行责任。
+毕业要求 8.个人和团队:具有表达与交往能力、
+团队协作和组织管理能力，能够在多学科背景
+下的团队中承担个体、团队成员以及负责人的
+角色。
+8.1 具有多学科背景团队合作意识，能够与其
+他学科的成员有效沟通，合作共事。
+8.2 能够在团队中独立或合作开展工作。
+8.3 能够组织、协调和指挥团队开展工作。
+毕业要求 9.沟通:具备国际视野，针对船海相关
+领域的基本科学问题和复杂工程问题，能够在
+跨文化背景下与业界同行及社会公众进行有效
+沟通和交流，包括设计方案和撰写报告、陈述
+发言与问题讨论。
+9.1 能够就专业中的基本科学问题和复杂工程
+问题，通过口头、文稿、图表等方式，准确表
+达自己的观点，回应质疑，理解与业界同行和
+社会公众交流的差异性。
+9.2 了 解 船 海 工 程 的 国 际 发 展 趋 势 、 研 究 热
+点，理解和尊重世界不同文化的差异性和多样
+性。
+9.3 具备跨文化交流的语言和书面表达能力，
+能就专业问题，在跨文化背景下进行基本沟通
+和交流。
+毕业要求 10.项目管理:理解并掌握工程管理原
+理与经济决策方法，具有在多学科环境应用的
+能力。
+10.1 掌握工程项目中涉及的管理与经济决策方
+法 。
+10.2 了解船海装备研发、生产、服役等全周
+期、全流程的成本构成，理解其中涉及的工程
+管理与经济决策问题。
+10.3 能在多学科环境下，在船海装备设计开发
+解决方案的过程中，运用工程管理与经济决策
+
+
+[Page 7]
+方法。
+毕业要求 11.终身学习:具有自主学习的能力，
+增强创新精神、创造意识和创业能力，具有不
+断学习和适应科技进步与社会发展的能力。
+11.1 能在社会发展的大背景下，认识到自主和
+终 身 学 习 的 必 要 性 ， 具 有 创 新 精 神 和 创 造 意
+识。
+11.2 具有自主学习的能力，包括对技术问题的
+理解能力，归纳总结的能力和提出问题的能力
+等，能够适应科技进步与社会发展。
+附：毕业要求实现矩阵
+课程名称
+船舶与海洋工程专业毕业要求
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11)
+工程图学 C(10053117114) M
+理论力学 B(10064111001) M
+材料力学 C(10064111003) H
+船舶设计原理 F(10064117082) H
+船舶建造工艺学 G(10064117083) H
+船舶与海洋工程结构物振动与噪声
+(10064121070)
+M
+船体强度与结构设计(10064121071) H
+船舶操纵性与耐波性(10064121072) H
+船舶推进(10064121073) H
+船舶静力学(10064121074) H
+船舶智能设计制造原理与系统(10064121076) M
+船舶流体力学(10064121077) H H
+船体构造与制图(10064124380) L M
+船舶流体力学实验(10064221087) M
+船舶水动力性能综合实验(10064221090) H
+船体结构综合实验(10064221091) H
+结构有限元仿真技术与应用(10064221092) M
+船舶电气(10065113025) L
+船舶数值水池技术与应用(10065121044) L
+智能船舶技术(10065121046) L
+船舶与海洋工程安全规范(10065121047) L
+水下系统与探测技术(10065121049) L
+海洋工程装备技术(10065121050) L
+船舶自动控制原理(10065124381) M
+船舶与海洋工程创新创业实践(10067224417) H
+船舶与海洋工程虚拟水池实践(10067224440) H
+认识实习(10067321099) M
+毕业设计(论文)(10067324146) H H H M
+船体构造与制图课程设计(10067324403) M L
+C 程序设计基础 B(10121121087) M
+计算机基础与 C 程序设计综合实验
+B(10121221091)
+H
+
+
+[Page 8]
+电工与电子技术基础 C(10133121098) M
+电工电子实习 B(10137311009) H
+线性代数(10153111001) H
+大学物理 B(10153113042) H
+高等数学 A 下(10153121060) H
+高等数学 A 上(10153121061) H
+物理实验 B(10154211025) M
+概率论与数理统计 B(10155111054) H
+复变函数与积分变换 C(10155111055) M L
+大学英语 4(10201121071) H
+大学英语 3(10201121072) H
+大学英语 2(10201121073) H
+大学英语 1(10201121074) H
+思想道德与法治(10211124001) L M
+毛泽东思想和中国特色社会主义理论体系概论
+(10211124002) M
+习近平新时代中国特色社会主义思想概论
+(10211124003)
+L
+马克思主义基本原理(10211124004) L
+中国近现代史纲要(10211124005) L
+形势与政策(10218116001) L
+形势与政策(10218116002) L
+形势与政策(10218116003) L
+形势与政策(10218116004) L
+形势与政策(10218116005) L
+形势与政策(10218116006) L
+形势与政策(10218116007) L
+形势与政策(10218116008) L
+体育 4(10271117043) L
+体育 3(10271117044) L
+体育 2(10271117045) L
+体育 1(10271117046) L
+军事理论(10381121001) M
+军事技能训练(10381321003) L
+心理健康教育(10388117003) M
+通识教
+育选修
+课
+“四史”类 L
+人文社科类 H
+科技创新类 M
+经济管理类 M
+创新创业类 M
+艺术审美类 M
+体育健康类 M
+备注：表中用“H”、“M”、“L”分别表示该课程对指标点的支撑强度为“高”、“中”、“低”。
+
+
+[Page 9]
+三、专业核心课程
+3 Core Courses
+船舶结构力学 C,船舶阻力,船舶设计原理 F,船舶建造工艺学 G,船体强度与结构设计,船舶操纵
+性与耐波性,船舶推进,船舶静力学,船舶流体力学,船体构造与制图
+Ship Structural Mechanics,Ship Resistance,Principles of Ship Design,Ship Strength and Structural
+Design,Ship Maneuverability and Seakeeping,Ship Propulsion,Ship Hydrostatics,Ship Structure and
+Graphing
+
+
+[Page 10]
+四、 教学建议进程表
+4 Course Schedule
+开课单位
+Course College
+课程编号
+Course Number
+课程名称
+Course Title
+学分
+Crs
+学时分配
+Including
+建议修读学
+期
+Suggested
+Term
+先修课程
+Prerequisi
+te Course总学时
+Tot hrs.
+理论
+Theory
+实验
+Exp.
+上机
+Ope-ratio.
+实践
+Prac-tice.
+课外
+Extra-cur.
+（一）通识教育必修课程
+1 General Education Compulsory Courses
+计算机与人工智能学院 10121121087 C 程序设计基础 B
+Foundations of C Language Programming A 2 32 32 0 0 0 0 1
+计算机与人工智能学院 10121221091
+计算机基础与 C 程序设计综合实验 B
+Comprehensive Experiments of Foundation of
+Computer and C Language Programming B
+1 32 0 32 0 0 0 1
+外国语学院 10201121071 大学英语 4
+College English Ⅳ 2 48 32 0 0 0 16 4 大学英语 2
+外国语学院 10201121072 大学英语 3
+College English Ⅲ 2 32 32 0 0 0 0 3 大学英语 2
+外国语学院 10201121073 大学英语 2
+College English Ⅱ 2 32 32 0 0 0 0 2
+外国语学院 10201121074 大学英语 1
+College English Ⅰ 2 32 32 0 0 0 0 1
+马克思主义学院 10211124001 思想道德与法治
+Morality and the rule of law 3 48 42 0 0 6 0 1
+马克思主义学院 10211124002
+毛泽东思想和中国特色社会主义理论体系概论
+Introduction to Mao Zedong Thought and Socialism
+with Chinese Characteristics
+3 48 30 0 0 18 0 4
+马克思主义学院 10211124003
+习近平新时代中国特色社会主义思想概论
+Xi Jinping Thought on Socialism with Chinese
+Characteristics for a New Era
+3 48 36 0 0 12 0 4
+马克思主义学院 10211124004 马克思主义基本原理
+Marxism Philosophy 3 48 42 0 0 6 0 3
+马克思主义学院 10211124005 中国近现代史纲要
+Outline of Contemporary and Modern Chinese History 3 48 42 0 0 6 0 2
+马克思主义学院 10218116001 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 1
+马克思主义学院 10218116002 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 2
+马克思主义学院 10218116003 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 3
+
+
+[Page 11]
+马克思主义学院 10218116004 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 4
+马克思主义学院 10218116005 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 5
+马克思主义学院 10218116006 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 6
+马克思主义学院 10218116007 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 7
+马克思主义学院 10218116008 形势与政策
+Situation & Policy 0.25 8 8 0 0 0 0 8
+体育学院 10271117043 体育 4
+Physical Education Ⅳ 1 32 32 0 0 0 0 4 基础体育,
+基础体育 2
+体育学院 10271117044 体育 3
+Physical Education Ⅲ 1 32 32 0 0 0 0 3 基础体育,
+基础体育 2
+体育学院 10271117045 体育 2
+Physical Education Ⅱ 1 32 32 0 0 0 0 2
+体育学院 10271117046 体育 1
+Physical Education Ⅰ 1 32 32 0 0 0 0 1
+学生工作部（处）、武装部 10381121001 军事理论
+Military Theory 2 32 32 0 0 0 0 2
+学生工作部（处）、武装部 10381321003 军事技能训练
+Military Skills Training 2 136 0 0 0 136 0 1
+学生工作部（处）、武装部 10388117003 心理健康教育
+Mental Health Education 2 32 24 0 0 8 0 4
+小 计 Subtotal 38 840 600 32 0 192 16
+修读说明:
+NOTE:
+（二）通识教育选修课程
+2 General Education Elective Courses
+“四史”类
+Education of "Four Histories"
+1.通识课程应修满至少 9 学分；
+2.至少修读“四史”课程以及创新创业类课程各 1 门；
+3.非艺术类专业学生还应在艺术审美类课程中至少选修 2 学分；
+4.学校引进开设的通识教育网络课程采用“学分认定”方式计入通识选修课，最高计入 4 学分。
+5. 必须选修人文社科类中《国家安全教育》课程。
+1. Elective courses ≥9 credits.
+2.At least one course in Education of "Four Histories" and one course in innovation and entrepreneurship;
+3.Non art major students should also take at least 2 elective credits in art aesthetics courses;
+4.The general education online courses introduced by the school are included in the general education elective courses through credit recognition, with a maximum of 4
+credits.
+人文社科类
+Humanities and Social Sciences
+科技创新类
+Technology innovation
+经济管理类
+Economic Management
+创新创业类
+Innovation and entrepreneurship
+
+
+[Page 12]
+5. National Security Education of the Humanities and Social Sciences Courses is the specialized elective course艺术审美类
+Art Aesthetics
+体育健康类
+Sports and Health
+小 计 Subtotal 9 144
+（三）学科基础课程
+3 Disciplinary Fundamental Courses
+交通与物流工程学院 10053117114 工程图学 C
+Engineering Graphics 3 56 48 0 0 0 8 2
+船海与能源动力工程学院 10064111001 理论力学 B
+Theoretical Mechanics B 3 48 48 0 0 0 0 2
+船海与能源动力工程学院 10064111003 材料力学 C
+Mechanics of Materials 4 64 60 4 0 0 0 3
+理论力学
+B,理论力学
+B
+数学与统计学院 10095111010 数值分析 B
+Numerical Analysis 2.5 40 32 0 8 0 0 3
+高等数学 A
+下,高等数
+学 A 上,线
+性代数
+自动化学院 10133121098
+电工与电子技术基础 C
+Fundamentals of Electrical Technology & Electrical
+Engineering C
+3 48 48 0 0 0 0 3
+大学物理,
+高等数学 B
+下,高等数
+学 B 上,高
+等数学 1,高
+等数学 A
+上,高等数
+学 A 下
+数学与统计学院 10153111001 线性代数
+Linear Algebra 2.5 40 40 0 0 0 0 1
+物理与力学学院 10153113042 大学物理 B
+College Physics 5 80 80 0 0 0 0 2
+高等数学 B
+下,高等数
+学 B 上,高
+等数学 A
+下,高等数
+学 A 上,高
+等数学(gj)
+上,高等数
+学(gj)下,高
+等数学 A
+上
+
+
+[Page 13]
+数学与统计学院 10153121060 高等数学 A 下
+Advanced Mathematics AⅡ 5.5 88 88 0 0 0 0 2 高等数学 A
+上
+数学与统计学院 10153121061 高等数学 A 上
+Advanced Mathematics AⅠ 4.5 72 72 0 0 0 0 1
+物理与力学学院 10154211025 物理实验 B
+Physics Experiment 1 32 0 32 0 0 0 3 大学物理 B
+数学与统计学院 10155111054 概率论与数理统计 B
+Probability and Mathematical Statistics 3 48 48 0 0 0 0 3
+高等数学 A
+上,线性代
+数
+数学与统计学院 10155111055
+复变函数与积分变换 C
+Functions of a Complex Variable and Integral
+Transforms
+2 32 32 0 0 0 0 3
+小 计 Subtotal 39 648 596 36 8 0 8
+修读说明:
+NOTE:
+（四）专业必修课程
+4 Specialized Required Courses
+船海与能源动力工程学院 10064112002 船舶结构力学 C
+Ship Structural Mechanics 3 48 48 0 0 0 0 4
+船海与能源动力工程学院 10064117002 船舶阻力
+Ship Resistance 2 32 28 0 4 0 0 5
+船海与能源动力工程学院 10064117003 海洋工程类专业导论
+Introduction of Major 1 16 16 0 0 0 0 1
+船海与能源动力工程学院 10064117082 船舶设计原理 F
+Principles of Ship Design 2.5 40 40 0 0 0 0 7
+船舶原理
+B,船舶工程
+经济学,船
+舶原理 C,
+船舶原理
+A,船舶强度
+与结构设计
+船海与能源动力工程学院 10064117083 船舶建造工艺学 G 2.5 40 36 4 0 0 0 6
+船体强度与
+结构设计,
+船体构造与
+制图,船舶
+结构力学
+船海与能源动力工程学院 10064121071 船体强度与结构设计
+Ship Strength and Structural Design 2 32 32 0 0 0 0 6 船舶结构力
+学
+船海与能源动力工程学院 10064121072 船舶操纵性与耐波性
+Ship Maneuverability and Seakeeping 2 32 32 0 0 0 0 6 船舶操纵与
+耐波,船舶
+
+
+[Page 14]
+操纵与耐波
+船海与能源动力工程学院 10064121073 船舶推进
+Ship Propulsion 2 32 32 0 0 0 0 5
+船舶阻力
+A,船舶静力
+学,船舶流
+体力学
+船海与能源动力工程学院 10064121074 船舶静力学
+Ship Hydrostatics 2 32 32 0 0 0 0 4
+高等数学 A
+下,高等数
+学 A 上,理
+论力学 A,
+流体力学 A
+船海与能源动力工程学院 10064121077 船舶流体力学 3 48 48 0 0 0 0 4
+船海与能源动力工程学院 10064124380 船体构造与制图
+Ship Structure and Graphing 2 32 32 0 0 0 0 3
+船海与能源动力工程学院 10064221087 船舶流体力学实验
+Experiment of Ship Fluid Mechanics 1 32 0 32 0 0 0 4
+高等数学 A
+下,高等数
+学 A 上,理
+论力学 A
+船海与能源动力工程学院 10064221090 船舶水动力性能综合实验
+Experiment of Ship Hydrodynamic Performance 1 32 0 32 0 0 0 7
+船舶推进
+B,船舶阻力
+E,船舶推进
+A,船舶操纵
+性与耐波
+性,船舶静
+力学,船舶
+流体力学
+船海与能源动力工程学院 10064221091 船体结构综合实验
+Experiment of Ship Strength 1 32 0 32 0 0 0 6
+材料力学
+C,船体强度
+与结构设
+计,船舶结
+构力学 A
+小 计 Subtotal 27 480 376 100 4 0 0
+修读说明:
+NOTE:
+（五）专业选修课程
+5 Specialized Elective Courses
+(1)专业选修
+船海与能源动力工程学院 10064121070 船舶与海洋工程结构物振动与噪声 2 32 28 4 0 0 0 5 船舶结构力
+
+
+[Page 15]
+Vibration and Noise of Naval architecture & Ocean
+Engineering
+学,船舶结
+构力学,船
+舶结构力学
+A,船舶结构
+力学 B,船
+舶结构力学
+B,船舶结构
+力学
+船海与能源动力工程学院 10064121076
+船舶智能设计制造原理与系统
+Intelligent Technology and System of Ship Design and
+Manufacture
+2 32 32 0 0 0 0 7
+船舶设计原
+理 A,船舶
+建造工艺学
+A
+船海与能源动力工程学院 10064221092
+结构有限元仿真技术与应用
+Structure FEA Simulation Technology and Its
+Application
+2 32 16 0 16 0 0 5
+船海与能源动力工程学院 10065111013 船舶设备与系统
+Ship Equipment and Systems 2 32 32 0 0 0 0 6
+船海与能源动力工程学院 10065111014
+船舶与海洋工程专业英语
+Specialized English for Naval Architecture and Ocean
+Engineering
+2 32 32 0 0 0 0 4
+船海与能源动力工程学院 10065113025 船舶电气
+Ship Electrical Equipment 2 32 32 0 0 0 0 5
+船海与能源动力工程学院 10065113038 造船机械设备与自动化
+Shipbuilding Equipment and Automation 2 32 30 2 0 0 0 6
+船海与能源动力工程学院 10065113039 海洋环境载荷
+Ocean Environment Loads 2 32 32 0 0 0 0 5
+船海与能源动力工程学院 10065113040 海洋工程项目管理
+Ocean Engineering Project Management 2 32 32 0 0 0 0 5
+船海与能源动力工程学院 10065113041 海洋再生能源
+Ocean Renewable Energy 2 32 32 0 0 0 0 6
+船海与能源动力工程学院 10065113042 船舶工程经济学
+Ship Engineering Economics 2 32 32 0 0 0 0 5
+船海与能源动力工程学院 10065113044 人机工程与船舶美学
+Ergonomic Principles and Ship Aesthetics 2 32 32 0 0 0 0 5
+船海与能源动力工程学院 10065115004 船舶与海洋工程结构物可靠性
+Ship and Marine Engineering Structure Reliability 2 32 32 0 0 0 0 6
+船海与能源动力工程学院 10065117078 高技术船舶设计
+Design of High-Tech Ship 2 32 32 0 0 0 0 7
+船海与能源动力工程学院 10065117079 高性能船舶水动力原理
+Hydrodynamic Principle of High Performance Ship 2 32 32 0 0 7
+
+
+[Page 16]
+船海与能源动力工程学院 10065117080 海洋平台建造工艺
+Offshore Platform Construction Technology 2 32 32 0 0 7
+船海与能源动力工程学院 10065117081 船舶结构材料与焊接
+Ship Structural Material and Welding 2 32 32 0 0 6
+船海与能源动力工程学院 10065121044
+船舶数值水池技术与应用
+Technology of Ship Numerical Towing Tank and Its
+Application
+2 32 16 0 16 0 0 7
+船舶流体力
+学,流体力
+学 A
+船海与能源动力工程学院 10065121046 智能船舶技术
+Intelligent Ship Technology 2 32 30 0 0 2 0 6 船舶原理 B
+船海与能源动力工程学院 10065121047
+船舶与海洋工程安全规范
+Safety and Regulations of Naval architecture & Ocean
+Engineering
+2 32 32 0 0 0 0 6
+船海与能源动力工程学院 10065121049 水下系统与探测技术
+Subsea Systems and Detection Technology 2 32 32 0 0 0 0 5
+高等数学 A
+下,高等数
+学 A 上
+船海与能源动力工程学院 10065121050 海洋工程装备技术
+Equipment Technology of Ocean Engineering 2 32 32 0 0 0 0 5
+船体强度与
+结构设计,
+船舶静力
+学,船体构
+造与制图
+船海与能源动力工程学院 10065124381 船舶自动控制原理
+Principle of Automatic Control 2 32 32 0 0 0 0 5
+船海与能源动力工程学院 10177311001 船舶动力装置
+Marine Power Plant 2 32 32 0 0 0 0 6
+小 计 Subtotal 48 768 728 6 32 2 0
+修读说明:要求至少选修 19 学分。
+NOTE:Minimum subtotal credits: 19.
+（六）个性课程
+6 Personalized Elective Courses
+船海与能源动力工程学院 10066111002
+船舶与海洋工程学科前沿
+Frontier of Subject of Naval Architecture and Ocean
+Engineering
+1 16 16 0 0 0 0 4
+小 计 Subtotal 1 16 16 0 0 0 0
+修读说明:学生从全校发布的个性课程目录中选课，要求至少选修 6 学分。
+NOTE: Students choose from the personalized curriculum catalog of the entire school, and are required to obtain at least 6 credits.
+（七）集中性实践教学环节
+7 Specialized Practice Schedule
+
+
+[Page 17]
+(1)实践课
+船海与能源动力工程学院 10067224417
+船舶与海洋工程创新创业实践
+Innovation and Entrepreneurship Practice of Naval
+Architecture and Ocean Engineering
+2 32 0 32 0 0 0 4
+船海与能源动力工程学院 10067224440
+船舶与海洋工程虚拟水池实践
+Virtual Pool Practice of Naval Architecture and Ocean
+Engineering
+1.5 24 0 24 0 0 0 7
+船海与能源动力工程学院 10067311005 船体强度与结构设计课程设计
+Course Exercise of Ship Strength and Structural Design 1.5 24 0 0 0 24 0 6
+船海与能源动力工程学院 10067311006 船舶设计原理课程设计
+Course Exercise of Principles of Ship Design 1 16 0 0 0 16 0 7
+船海与能源动力工程学院 10067311007 船舶静力学课程设计
+Course Exercise of Ship Hydrostatics 1 16 0 0 0 16 0 4
+船海与能源动力工程学院 10067315001 船舶与海洋工程专业生产实习
+Practice of Production 2 32 0 0 0 32 0 7
+船海与能源动力工程学院 10067315002 船舶推进课程设计
+Course Exercise of Ship Propulsion 1 16 0 0 0 16 0 5
+船海与能源动力工程学院 10067317001
+船舶与海洋工程计算分析软件综合实训与创新实践
+Comprehensive Training on Calculation Software of
+Naval Architecture and Ocean Engineering and
+Innovation Practice
+2 32 0 0 32 7
+船海与能源动力工程学院 10067317002
+船舶与海洋工程设计制造软件综合实训与创新实践
+Comprehensive Training on Design and Manufacture
+Software of Naval Architecture and Ocean Engineering
+and Innovation Practice
+3 48 0 0 48 7
+船海与能源动力工程学院 10067321099 认识实习 1 16 0 0 0 16 0 3
+船海与能源动力工程学院 10067324146 毕业设计(论文)
+Graduation Project (Thesis) 8 0 0 0 0 0 0 8
+船海与能源动力工程学院 10067324403 船体构造与制图课程设计
+Course Exercise of Ship Structure and Graphing 2 32 0 0 0 32 0 3
+自动化学院 10137311009 电工电子实习 B
+Practice of Electrical Engineering & Electronics 1 16 0 0 0 16 0 4
+电工学,电
+工学,电工
+学,电工学,
+电工学
+小 计 Subtotal 27 304 0 56 0 248 0
+修读说明:
+NOTE:
+
+
+[Page 19]
+五、 修读指导
+5 Recommendations on Course Studies
+1.课外培养方案详见《武汉理工大学第二课堂课外学分实施办法》。
+2.汉语授课本科层次国际学生汉语类课程修读要求详见《武汉理工大学本科层次国际学生公共汉语课程
+设置与修读要求》，其它课程修读与中国学生培养方案保持一致。
+3.各专业应不断强化劳动教育，将劳动要素融入专业教育，充分依托实习实训、社会调查等实践教学环
+节，设置劳动教育模块，标注含不少于 32 学时（2 学分）的劳动教育，明确劳动教育的目标、内容、形
+式和考核要求。
+1.Please refer to the cultivation plan of the second class-Implementation Measures for Extracurricular Credits of
+the Second Class of Wuhan University of Technology.
+2.Chinese courses for International students accepting Chinese teaching at undergraduate level can be found in
+detail the Public Chinese Curriculum and Study Requirements for International Students at undergraduate level of
+Wuhan University of Technology, and the study of other courses should be consistent with the undergraduate
+training program for Chinese students.
+3.All majors should continue to strengthen labor education, integrate labor elements into specialty education, fully
+rely on practical teaching links such as practical training and social investigation, set up labor education modules,
+label labor education with no less than 32 class hours (2 credits), and clarify the goal, content, form and
+assessment requirements of labor education.
+通识教育选修课中要求选修《中国造船史》。
+The course of China’s Shipbuilding History is one of required courses in the general
+education elective courses.
+学院教学负责人：王冲
+专业培养方案负责人：姚建喜
+
+
+[Page 20]
+附件：课程教学进程图
+Annex：Teaching Process Map

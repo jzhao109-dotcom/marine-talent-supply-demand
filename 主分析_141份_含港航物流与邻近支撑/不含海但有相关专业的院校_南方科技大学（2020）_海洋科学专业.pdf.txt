@@ -1,0 +1,935 @@
+
+
+[Page 1]
+ 
+ 1  
+海洋科学与工程系 
+海洋科学专业本科人才培养方案 
+（2020 级） 
+一、系部专业介绍 
+海洋科学专业是以数学、物理学、化学、生物学、地质学、地球物理学和海洋科学方面的基本理论和
+基本知识为基础，学习海洋科学特定领域的专业知识，接受海洋调查、海洋观测、数据分析和海洋科学问
+题研究方面的基本训练。学生将掌握海洋科学特定专业领域的工作方法，具有在海洋科学特定专业领域开
+展实验设计、数据采集、研究科学问题和解决应用问题的基本能力。目前，随着国家海洋战略的建立，海
+洋科学已经成为我国经济和国防建设的重要学科方向。 
+二、专业培养目标及培养要求 
+（一）培养目标 
+本专业培养具有良好的思想道德素质、较高的人文科学素养、并具有国际视野的高素质科技专门人
+才，学生将全面扎实地学习海洋科学的基本能理论、基础知识和基本技能；系统掌握海洋科学特定领域专
+业知识和专项技能；毕业后能胜任在海洋科学及相关领域的科研、教学、管理及技术研发工作，具有国际
+视野的高素质科技专门人才。 
+（二）培养要求 
+毕业生应获得以下几个方面的知识和能力： 
+1. 具有科学精神、敬业精神和海洋意识，有社会责任感，具有团结合作和人文科学素养； 
+2. 掌握数学、物理学、化学、生物学、地质学、地球物理学和海洋科学（地球系统科学）方面的
+基本理论和基本知识，掌握海洋科学特定领域专门化系统知识； 
+3. 掌握海洋调查、观测和分析研究的基本方法，掌握开展海洋科学特定领域工作的一般方法和专
+门技术； 
+4. 具有从事海洋常规调查研究和从事海洋科学特定领域专门工作的基本能力； 
+5. 了解相关学科的基本知识，了解海洋科学特定领域的重大学术问题、前沿学术成果和国际学术
+研究动向； 
+6. 具有一定的设计实验方案，创造实验条件，利用观测、模拟、实验、分析等方法进行海洋科学
+
+
+[Page 2]
+ 
+ 2  
+研究的能力，能够科学规范地撰写学术论文、参与学术交流活动； 
+7. 熟悉国家海洋科学技术政策和海洋科学国际合作研究管理，能够在知识产权、信息安全、国际
+合作协议等相关政策、法规、跳跃的框架内参与国内外不同团队在不同海域的海洋调查和研究工作； 
+8. 具有接受继续教育的良好素质和能力。 
+三、学制、授予学位及毕业学分要求  
+1、学制：4年。按照学分制管理机制，实行弹性学习年限，但不得低于3年或超过6年。 
+2、学位：对完成并符合本科培养方案学位要求的学生，授予理学学士学位。 
+3、最低学分要求：海洋科学本科专业毕业最低学分要求为137学分（不含英语课学分）。课程结构要
+求如下： 
+课程模块 课程类别 最低学分要求 
+通识必修课程（57 学分） 
+理工基础类 31 
+军事体育类 8 
+思想政治品德类 16 
+写作与交流类 2 
+通识选修课程（10 学分） 
+人文类 4 
+社科类 4 
+艺术类 2 
+理工类 0 
+专业课程（70 学分） 
+专业基础课 21 
+专业核心课 9 
+专业选修课 26 
+实践课程(包括毕业论文、
+实习、科技创新项目） 14 
+合计（不含英语课学分） 137 
+ 
+四、专业类及专业代码 
+专业类：海洋科学类（0707）;专业代码：070701。 
+五、专业主要（干）课程 
+本专业的基础课程为：大气科学导论、普通地质学、海洋科学导论、地球历史、海洋生态系统导论、
+计算海洋学基础、地球与空间科学导论； 
+本专业的核心课程为：海洋地质学、物理海洋学、微生物海洋学、化学海洋学、海洋地球物理学 、海
+洋生物学。 
+六、主要实践性教学环节  
+主要实践性教学主要包括：地质实习、海上实习、本科生科技创新项目（成绩优异的本科生可跟随教
+授从事科研工作，包括暑假期间），以及毕业论文等。  
+
+
+[Page 3]
+ 
+ 3  
+七、进入专业前应修读完成课程的要求 
+进入专业时间 课程编号 课程名称 先修课程 
+第一学年结束时
+申请进入专业 
+MA102B 高等数学（下）A 
+Calculus II A 
+MA101B 
+OCE201 海洋科学导论 
+Introduction to Oceanography 
+ 
+同时修读完成以下四门课程中的两门 
+PHY105B 大学物理(下) B 
+General Physics B (II) 
+PHY103B 
+CH101B 化学原理 B 
+General Chemistry B 
+ 
+CS102B 计算机程序设计基础 B 
+Introduction to Computer Programming B 
+ 
+BIO102B 生命科学概论 
+Introduction to Life Science 
+ 
+第二学年结束时
+申请进入专业 
+MA101B 高等数学（上）A 
+Calculus I A 
+ 
+MA102B 高等数学（下）A 
+Calculus II A 
+ 
+MA107A 线性代数 A 
+Linear Algebra A 
+ 
+PHY103B 大学物理 (上) B 
+General Physics B (I) 
+ 
+PHY105B 大学物理(下) B 
+General Physics B (II) 
+ 
+CH101B 化学原理 B 
+General Chemistry B 
+ 
+CS102B 计算机程序设计基础 B 
+Introduction to Programming B 
+ 
+BIO102B 生命科学概论 
+Introduction to Life Science 
+ 
+PHY104B 基础物理实验 
+Experiments of Fundamental Physics 
+ 
+OCE201 海洋科学导论 
+Introduction to Oceanography 
+ 
+OCE202 地球历史 
+Earth System History 
+ 
+  
+
+
+[Page 4]
+ 
+ 4  
+八、通识必修课程教学修读要求 
+1、理工基础类课程 
+ 
+2、军事体育类课程 
+课程 
+编号 
+课程名称 
+(中英文) 学分 其中实
+验学分 
+周学
+时 
+开课
+学期 
+建议修
+课学期 
+授课
+语言 
+先修课
+程 
+开课 
+院系 
+GE102 军事理论 
+Military Theory 2   
+开学前 
+C 无 学生工
+作部 GE104 军事技能 
+Military Skills 2 2  C 无 
+GE131 体育 I 
+Physical Education I 1  2 秋 1/秋 C 无 
+体育 
+中心 
+GE132 体育 II 
+Physical Education II 1  2 春 1/春 C 无 
+GE231 体育 III 
+Physical Education III 1  2 秋 2/秋 C 无 
+GE232 体育 IV 
+Physical Education IV 1  2 春 2/春 C 无 
+GE331 体育 V 
+Physical Education V 0   秋 3/秋 C 无 
+GE332 体育 Ⅵ 
+Physical Education Ⅵ 0   春 3/春 C 无 
+GE431 体育 Ⅶ 
+Physical Education Ⅶ 0   秋 4/秋 C 无 
+GE432 体育 Ⅷ 
+Physical Education Ⅷ 0   春 4/春 C 无 
+合计 8 2       
+注：体育课程四年修读，为必修课。第1-4 学期的体育Ⅰ-体育Ⅳ为体育选项课，每学期1 学分；第5-8 学期的体育 V-体育Ⅷ
+为课外锻炼课程，不设学分，具体按照体育中心公布《南方科技大学体育课程方案》执行。 
+课程 
+编号 
+课程名称 
+（中英文名） 学分 其中实
+验学分 
+周 
+学时 
+开课 
+学期 
+建议修
+课学期 
+先修 
+课程 
+开课
+院系 
+MA101B 高等数学（上）A 
+Calculus I A 4  4 春秋 1/秋  数学 
+MA102B 高等数学（下）A 
+Calculus II A 4  4 春秋 1/春 MA101B 数学 
+MA107A 线性代数 A 
+Linear Algebra A 4  4 春秋 1/秋  数学 
+PHY103B 大学物理 (上) B 
+General Physics B (I) 4  4 春秋 1/秋  物理 
+PHY105B 大学物理(下) B 
+General Physics B (II) 4  4 春秋 1/春 PHY103B 物理 
+CH101B 化学原理 B 
+General Chemistry B 3  3 春秋 1/春秋  化学 
+CS102B 
+计算机程序设计基础 B 
+Introduction to Computer 
+Programming B 
+3 1 4 春秋 1/春秋  计算
+机 
+BIO102B 生命科学概论 
+Introduction to Life Science 3  3 春秋 1/春秋  生物 
+PHY104B 基础物理实验 
+Experiments of Fundamental Physics 2 2 4 春秋 1/春秋  物理 
+总计 31 3 34     
+
+
+[Page 5]
+ 
+ 5  
+3、思想政治品德类课程 
+课程 
+编号 
+课程名称 
+(中英文) 
+学分 
+其中实
+验学分 
+周学
+时 
+开课
+学期 
+建议修
+课学期 
+授课语
+言 
+先修
+课程 
+开课
+院系 
+IPE105 形势与政策 
+Situation and Policy 2  2 春秋 
+1-3/ 
+春秋 
+ 
+C 无 
+思政
+中心 
+IPE103 
+中国近现代史纲要 
+The Outline of Modern and 
+Contemporary History of China 
+2  2 春秋 C 无 
+IPE101 
+思想道德修养和法律基础 
+Cultivation of Ethic Thought and 
+Fundamentals of Law 
+2  2 春秋 C 无 
+IPE104 
+毛泽东思想和中国特色社会主义理论
+体系概论 
+Mao Zedong Thought and 
+Introduction to the Theoretical 
+System of Socialism with Chinese 
+Characteristic 
+3  3 春秋 C 无 
+IPE102 马克思主义基本原理概论 
+The Basic Principles of Marxism 2  2 春秋 C 无 
+IPE107 马克思主义基本原理实践课 
+The Basic Principles of Marxism 1 1  春秋
+夏  C 无 
+IPE106 
+思想道德修养与法律基础实践课
+Cultivation of Ethics and 
+Fundamentals of Law 
+1 1  春秋
+夏  C 无 
+IPE109 
+中国近现代史纲要实践课 
+ Practice Course of Brief History 
+of Modern China 
+1 1  春秋
+夏  C 无 
+IPE110 
+毛泽东思想和中国特色社会主义理论
+体系概论实践课 
+Practice Course of Introduction to 
+Mao Zedong Thought and 
+Theoretical System of Socialism with 
+Chinese Characteristic 
+2 2  春秋
+夏  C 无 
+合计 16 5       
+ 
+4、中文写作与交流类课程 
+ 
+5、外语类课程 
+学生在入学后进行语言测试，根据测试结果，确定修读类别分级修读： 
+A类修读SUSTech English III、 English for Academic Purposes，合计6学分； 
+B类修读SUSTech English II、SUSTech English III、 English for Academic Purposes，合计10学分； 
+课程 
+编号 
+课程名称 
+（中英文名） 学分 其中实
+验学分 
+周 
+学时 
+开课 
+学期 
+建议修
+课学期 
+先修 
+课程 
+开课 
+院系 
+HUM032 写作与交流 
+Writing and Communication Skills 2 0 2 春秋 1/春秋 无 人文中
+心 
+总计 2  2     
+
+
+[Page 6]
+ 
+ 6  
+C类修读SUSTech English I、SUSTech English II、SUSTech English III、 English for Academic 
+Purposes，合计14学分。 
+ 
+九、通识选修课程修读要求 
+1、人文类课程最低修读要求4学分、社科类课程最低修读要求4学分、艺术类课程最低修读要求2学
+分。 
+2、理工类课程无要求。 
+  
+课程 
+编号 
+课程名称 
+（中英文名） 学分 其中实
+验学分 
+周 
+学时 
+开课 
+学期 
+开课 
+院系 
+CLE021 SUSTech English I 4 0 4 秋 
+语言中心 
+CLE022 SUSTech English II 4 0 4 春秋 
+CLE023 SUSTech English III 4 0 4 春秋 
+CLE030 English for Academic Purposes 2 0 2 春秋 
+
+
+[Page 7]
+ 
+ 7  
+十、专业课程教学安排一览表 
+表 1 专业必修课（基础课与专业核心课）教学安排一栏表 
+海洋科学专业 
+课程
+类别 
+课程 
+编号 
+课程名称 
+(中英文) 学分 
+其中
+实验
+学分 
+周
+学
+时 
+开课
+学期 
+建议修
+课学期 
+授课
+语言 
+先修课
+程 
+开课院
+系 
+专
+业
+基
+础
+课 
+OCE201 
+海洋科学导论 
+Introduction to 
+Oceanography 
+3 0 3 春秋 1/春秋 C/E  海洋系 
+OCE202 地球历史 
+Earth System History 3 0 3 春 1/春 B  海洋系 
+OCE301 
+大气科学导论 
+Introduction to 
+Atmospheric Science 
+3 0 3 秋 2/秋 B  海洋系 
+OCE302 
+海洋生态系统导论 
+Introduction to Marine 
+Ecosystem 
+3 0 3 秋 2/秋 B  海洋系 
+OCE303 普通地质学 
+Physical Geology 3 0 3 秋 2/秋 B  海洋系 
+ESS201 
+地球与空间科学导论 
+Introduction to Earth 
+and Space Sciences 
+3 0 3 秋 2/秋 B  地空系 
+OCE304 
+计算海洋学基础 
+Introduction to 
+Computational 
+Oceanography 
+3 0 3 春 3/春 B CS102B 海洋系 
+合计 21 0 21  
+专
+业
+核
+心
+课 
+OCE203 海洋生物学 
+Marine Biology 3 0 3 春 2/春 B  海洋系 
+OCE305 物理海洋学 
+Physical Oceanography 3 0 3 春 2/春 B OCE201 海洋系 
+OCE307 
+化学海洋学 
+Chemical 
+Oceanography 
+3 0 3 春 2/春 B OCE302 海洋系 
+OCE308 
+微生物海洋学 
+Microbial 
+Oceanography 
+3 0 3 春 2/春 B OCE302 海洋系 
+OCE401 海洋地球物理学 
+Marine Geophysics 3 0 3 秋 3/秋 B OCE201 海洋系 
+OCE306 海洋地质学 
+Marine Geology 3 0 3 春 3/春 B OCE303 海洋系 
+合计 18 0 18 备注：专业核心课至少选 9 学分。超过的额外学
+分将计入专业选修课学分。 
+实
+践
+课
+程 
+OCE470 地质实习 
+Geology Field Trip 2 2 4 夏 2/夏 B OCE201 
+OCE202 海洋系 
+OCE471 海上实习 
+Marine Cruises 2 2 4 夏 3/夏 B OCE201 海洋系 
+OCE480 
+科研创新项目 
+Projects of Science and 
+Technology Innovation 
+2 2 4 秋 4/秋 B  海洋系 
+OCE490 
+毕业论文（设计） 
+Thesis (Graduation 
+Project) 
+8 8 16 春 4/春 B  海洋系 
+合计 14 14 28  
+（授课语言：C 中文；B 中英双语；E 英文） 
+
+
+[Page 8]
+ 
+ 8  
+表 2 专业选修课教学安排一栏表 
+海洋科学专业 
+课程 
+编号 
+课程名称 
+(中英文) 学分 其中实
+验学分 
+周
+学
+时 
+开课
+学期 
+建议修
+课学期 
+授课
+语言 先修课程 开课院系 
+海洋科学类课程 
+OCE103 海岸带地质地貌原理 
+Beaches and Coasts 2 0 2 秋 1/秋 B  海洋系 
+OCE204 海洋科学趣谈 
+The Taste of Ocean 1 0 1 春 1/春 B  海洋系 
+OCE313 
+海洋地球动力学前沿 
+Frontiers in Marine 
+Geodynamics 
+1 0 1 秋 3/秋 E  海洋系 
+OCE412 海洋科学史 
+History of Ocean Sciences 2 0 2 秋 4/秋 B  海洋系 
+海洋地球物理学类课程 
+EE205 信号和系统 
+Signals and Systems 3 1 4 秋 2/秋 B  电子系 
+PHY203-
+15 
+数学物理方法 
+Mathematical Methods in 
+Physics 
+4 0 4 秋 2/秋 B 
+MA102B 
+MA107A 
+PHY105B 
+物理系 
+ESS205 计算方法 
+Computational Methods 3 0 3 春 2/春 B  地空系 
+EE323 数字信号处理 
+Digital Signal Processing 3 1 4 秋 3/秋 E EE205 电子系 
+ESS308 
+地球物理学基础 I (地震学原理) 
+Fundamentals of Geophysics I 
+(Seismology) 
+3 0 3 秋 3/秋 B MA101B 
+MA107A 地空系 
+ESS309 
+地球物理学基础 II (地磁学地电
+电热和重力) 
+Fundamentals of Geophysics II 
+(Geomagnetism, Geoelectricity, 
+Geothermics and Gravity) 
+4 0 4 秋 3/秋 B MA101B 地空系 
+ESS310 地球物理实验 
+Geophysical Experiments 3 1 4 春 3/春 B ESS308 
+ESS309 地空系 
+ESS421 重力与固体潮 
+Gravity and Earth tide 3 0 3 春 3/春 B MA101B 
+MA107A 地空系 
+OCE402 
+海洋地震观测基础 
+Fundamental of Marine 
+Seismology Observations 
+3 0 3 秋 4/秋 B OCE304 海洋系 
+海洋地质学类课程 
+ESE329 遥感原理 
+Principles of Remote Sensing 3 0 3 春 2/春 C 
+MA102B 
+PHY105B 
+ESE201 
+环境学院 
+OCE309 
+古地磁学与环境地磁学 
+Paleomagnetism and 
+Environmental Magnetism 
+3 0 3 秋 3/秋 B OCE303 海洋系 
+ESE317 地理信息系统与遥感应用 
+Application of GIS & RS 3 0.5 3.5 秋 3/秋 C CS102B 
+ESE201 环境学院 
+OCE404 海洋沉积学 
+Marine Sedimentology 3 0 3 春 3/春 B OCE201 
+OCE306 海洋系 
+OCE407 矿物学与岩石学 
+Mineralogy and Petrology 2 0 2 春 3/春 B  海洋系 
+OCE408 矿物学与岩石学实验 1 1 2 春 3/春 B OCE407 海洋系 
+
+
+[Page 9]
+ 
+ 9  
+Mineralogy and Petrology 
+Laboratory 
+ESS406 地球化学 
+Geochemistry 2 0 2 秋 4/秋 B  地空系 
+海洋微生物学类课程 
+BIO104 普通生物学实验 
+General Biology Laboratory 2 2 4 春 1/春 B 
+BIO102B 
+或
+BIO103 
+生物系 
+OCE411 极端环境生命过程 
+Life in Extreme Environments 2 0 2 秋 2/秋 B OCE302 海洋系 
+OCE205 
+海洋环境生物学实验 
+Biology of the Marine 
+Environment Lab 
+2 2 4 春 2/春 B  海洋系 
+OCE472 
+极端环境生命过程野外实习 
+Field Trip of Life in Extreme 
+Environments 
+2 2 4 夏 2/夏 B 
+OCE308
+或
+OCE411 
+海洋系 
+BIO309 计算生物学 
+Computational Biology 3 1 4 秋 3/秋 B  生物系 
+OCE318 海洋分子生物学实验 
+Marine Molecular Biology Lab 2 2 4 秋 3/秋 B  海洋系 
+OCE316 
+海洋微生物学实验 
+Marine Microbiology 
+Laboratory 
+2 2 4 春 3/春 B OCE308 海洋系 
+BIO306 生物信息学 
+Bioinformatics 4 2 6 春 3/春 B BIO309 生物系 
+OCE409 
+海洋生物有机地球化学 
+Marine Organic 
+Biogeochemistry 
+3 0 3 秋 4/秋 B  海洋系 
+OCE410 地质微生物学 
+Geomicrobiology 3 0 3 秋 4/秋 B  海洋系 
+海洋化学类课程 
+CH102-
+17 
+化学原理实验 A 
+General Chemistry Laboratory 
+A 
+1.5 1.5 3 春 1/春 B CH101A 化学系 
+CH203 有机化学 I 
+Organic Chemistry I 4 0 4 秋 2/秋 B CH101A 化学系 
+CH208 有机化学实验 
+Organic Chemistry Laboratory 2 2 4 春 2/春 C 
+CH 102-
+17 
+CH203 
+化学系 
+ESE206 环境化学 
+Environmental Chemistry 3 0 3 春 2/春 B CH101B 环境学院 
+OCE311 海水分析化学* 
+Seawater Analysis 3 0 3 春 2/春 B  海洋系 
+OCE312 海水分析化学实验** 
+Seawater Analysis Laboratory 2 1 2 春 2/春 B OCE307 海洋系 
+ESE212 环境监测 
+Environment Monitoring 2 0 2 春 3/春 E CH101B 
+PHY105B 环境学院 
+ESE214 
+环境监测实验 
+Environment Monitoring 
+Laboratory 
+1 1 2 春 3/春 C CH102-
+17 环境学院 
+CH218 分析化学 II 
+Analytical Chemistry II 3 0 3 春 3/春 B CH216 
+CH217 化学系 
+CH219 
+分析化学实验 II 
+Analytical Chemistry 
+Laboratory II 
+2 2 4 春 3/春 B CH218 化学系 
+物理海洋学类课程 
+
+
+[Page 10]
+ 
+ 10  
+ME112 MATLAB 工程应用 
+Introduction to Matlab 2 1 3 春 1/春 B  机械系 
+MAE207 工程流体力学 
+Engineering Fluid Mechanics 3 0 3 秋 2/秋 B MA102B 力学系 
+ESE204 
+环境工程原理 
+Principles of Environmental 
+Engineering 
+2 0 2 秋 2/秋 C CH101A 
+PHY105B 环境学院 
+ESE319 全球气候变化 
+Global Climate Change 3 0 3 春 2/春 E  环境学院 
+MSE202 物理化学 
+Physical Chemistry 3 0 3 春 2/春 E MA102B 
+CH101A 材料系 
+MA201b 
+常微分方程 B 
+Ordinary Differential  
+Equations B 
+4 0 4 春 2/春 B MA102B 数学系 
+OCE317 
+海洋环流数值模拟 
+Numerical Simulation of Ocean 
+Circulation 
+3 0 3 秋 3/秋 B OCE201 
+OCE305 海洋系 
+OCE314 卫星海洋学 
+Satellite Oceanography 3 0 3 春 3/春 B  海洋系 
+MAE302
+-16 
+流体力学实验 
+Fluid Mechanics Lab 3 3 6 春 3/春 C 
+MAE207 
+或 
+MAE303 
+力学系 
+ESE304 
+大气污染与防治 
+Atmospheric Pollution 
+Prevention and Control 
+3 0 3 春 3/春 C ESE206 
+MSE202 环境学院 
+ESS405 
+信号分析与数据处理 
+Signal Analysis and Data 
+Processing 
+3 0 3 春 3/春 B MA101B 
+MA107A 地空系 
+OCE406 
+天然灾害与监测 
+Natural Hazards and 
+Monitoring 
+2 0 2 秋 4/秋 B  海洋系 
+海洋工程类课程 
+OCE206 海洋工程前沿 
+Frontiers of Ocean Engineering 3 0 3 春 1/春 B  海洋系 
+MA109 线性代数精讲 
+Advanced Linear Algebra 4 0 4 春 1/春 B MA107B 数学系 
+MAE203
+B 
+理论力学 I-B 
+Engineering Mechanics I – 
+Statics and Dynamics 
+3 0 3 秋 2/秋 E MA107A 力学系 
+MAE202 材料力学 
+Mechanics of Materials 3 0 3 春 2/春 B MA102B 
+MA107A 力学系 
+OCE310 
+海洋技术基础 
+Fundamentals of Ocean 
+Technology 
+3 0 3 春 2/春 B  海洋系 
+OCE207 海洋工程水动力学 
+Offshore Hydrodynamics 3 0 3 春 2/春 B MA102B 
+PHY105B 海洋系 
+OCE208 
+海洋工程材料 
+Materials for Ocean 
+Engineering 
+3 0 3 春 2/春 B  海洋系 
+MAE401
+-16 
+固体力学实验 
+Solid Mechanics Lab 3 3 6 秋 3/秋 C MAE202 力学系 
+OCE319 海洋土力学 
+Marine Soil Mechanics 3 0 3 秋 3/秋 B  海洋系 
+OCE320 
+海洋工程测试技术 
+Monitoring Technology of 
+Ocean Engineering 
+3 0 3 秋 3/秋 B  海洋系 
+
+
+[Page 11]
+ 
+ 11  
+OCE321                                                                                          海洋基础工程 
+Offshore Foundations 3 0 3 秋 3/秋 B  海洋系 
+MAE304 弹性力学 
+Elasticity 4 0 4 春 3/春 C MAE203 
+MAE202 力学系 
+OCE405 结构力学 
+Structural Mechanics 3 0 3 秋 4/秋 B  海洋系 
+合计 175.5 32 206.5  
+注：专业选修课程每生至少选修 26 学分。 
+*注：如学生已修读《分析化学 I》（CH216，3 学分），可以此课程替代《海水分析化学》（OCE311，3 学分）。 
+**注：如学生已修读《分析化学实验 I》（CH217，2 学分），可以此课程替代《海水分析化学实验》（OCE312，2 学
+分）。 
+  
+
+
+[Page 12]
+ 
+ 12  
+表 3 实践性教学环节安排表 
+海洋科学专业                                                        
+课程 
+编号 
+课程名称 
+(中英文) 学分 其中实
+验学分 
+周
+学
+时 
+开课
+学期 
+建议修
+课学期 
+授课
+语言 先修课程 开课院系 
+BIO104 普通生物学实验 
+General Biology Laboratory 2 2 4 春 1/春 B 
+BIO102B 
+或
+BIO103 
+生物系 
+ME112 MATLAB 工程应用 
+Introduction to Matlab 2 1 3 春 1/春 B  机械系 
+CH102-
+17 
+化学原理实验 A 
+General Chemistry Laboratory 
+A 
+1.5 1.5 3 春 1/春 B CH101A 化学系 
+EE205 信号和系统 
+Signals and Systems 3 1 4 秋 2/秋 B  电子系 
+OCE205 
+海洋环境生物学实验 
+Biology of the Marine 
+Environment Lab 
+2 2 4 春 2/春 B  海洋系 
+CH208 有机化学实验 
+Organic Chemistry Laboratory 2 2 4 春 2/春 C 
+CH 102-
+17 
+CH203 
+化学系 
+OCE312 海水分析化学实验 
+Seawater Analysis Laboratory 2 2 4 春 2/春 B OCE307 海洋系 
+OCE470 地质实习 
+Geology Field Trip 2 2 4 夏 2/夏 B OCE201 
+OCE202 海洋系 
+OCE472 
+极端环境生命过程野外实习 
+Field Trip of Life in Extreme 
+Environments 
+2 2 4 夏 2/夏 B 
+OCE308
+或
+OCE411 
+海洋系 
+OCE318 海洋分子生物学实验 
+Marine Molecular Biology Lab 2 2 4 秋 3/秋 B OCE315 海洋系 
+EE323 数字信号处理 
+Digital Signal Processing 3 1 4 秋 3/秋 E EE205 电子系 
+ESE317 地理信息系统与遥感应用 
+Application of GIS & RS 3 0.5 3.5 秋 3/秋 C CS102B 
+ESE201 环境学院 
+BIO309 计算生物学 
+Computational Biology 3 1 4 秋 3/秋 B  生物系 
+MAE401
+-16 
+固体力学实验 
+Solid Mechanics Lab 3 3 6 秋 3/秋 C MAE202 力学系 
+ESE214 
+环境监测实验 
+Environment Monitoring 
+Laboratory 
+1 1 2 春 3/春 C CH102-
+17 环境学院 
+OCE316 
+海洋微生物学实验 
+Marine Microbiology 
+Laboratory 
+2 2 4 春 3/春 B OCE308 海洋系 
+OCE408 
+矿物学与岩石学实验 
+Mineralogy and Petrology 
+Laboratory 
+1 1 2 春 3/春 B OCE407 海洋系 
+ESS310 地球物理实验 
+Geophysical Experiments 3 1 4 春 3/春 B ESS308 
+ESS309 地空系 
+MAE302
+-16 
+流体力学实验 
+Fluid Mechanics Lab 3 3 6 春 3/春 C 
+MAE207 
+或 
+MAE303 
+力学系 
+CH219 分析化学实验 II 
+Analytical Chemistry 2 2 4 春 3/春 B CH218 化学系 
+
+
+[Page 13]
+ 
+ 13  
+Laboratory II 
+OCE471 海上实习 
+Marine Cruises 2 2 4 夏 3/夏 B OCE201 海洋系 
+OCE480 
+科研创新项目 
+Projects of Science and 
+Technology Innovation 
+2 2 4 秋 4/秋 B  海洋系 
+OCE490 毕业论文（设计） 
+Thesis (Graduation Project) 8 8 16 春 4/春 B  海洋系 
+合计 56.5 45 101.5  
+ 
+  
+
+
+[Page 14]
+ 
+ 14  
+表 4 学时、学分汇总表 
+海洋科学专业 
+ 总学时 总学分 最低学分要求 占总学分百分比 
+通识必修课程（不含英语课学分） 912 57 57 42% 
+通识选修课程   10 7% 
+专业基础课 336 21 21 15% 
+专业核心课 240 18 9 7% 
+专业选修课 3304 175.5 26 19% 
+实践课程（包括毕业论文/设计、科技
+创新项目、专业实习） 448 14 14 10% 
+合计（不含英语课学分） 5240 285.5 137 100% 
+
+
+[Page 15]
+ 
+ 15  
+ 海洋科学专业课程结构图 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

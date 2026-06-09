@@ -1,0 +1,316 @@
+电子信息工程专业培养方案
+一、学制和授予学位
+1．标准学制：四年
+2．授予学位：工学学士学位
+二、培养目标
+本专业由福州大学和台湾铭传大学联合培养，旨在培养适应国家和地方社会发展需求，在电子信息工程领域具备分析复杂系统和解决复杂工程问题的能力；具有正确的政治素养、良好的思想品德、良好的人文素养、高尚的职业素质及职业道德和强烈的社会责任感等综合素质；具有良好的人际交往能力及团队合作精神、创新创业能力和国际视野；具有良好的组织管理和终身学习的能力；学生毕业后能成为在电子信息相关行业和领域中从事研究开发、工程设计、设备制造、网络运营或技术管理等方面工作的高级专业技术人才或领军人才。具体体现在以下四个方面：
+能够根据国家和地方电子信息相关行业发展的需要，融会贯通运用本专业相关的数学、物理、工程基础知识以及电子信息专业知识，对本领域的复杂工程问题提出系统性解决方案；
+能够跟踪电子信息领域前沿技术，具备一定的工程创新思维和工程管理能力，具备运用现代工具从事面向电子信息相关行业和领域的研究、设计、集成和应用开发的能力；
+具备正确的政治素养、良好的思想品德，以及良好的人文科学素养、健康的身心、职业道德和社会责任感，在工程实践中能够综合考虑多方面因素的影响，能有效进行科技交流与团队合作，胜任团队的成员或领导角色；
+能够积极主动适应不断变化的社会和经济发展需求，具有良好的国际化视野，拥有主动终身学习的习惯和能力。
+三、毕业要求
+电子信息工程专业毕业生应获得以下几方面的知识、能力和素质：
+1. 品德修养：
+具有坚定正确的政治方向、良好的思想品德和健全的人格，热爱祖国，热爱人民，拥护中国共产党的领导；具有正确的世界观、人生观、价值观；具有科学精神、人文修养、职业素养、社会责任感和积极向上的人生态度，了解世情国情党情民情，践行社会主义核心价值观。
+2. 工程知识：
+2.1掌握数学、自然科学、工程基础和电子信息工程的专业知识，并能够运用于电子信息工程领域复杂工程问题的适当表述；
+2.2能够结合专业基础知识对电子信息工程领域的复杂工程问题进行建模和计算；
+2.3能够运用专业知识对复杂工程问题抽象出的模型进行推理和求解，并尝试改进。
+3. 问题分析：
+3.1 能够运用数学、自然科学与专业知识的基本原理，对电子信息工程领域的复杂问题进行正确识别和表达，将工程问题进行有效分解，开展理论分析；
+3.2 能够应用专业知识，根据工程需求、确定设计目标、实际限制条件，确定设计性能指标；
+3.3 能够通过文献调研，结合工程实际，对电子信息工程领域复杂工程问题的解决方案进行分析，提出解决思路或改进方法，获得有效结论。
+4. 设计/开发解决方案：
+4.1掌握专业知识与技能，能够针对电子信息工程领域工程问题的解决方案，设计开发满足信息采集、处理、传输等工程需求的硬件单元、软件算法、系统结构和调试方案；
+4.2 综合考虑经济、社会、健康、安全、法律、文化及环境因素，了解设计开发解决方案时需要考虑的各种制约因素；
+4.3 能够综合应用电子信息工程领域专业知识对解决方案进行优化和改进，在设计实现环节上体现创造性。
+5. 研究：
+5.1能够基于科学原理，对电子信息工程领域的具体复杂工程、系统或科学问题进行研究，掌握科学实验的基本实验方法和理论；
+5.2能够运用专业知识，针对电子信息工程领域的复杂工程问题，设计实验或仿真方案、对数据进行分析与解释、归纳和总结，并通过信息综合得到有效的研究结论。
+6. 使用现代工具：
+6.1掌握通电子信息工程领域中系统设计和建模的基本设计和仿真工具，仪器设备和开发工具的使用；
+6.2 能够正确选择与使用测试和开发工具对电子信息工程领域的复杂工程问题进行模拟、仿真和设计，并能够理解其在方法、技术和结果上的局限性。
+7. 工程与社会：
+7.1了解电子信息工程领域及相关行业的安全规范、技术规范、行业标准等信息，并理解应承担的责任；
+7.2 能从社会、健康、安全、法律以及文化的角度，合理地评价电子信息工程领域的工程实践和复杂工程问题的解决方案所产生的影响，并理解应承担的责任。
+8. 环境和可持续发展：
+8.1能够正确理解电子信息工程领域涉及的环境保护和社会可持续发展的内涵和意义；
+8.2 能够正确评价电子信息工程设计、运行和应用对环境、资源和社会可持续发展的影响，并能够基于可持续发展理念指导复杂工程的设计、开发与管理。
+9. 职业规范：
+9.1 具有人文社会科学素养，理解社会主义核心价值观，了解国情，自觉维护国家利益，具有社会责任感；
+9.2 了解电子信息工程领域工程师的职业性质和责任，能够在工程实践中理解并遵守工程职业道德和规范，履行责任。
+10. 个人和团队：
+10.1 理解多学科团队对电子信息工程领域复杂工程实践的意义与作用，理解团队中每个角色的定位与责任；
+10.2 能够主动与团队成员协作，完成团队分配的任务，承担个体、团队成员以及负责人的角色与责任。
+11. 沟通：
+11.1 就电子信息工程领域复杂工程的设计、开发与管理等问题，能够以书面和口头形式与业界同行及社会公众进行有效沟通和交流，包括设计文稿和报告的撰写、陈述、发言与回答；
+11.2 在电子信息工程领域具备一定的国际视野，能够在跨文化背景下进行沟通、交流与合作。
+12. 项目管理：
+12.1了解工程项目管理知识体系，理解并掌握电子信息工程领域相关的工程管理与经济决策方法，并能在多学科复杂项目环境中应用。
+13. 终身学习：
+13.1 了解拓展知识和能力的途径，具有自主学习和终身学习的意识；13.2 了解电子信息工程领域的科技与行业新进展，具备不断学习和适应发展的能力。
+四、核心课程
+信号与系统、信息论与编码、数字信号处理、通信原理、电路分析、模拟电路、数字电路、微处理器原理与应用、数据结构与算法、计算机网络、可编程逻辑设计、嵌入式系统及其应用、数字图像处理、电磁场与电磁波等。
+五、毕业最低学分
+六、课程设置，各教学环节安排
+(一)必修课
+1.通识教育必修课
+注：考核方式：1表示考试，2表示考查，下同。
+2.学科基础必修课
+3.专业必修课
+(二)选修课
+1.专业选修课，应修7.5学分
+2.通识教育选修课，应修6学分
+学生在校期间应修满6学分的通识教育选修课，其中人文社会科学类2学分，文学与艺术类2学分，劳动教育类2学分。
+3.个性培养课程，应修10学分
+(1)创新创业实践与素质拓展课，应修2学分
+学生在校期间应修满2学分的创新创业实践与素质拓展课，有以下2种渠道获得相应学分：学生可按照《福州大学本科生创新创业实践与素质拓展学分认定管理实施办法》中的有关规定获得学分；学生修读由专业专门开设的创新创业类实践课。
+(2)跨学科、本硕博课程，应修8学分
+(三)集中性实践环节（标#的课程为劳动教育依托课程）
+1.实践必修
+2.实践选修，应修3学分
+电子信息工程专业毕业要求对培养目标的支撑关系表
+课程体系对毕业要求的支撑关系表
+*H、M、L 分别表示课程对毕业要求的贡献度为强、中、弱
+
+[Table 1]
+课程类别	课程类别	课程类别	学 分 数	学时数	学时数	学时数	学时数	各模块学分 占总学分 百分比
+课程类别	课程类别	课程类别	学 分 数	总学时	其中	其中	其中	各模块学分 占总学分 百分比
+课程类别	课程类别	课程类别	学 分 数	总学时	课内 实验	课内 上机	独立设课实验(上机)	各模块学分 占总学分 百分比
+课堂 教学	必修课程	通识教育必修课	35	676	/	24	/	20.8%
+课堂 教学	必修课程	学科基础必修课	58	928	34	12	/	34.5%
+课堂 教学	必修课程	专业必修课	17.5	280	46	12	/	10.4%
+课堂 教学	选修课程	通识教育选修课	6	96	/	/	/	3.6%
+课堂 教学	选修课程	专业选修课	7.5	120	/	/	/	4.5%
+课堂 教学	选修课程	创新创业实践与素质拓展课	2	48	/	/	/	1.2%
+课堂 教学	选修课程	跨学科、硕博课程	8	128	/	/	/	4.8%
+课堂 教学	小计	小计	134	2276	80	48	/	79.8%
+集中性实践环节	集中性实践环节	集中性实践环节	34	156+34.5周	/	156	20.2%
+合计	合计	合计	168	2432学时+34.5周	2432学时+34.5周	2432学时+34.5周	2432学时+34.5周	100%
+
+[Table 2]
+开课 单位	中文课程名称	英文课程名称	学 分 数	学时数	学时数	学时数	周 学 时	考核方式	开设 学期
+开课 单位	中文课程名称	英文课程名称	学 分 数	总 学 时	其中	其中	周 学 时	考核方式	开设 学期
+开课 单位	中文课程名称	英文课程名称	学 分 数	总 学 时	实 验	上 机	周 学 时	考核方式	开设 学期
+马院	思想道德与法治	Value, Morality and Rule of Law	2	32	2	1	1
+马院	中国近现代史纲要	The Outline of Chinese Modern and Contemporary History	2.5	40	3	1	1
+马院	马克思主义基本原理	The Basic Principles of Marxism	3	48	3	1	3
+马院	习近平新时代中国特色社会主义思想概论	Introduction to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era	2.5	40	3	1	3
+马院	毛泽东思想和中国特色社会主义理论体系概论	Introduction to Mao Zedong Thought and the Theoretical System of Socialism with Chinese Characteristics	3	48	3	1	4
+马院	形势与政策（一）	Situation and Policy (1)	0.25	8	2	2	1
+马院	形势与政策（二）	Situation and Policy (2)	0.25	8	2	2	2
+马院	形势与政策（三）	Situation and Policy (3)	0.25	8	2	2	3
+马院	形势与政策（四）	Situation and Policy (4)	0.25	8	2	2	4
+马院	形势与政策（五）	Situation and Policy (5)	0.25	8	2	2	5
+马院	形势与政策（六）	Situation and Policy (6)	0.25	8	2	2	6
+马院	形势与政策（七）	Situation and Policy (7)	0.25	8	2	2	7
+马院	形势与政策（八）	Situation and Policy (8)	0.25	8	2	2	8
+外语	大学英语（二）	College English (2)	2	32	2	1	1
+外语	大学英语（三）	College English (3)	2	32	2	1	2
+外语	大学英语（四）	College English (4)	2	32	2	1	3
+外语	英语专题课	English for Specific Purposes	2	32	2	1/2	4
+计数	C语言	C Programming Language	3	48	24	4	1	2
+体育	体育（一）	Physical Education (1)	1	36	2	2	1
+体育	体育（二）	Physical Education (2)	1	36	2	2	2
+体育	体育（三）	Physical Education (3)	1	36	2	2	4
+体育	体育（四）	Physical Education (4)	1	36	2	2	5
+先进	军事理论	Military Theory Curriculum	2	36	2	1	1
+先进	大学生就业与创业指导	The Employment and Entrepreneurship Guidance for College Students	0.5	8	2	2	6
+先进	大学生职业生涯规划	Career Planning and Management of College Students	0.5	8	2	2	1
+先进	大学生心理健康教育	Mental Health Education for College Students	1	16	2	1	1
+先进	大学应用写作	College Practical Writing	1	16	2	1	7
+小计	小计	小计	35	676	24
+
+[Table 3]
+开课 单位	中文课程名称	英文课程名称	学 分 数	学时数	学时数	学时数	周 学 时	考核方式	开设 学期
+开课 单位	中文课程名称	英文课程名称	学 分 数	总 学 时	其中	其中	周 学 时	考核方式	开设 学期
+开课 单位	中文课程名称	英文课程名称	学 分 数	总 学 时	实 验	上 机	周 学 时	考核方式	开设 学期
+先进	电子信息学科导论	Electronic Information Introductory Course	1	16	2	2	1
+先进	高等数学A(上)	Higher Mathematics A (Part 1)	5	80	6	1	1
+先进	高等数学A(中)	Higher Mathematics A (Part 2)	5	80	6	1	2
+先进	高等数学A(下)	Higher Mathematics A (Part 3)	3	48	3	1	3
+先进	线性代数与解析几何	Linear Algebra and Analytic Geometry	3	48	3	1	1
+先进	概率论与数理统计	Probability and Statistics	3	48	3	1	4
+先进	大学物理A(上)	University Physics A (Part 1)	3	48	3	1	2
+先进	大学物理A(下)	University Physics A (Part 2)	3.5	56	4	1	3
+先进	工程制图E	Engineering Drawing E	2	32	12	2	1	2
+先进 铭传	面向对象程序设计	Object-Oriented Programming	2	32	2	1	2
+先进 铭传	电路分析	Circuit Analysis	3	48	4	1	2
+先进 铭传	模拟电路	Analog Circuits	4	64	4	1	3
+先进	信号与系统A	Signals and Systems A	4	64	6	4	1	3
+先进 铭传	数据结构与算法	Data Structures and Algorithm	2	32	8	4	1	4
+先进 铭传	数字电路	Digital Circuits	3	48	4	1	4
+先进 铭传	计算机网络	Computer Networking	2	32	6	4	1	4
+先进 铭传	微处理器原理与应用	Microprocessors	3	48	8	4	1	4
+先进	数字信号处理A	Digital Signal Processing A	2.5	40	6	4	1	4
+先进 铭传	通信原理	Principle of Communication	4	64	4	1	5
+小计	小计	小计	58	928	34	12
+
+[Table 4]
+开课 单位	中文课程名称	英文课程名称	学 分 数	学时数	学时数	学时数	周 学 时	考核方式	开设 学期
+开课 单位	中文课程名称	英文课程名称	学 分 数	总学时	其中	其中	周 学 时	考核方式	开设 学期
+开课 单位	中文课程名称	英文课程名称	学 分 数	总学时	实 验	上 机	周 学 时	考核方式	开设 学期
+先进	科学计算与仿真	Scientific Computing and Simulations	2	32	12	4	1	3
+先进	专家系列讲座	Expert Lecture Series	1	16	2	2	4
+先进	专业英语	Specialized English	1	16	2	1	5
+先进	信息论与编码	Information Theory and Coding	3	48	4	1	5
+先进	电磁场与电磁波	Field and Wave Electromagnetics	3	48	6	4	1	5
+先进	可编程逻辑设计	Programmable Logic Design	2	32	14	2	1	5
+先进 铭传	数字图像处理	Digital Image Processing	2.5	40	16	4	1	7
+先进	嵌入式系统及其应用	Embedded Systems and Applications	3	48	10	4	1	6
+小计	小计	小计	17.5	280	46	12
+
+[Table 5]
+开课 单位	中文课程名称	英文课程名称	学 分 数	学时数	学时数	学时数	周 学 时	考核方式	开设 学期
+开课 单位	中文课程名称	英文课程名称	学 分 数	总 学 时	其中	其中	周 学 时	考核方式	开设 学期
+开课 单位	中文课程名称	英文课程名称	学 分 数	总 学 时	实 验	上 机	周 学 时	考核方式	开设 学期
+先进	网络资源与信息检索	Network Resource and Information Retrieval	1.5	24	2	2	3
+先进 铭传	Python程序设计	Python Programming	2	32	6	3
+先进 铭传	机器学习	Machine Learning	2	32	6	4
+先进  铭传	光纤通信原理	Optical Fiber Communication Principle	2	32	2	1	4
+先进	电子测量技术基础	Fundamentals of Electronic Measurement Technology	2	32	6	2	1	5
+先进 铭传	Java程序设计	Java Programming	2	32	6	2	1	5
+先进 铭传	Web程序设计	Web Programming	2	32	6	2	1	6
+先进 铭传	数据库原理与应用	Databases	2	32	8	2	1	5
+先进 铭传	深度学习技术及应用	Deep LearningTechnologyand Applications	2	32	6	4	1	5
+先进	现代接口技术	Modern Interface Technology	2	32	6	2	1	6
+先进	现代信息感知技术	Advanced Information Sensoring Technology	2	32	2	1	7
+先进	DSP技术与应用	DSP technique and applications	2	32	2	1	5
+
+[Table 6]
+开课 单位	中文课程名称	英文课程名称	学 分 数	学时数	学时数	学时数	周 学 时	考核方式	开设 学期
+开课 单位	中文课程名称	英文课程名称	学 分 数	总 学 时	其中	其中	周 学 时	考核方式	开设 学期
+开课 单位	中文课程名称	英文课程名称	学 分 数	总 学 时	实 验	上 机	周 学 时	考核方式	开设 学期
+创新创业实践与素质拓展课，应修2学分	创新创业实践与素质拓展课，应修2学分	创新创业实践与素质拓展课，应修2学分	创新创业实践与素质拓展课，应修2学分	创新创业实践与素质拓展课，应修2学分	创新创业实践与素质拓展课，应修2学分	创新创业实践与素质拓展课，应修2学分	创新创业实践与素质拓展课，应修2学分	创新创业实践与素质拓展课，应修2学分	创新创业实践与素质拓展课，应修2学分
+先进	电子竞赛培养与实践	Electronic Contest Training and Practice	2	48	2	4
+先进	公益创业实践	Social Entrepreneurship Practice	2	48	2	6
+跨学科课程	跨学科课程	跨学科课程	跨学科课程	跨学科课程	跨学科课程	跨学科课程	跨学科课程	跨学科课程	跨学科课程
+先进	通信电子线路	Radio Frequency Electronics Circuits	3	48	4	1	5
+先进	集成电路应用	Integrated Circuits and Application	2	32	10	2	1	5
+先进	电子系统设计	Electronic System Design	2	32	16	2	1	5
+先进 铭传	物联网控制技术	Control Technology of IOT	2	32	8	2	1	6
+先进	移动终端应用开发	Mobile Terminal Application Development	2	32	16	2	2	6
+先进	信息安全与保密通信	Information Security and Secret Communication	2	32	2	1	6
+先进	射频识别技术及应用	RFID Technology and Applications	2.5	40	2	1	6
+先进 铭传	操作系统	Operating Systems	2	32	2	1	5
+先进 铭传	平板显示技术	Flat panel display technology	2	32	5
+先进 铭传	半导体器件基础	Fundamentals of Semiconductor Devices	2	32	6
+先进	机器人技术	Robotics technique	2	32	2	1	5
+先进	无线感知与定位技术	Wireless Sensing and Positioning Technology	2	32	2	1	7
+先进	工程项目管理概论	Engineering Project Management Introduction	2	32	2	2	7
+本硕博贯通课程	本硕博贯通课程	本硕博贯通课程	本硕博贯通课程	本硕博贯通课程	本硕博贯通课程	本硕博贯通课程	本硕博贯通课程	本硕博贯通课程	本硕博贯通课程
+先进	现代数字信号处理	Modern Digital Signal Processing	2	32	4	1	7
+先进	最优化算法及应用	Optimization Algorithms and Applications	2	32	4	1	7
+先进	模式识别	Pattern Recognition	2	32	8	4	1	7
+先进	随机信号分析	Random Signal Analysis	2	32	4	1	7
+
+[Table 7]
+开课 单位	中文课程名称	英文课程名称	学分数	周数	学时	考核 方式	开设 学期
+先进	军事技能	Military Skills	2	2	2	1
+马院	思想政治实践课	Practice of Ideological and Political Theory Course	2	2	2	4
+机电 中心	机械制造工程训练A#	Mechanical Manufacturing Engineering Training  A	2	2	2	3
+先进	实践与专业训练(上)	Practice and Specialty Training (part 1)	1	1	2	1
+先进	实践与专业训练(下)	Practice and Specialty Training (part 2)	1	1	2	2
+先进 铭传	面向对象程序设计实验	Experiments of Object-oriented Programming	1	24	2	2
+先进	电路分析实验	Experiments of Circuits Analysis	0.5	12	2	2
+先进	大学物理实验A (上)	Experiments of University Physics A (part 1)	1.5	36	2	2
+先进	大学物理实验A (下)	Experiments of University Physics A (part 2)	1	24	2	3
+先进	模拟电路实验	Experiments of Analog Electrical Circuits	1	24	2	3
+先进	电子CAD实践	Electronic CAD Practice	0.5	0.5	2	4
+先进	数字电路实验	Experiments of Digital Circuits	0.5	12	2	4
+先进	计算机网络工程实践	Practice of Computer Networking Engineering	1	1	2	5
+先进	微处理器原理与应用课程设计	Curriculum Design of Microprocessors	1	1	2	5
+先进	通信原理实验	Experiments of Communication Principle	1	24	2	6
+先进	综合实践	Comprehensive Practice	2	2	2	7
+先进	毕业实习	Graduation Internship	2	4	2	7
+先进	毕业设计(论文)	Graduation Project (thesis)	10	15	2	8
+小计	小计	小计	31	31.5	156
+
+[Table 8]
+开课 单位	中文课程名称	英文课程名称	学 分 数	周数	学时	考核方式	开设 学期
+先进 铭传	Python设计实践	Python Design Practices	1	1	2	3
+先进 铭传	模拟电路课程设计	Curriculum Design of Analog Electronic Circuits	1	1	2	4
+先进 铭传	数字电路课程设计	Curriculum Design of Digital Circuits	1	1	2	5
+先进	通信电子线路实验	Experiments of Radio Frequency Electronics Circuits	1	24	2	5
+先进	通信电子线路课程设计	Curriculum Design of Radio Frequency Electronics Circuits	1	1	2	6
+先进 铭传	操作系统实验	Experiments of Applied Operating System	1	24	2	5
+先进 铭传	数据库应用实践	Database Practice	1	1	2	5
+先进	可编程逻辑设计实践	Practice of Programmable Logic Design	1	1	2	6
+先进	嵌入式系统工程实践	Embedded System Engineering Practice	1	1	2	7
+先进	电子系统设计实践	Practice of Electronic System Design	1	1	2	7
+
+[Table 9]
+毕业要求	培养目标	培养目标	培养目标	培养目标
+毕业要求	目标1	目标2	目标3	目标4
+1. 品德修养
+2. 工程知识
+3. 问题分析
+4. 设计/开发解决方案
+5. 研究
+6. 使用现代工具
+7. 工程与社会
+8. 环境和可持续发展
+9. 职业规范
+10. 个人和团队
+11. 沟通
+12. 项目管理
+13. 终身学习
+
+[Table 10]
+课程类别	序号	课程 名称	1品德修养	2工程知识	2工程知识	2工程知识	3问题分析	3问题分析	3问题分析	4设计/开发解决方案	4设计/开发解决方案	4设计/开发解决方案	5研究	5研究	6使用现代工具	6使用现代工具	7工程与社会	7工程与社会	8环境和可持续 发展	8环境和可持续 发展	9职业 规范	9职业 规范	10个人 与团队	10个人 与团队	11沟通	11沟通	12 项目管理	13 终身 学习	13 终身 学习
+课程类别	序号	课程 名称	1品德修养	2.1	2.2	2.3	3.1	3.2	3.3	4.1	4.2	4.3	5.1	5.2	6.1	6.2	7.1	7.2	8.1	8.2	9.1	9.2	10.1	10.2	11.1	11.2	12.1	13.1	13.2
+数学与自然科学	1	高等数学A	L	H	H
+数学与自然科学	2	线性代数与解析几何	L	H	M
+数学与自然科学	3	概率论与数理统计	L	H	M
+数学与自然科学	4	大学物理A	L	H
+数学与自然科学	5	大学物理实验A	L	L
+工程基础	6	电子信息学科导论	L	M	H	H
+工程基础	7	工程制图E	L	H
+工程基础	8	电路分析	L	H	M
+工程基础	9	C语言	L	H
+工程基础	10	面向对象程序设计	L	M	H
+工程基础	11	数据结构与算法	L	M	H
+专业基础	12	模拟电路	L	H	M
+专业基础	13	数字电路	L	H	M
+专业基础	14	信号与系统A	L	H	M	M
+专业基础	15	微处理器原理与应用	L	M	H	M
+专业基础	16	计算机网络	L	M	M	M
+专业基础	17	通信原理	L	M	M	M
+专业基础	18	数字信号处理A	L	H	M	L
+专业	19	专家系列讲座	L
+专业	20	专业英语	L
+专业	21	电磁场与电磁波	L	H	M
+专业	22	信息论与编码	L	H	M	L
+专业	23	科学计算与仿真	L	H
+专业	24	数字图像处理	L	M	M	M	L
+专业	25	可编程逻辑设计	L	M	M	M	L
+专业	26	嵌入式系统及其应用	L	M	M	M	L
+实践环节       实践环节	27	实践与专业训练(上/下)	L	M
+实践环节       实践环节	28	机械制造工程训练（A）	L	M	M
+实践环节       实践环节	29	电路分析实验	L	M	M
+实践环节       实践环节	30	模拟电路实验	L	M	M
+实践环节       实践环节	31	电子CAD实践	L	M	M
+实践环节       实践环节	32	数字电路实验	L	M	M
+实践环节       实践环节	33	面向对象程序设计实验	L	M	H
+实践环节       实践环节	34	计算机网络工程实践	L	M	M	L
+实践环节       实践环节	35	微处理器原理与应用课程设计	L	L	M	L
+实践环节       实践环节	36	通信原理实验	L	M	M	M
+实践环节       实践环节	37	综合实践	M	H	H	M	H	H	M	M	L	H	H	L	L	L
+实践环节       实践环节	38	毕业实习	M	M	L	M	M	M	L	L
+实践环节       实践环节	39	毕业设计	M	H	H	H	H	H	H	H	L	L	H	L	L
+人文社会科学类通识教育	40	思想道德与法治	H	H
+人文社会科学类通识教育	41	中国近现代史纲要	M	H
+人文社会科学类通识教育	42	马克思主义基本原理	M	H
+人文社会科学类通识教育	43	毛泽东思想和中国特色社会主义理论体系概论	M	H
+人文社会科学类通识教育	44	习近平新时代中国特色社会主义思想概论	H
+人文社会科学类通识教育	45	形势与政策	L	H	H
+人文社会科学类通识教育	46	大学英语	L	H
+人文社会科学类通识教育	47	英语专题课	L	M
+人文社会科学类通识教育	48	大学应用写作	L	L
+人文社会科学类通识教育	49	体育	L	M
+人文社会科学类通识教育	50	军事理论	L	M	L
+人文社会科学类通识教育	51	军事技能	L	M
+人文社会科学类通识教育	52	大学生就业与创业指导	M	L	L
+人文社会科学类通识教育	53	大学生职业生涯规划	M	M	H
+人文社会科学类通识教育	54	大学生心理健康教育	M
+人文社会科学类通识教育	55	思想政治实践课	M	L

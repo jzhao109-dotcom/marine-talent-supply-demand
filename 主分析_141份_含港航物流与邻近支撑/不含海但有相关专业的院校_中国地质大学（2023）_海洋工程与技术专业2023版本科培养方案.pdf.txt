@@ -1,0 +1,1503 @@
+
+
+[Page 1]
+海洋工程与技术专业培养方案
+专业名称与代码：海洋工程与技术 081902T
+专业培养目标：
+本专业着力培养德智体美全面发展，基础厚、素质高、能力强的海洋工程与技术高
+级人才。培养学生树立正确的世界观、人生观、价值观和严谨的科学作风；具备人文社
+科基础知识和人文修养；具有创新精神、实践能力和国际化视野，具备终身学习和自我
+提升的综合能力；掌握扎实的海洋工程与技术领域的专业基础知识、基本理论和基本技
+能，具备在海洋工程与技术领域从事海洋工程设计、规划管理、海洋调查和海洋防灾减
+灾等方面的工作能力。学生毕业后能够在海洋、自然资源、交通、生态环保、水利等相
+关领域部门从事相关的管理、技术开发和科学研究工作。
+专业毕业要求：
+⒈ 基础知识：掌握海洋学的基本理论和基础知识以及和海洋工程的基本理论和基
+础知识。
+⒉ 问题分析：掌握海洋调查技术与方法；能够应用这些方法/技术，识别、表达、
+并通过文献研究分析分析相关学科专业问题，以获得有效结论。
+⒊ 设计/开发解决方案：具有从事海洋工程规划、勘测、设计和管理的基本能力，
+并能够在设计环节中体现创新意识，考虑社会、健康、安全、法律、文化以及
+环境等因素。
+⒋ 研究：了解海洋工程与技术的发展历史、学科前沿及发展趋势，能跟踪国际海
+洋工程与技术的发展方向，认识海洋技术在社会经济发展中的重要地位与作用，
+并初步掌握海洋工程与技术研究的基本方法和手段，初步具备发现、提出、分
+析和解决相关问题的能力；具有一定的实验设计，归纳、整理、分析实验结果，
+撰写论文，参与学术交流的能力。
+⒌ 使用现代工具：掌握必要的信息技术，能够应用信息技术尤其是数值模拟技术
+解决相关的海洋工程技术问题，能够进行海洋环境的仿真模拟与评价及进行相
+应的防灾减灾工作；
+⒍ 文献检索能力：掌握资料查询、文献检索以及运用现代信息技术获取相关信息
+的基本方法。
+⒎ 专业与社会：具有高度的生产安全意识、环保意识和可持续发展理念，熟悉我
+国海洋科技、环境保护、资源利用及工程评价等方面的方针、政策和法规以及
+海洋科技与国民经济可持续发展战略的关系，能够基于学科专业相关背景知识
+进行合理分析，评价问题解决方案对社会、环境、健康、安全、法律、文化以
+及可持续发展的影响，并理解应承担的责任；
+⒏ 个人和团队：能够在多学科背景下的团队中承担个体、团队成员以及负责人的
+角色；
+⒐ 管理与沟通：理解并掌握相关管理与决策方法，能够就本学科专业问题与业界
+同行及社会公众进行有效沟通和交流，并具备一定的国际视野，能够在跨文化
+背景下进行沟通和交流；
+⒑ 终身学习：具有自主学习和终身学习的意识，有不断学习和适应发展的能力。
+
+
+[Page 2]
+海洋工程与技术专业
+- 2 -
+毕业要求实现及途径：
+序号 毕 业 要 求 实现途径（教学过程）
+1
+基础知识：掌握海洋学的基本
+理论和基础知识以及工程力
+学、海岸动力学和海洋工程的
+基本理论和基础知识。
+①课堂教学：普通地质学、生态学概论、流体力学、
+高等数学、线性代数、概率论与数理统计、大学物
+理、海洋学基础、海洋测绘基础。
+②实践教学：物理实验、地质认识实习、海洋测绘
+基础实习、流体力学实验。
+③课外学习：引导学生参加全国大学生海洋知识竞
+赛、世界海洋日等活动。
+2
+问题分析：掌握海洋调查技术
+与方法；能够应用这些方法/
+技术，识别、表达、并通过文
+献研究分析分析相关学科专
+业问题，以获得有效结论。
+①课堂教学：物理海洋学、海洋调查技术与方法、
+海洋遥感、海洋测量学、海洋地球物理勘探、海岸
+动力学、海岸工程学。
+②实践教学：海洋观测实习、海洋测量学实习、海
+岸带动力学实习、海洋遥感实习、海洋数据处理与
+分析、海洋地球物理勘探实习。
+③课外学习：引导学生参加学科竞赛、数学建模竞
+赛、文献检索竞赛等活动，并积极开设讲座与报告。
+3.
+设计/开发解决方案：具有从
+事海洋工程规划、勘测、设计、
+施工和管理的基本能力，并能
+够在设计环节中体现创新意
+识，考虑社会、健康、安全、
+法律、文化以及环境等因素。
+①课堂教学：工程制图、海岸工程学、工程地质学
+基础、工程力学、海洋测量学、海洋工程结构物、
+港口水工建筑物、海洋岩土工程
+②实践教学：工程制图实习、毕业生产实习、海洋
+数据可视化实习。
+③课外学习：引导学生参加各类工程设计竞赛，和
+企业或业务单位联合开设讲座。
+4.
+研究：了解海洋工程与技术的
+发展历史、学科前沿及发展趋
+势，能跟踪国际海洋工程与技
+术的发展方向，认识海洋技术
+在社会经济发展中的重要地
+位与作用，并初步掌握海洋工
+程与技术研究的基本方法和
+手段，初步具备发现、提出、
+分析和解决海洋环境监测及
+相关问题的能力；具有一定的
+实验设计，归纳、整理、分析
+①课堂教学：海洋科学类导论。
+②实践教学：毕业论文设计、数值计算实习、海洋
+数据处理与分析。
+③课外学习：引导学生参加大学生科研立项和科技
+论文报告会等活动，鼓励学生参与相关领域的科学
+讲座。
+
+
+[Page 3]
+中国地质大学（武汉）本科培养方案
+- 3 -
+序号 毕 业 要 求 实现途径（教学过程）
+实验结果，撰写论文，参与学
+术交流的能力。
+5.
+使用现代工具：掌握必要的信
+息技术，能够应用信息技术尤
+其是数值模拟技术解决相关
+的海洋工程技术问题，能够进
+行海洋环境的仿真模拟与评
+价及进行相应的防灾减灾工
+作。
+①课堂教学：Python 语言程序设计、数值计算方法、
+海洋遥感、海洋数值模拟。
+②实践教学：Python 语言课程设计、数值计算实习、
+海洋遥感实验、海洋数据可视化实习。
+③课外学习：引导学生利用网络资源提高现代信息
+技术的使用水平，并鼓励学生参加编程和数学建模
+竞赛。
+6.
+掌握资料查询、文献检索以及
+运用现代信息技术获取相关
+信息的基本方法
+①课堂教学：海洋文献检索
+②实践教学：毕业论文
+7.
+专业与社会：具有高度的生产
+安全意识、环保意识和可持续
+发展理念，熟悉我国海洋科
+技、环境保护、资源利用及工
+程评价等方面的方针、政策和
+法规以及海洋科技与国民经
+济可持续发展战略的关系，能
+够基于学科专业相关背景知
+识进行合理分析，评价问题解
+决方案对社会、环境、健康、
+安全、法律、文化以及可持续
+发展的影响，并理解应承担的
+责任；
+①课堂教学：马克思主义基本原理、毛泽东思想与
+中国特色社会主义理论体系概论、习近平新时代中
+国特色社会主义思想概论、思想道德与法治、形势
+与政策、军事理论、各类选修课。
+②实践教学：军事训练、社会调查。
+③课外学习：开展“大学生青年文化艺术节”、“高
+雅艺术进校园”等主题教育活动；开展运动会等活
+动；开展新生入学教育、毕业生系列教育主题活动；
+开展大学生“暑假社会实践”等活动；加强学务指
+导老师、辅导员队伍建设，加强学生干部队伍建设，
+提高对学生的教育引导。
+8.
+个人和团队：能够在多学科背
+景下的团队中承担个体、团队
+成员以及负责人的角色；
+①课堂教学：体育
+②课外学习：引导学生参加编程和数学建模等团队
+竞赛。
+9.
+管理与沟通：理解并掌握相关
+管理与决策方法，能够就本学
+科专业问题与业界同行及社
+会公众进行有效沟通和交流，
+并具备一定的国际视野，能够
+①课堂教学：大学英语、海洋专业英语，并在教学
+中渗透专业领域的英语。
+
+
+[Page 4]
+海洋工程与技术专业
+- 4 -
+序号 毕 业 要 求 实现途径（教学过程）
+在跨文化背景下进行沟通和
+交流；
+10.
+终身学习：具有自主学习和终
+身学习的意识，有不断学习和
+适应发展的能力。
+①课外学习：鼓励阅读，向学生定期推荐相关书籍、
+文献，开展读书会等活动。
+主干学科：【海洋工程与技术类】
+专业核心课程：【物理海洋学、流体力学、海洋测量学、海洋地球物理勘探、海洋
+调查技术与方法、海洋遥感、数值计算方法】
+主要专业实验：流体力学实验、海洋遥感实验。
+主要实践性教学环节：海洋学基础实习（北戴河）、地质认识实习（北戴河）、数值
+模拟基础实习、海洋地球物理勘探实习、海洋数据可视化实习、数值计算方法实习、毕
+业生生产实习、毕业论文设计。
+毕业学分要求：170
+学制与学位：四年，工学学士。
+本专业学生可以辅修的其他专业：信息与计算科学、计算机科学与技术、数据科学
+与大数据技术、地球物理学、遥感科学与技术。
+相近专业：船舶与海洋工程、海洋资源开发技术。
+
+
+[Page 7]
+Program for marine engineering and technology
+Specialty and Code: marine engineering and technology 081902T
+Education Objective: This program aims at cultivating composite academic talents well
+trained in marine engineering and technology, with a solid background in marine sciences,
+who have the abilities to construct some practical technologies to prevent and mitigate marine
+disaster, to process marine information and big data, to analyze marine engineering
+environment and numerical simulation. The graduates will be able to work in the fields of
+marine engineering, marine resource, geological engineering, environmental science,
+hydrological science, atmospheric science and so on.
+Graduation Requirements:
+1. Basic knowledge: Master the basic theories and basic knowledge of oceanography and the
+basic theories and basic knowledge of engineering mechanics, coastal dynamics and ocean
+engineering.
+2. Problem Analysis: Master the techniques and methods of marine surveys; be able to apply
+these methods/technologies, identify, express, and analyze relevant subject professional
+problems through literature research to obtain effective conclusions.
+3. Design/Development Solutions: Basic capabilities for marine engineering planning,
+surveying, design, construction, and management, and the ability to reflect innovation in the
+design process, taking into account social, health, safety, legal, cultural, and environmental
+factors.
+4. Research: Understand the development history, frontiers and development trends of marine
+engineering and technology, track the development direction of international marine
+engineering and technology, understand the important position and role of marine technology
+in social and economic development, and initially master marine engineering and technology.
+The basic methods and means of research have the ability to discover, propose, analyze and
+solve marine environmental monitoring and related problems; have certain experimental
+design, summarize, organize, analyze experimental results, write papers, and participate in
+academic exchanges.
+5. Use modern tools: master the necessary information technology, apply information
+technology, especially numerical simulation technology to solve related marine engineering
+technical problems, be able to carry out simulation and evaluation of marine environment and
+carry out corresponding disaster prevention and mitigation work; master data query
+6. Literature search and basic methods of using modern information technology to obtain
+relevant information.
+
+
+[Page 8]
+海洋工程与技术专业
+- 2 -
+7. Professional and social: with a high degree of production safety awareness, environmental
+awareness and sustainable development concept, familiar with China's marine science and
+technology, environmental protection, resource utilization and engineering evaluation, etc.,
+policies, regulations and marine science and sustainable development of national economy
+The strategic relationship can be based on a reasonable analysis of the relevant background
+knowledge of the subject profession, evaluate the impact of problem solutions on society,
+environment, health, safety, law, culture and sustainable development, and understand the
+responsibilities;
+8. Individuals and teams: Ability to assume the roles of individuals, team members, and
+responsible individuals in a multidisciplinary team;
+9. Management and communication: Understand and master relevant management and
+decision-making methods, be able to effectively communicate and communicate with industry
+peers and the public on the professional issues of this subject, and have a certain international
+perspective, able to communicate and communicate in a cross-cultural context;
+10. Lifelong learning: Awareness of self-directed learning and lifelong learning, with the
+ability to continuously learn and adapt to development.
+Graduation requirements and ways to achieve：
+No
+. Graduation requirements Ways to achieve（teaching process）
+
+
+[Page 9]
+中国地质大学（武汉）本科培养方案
+- 3 -
+No
+. Graduation requirements Ways to achieve（teaching process）
+1
+Basic knowledge: Master the basic
+theories and basic knowledge of
+oceanography and the basic theories and
+basic knowledge of engineering
+mechanics, coastal dynamics and ocean
+engineering.
+①Classroom Teaching：Physical Geology,
+Introduction to Ecology, Fluid Mechanics,
+Advanced Mathematics, Linear Algebra,
+Probability Theory and Mathematical
+Statistics, University Physics,
+Oceanography Foundation, Marine
+Surveying Foundation, Engineering
+Geology Foundation, Engineering
+Mechanics, Structural Mechanics,
+Atmosphere Introduction to Science, Fluid
+Dynamics.
+② Practices: physical experiment,
+geological understanding practice, basic
+practice in oceanography, basic practice in
+marine surveying and mapping, and fluid
+mechanics experiment.
+③Out-of-class Learning： Guide students
+to participate in the National Ocean
+Knowledge Competition, World Ocean Day
+and other activities.
+2
+Problem Analysis: Master the techniques
+and methods of marine surveys; be able
+to apply these methods/technologies,
+identify, express, and analyze relevant
+subject professional problems through
+literature research to obtain effective
+conclusions.
+① Classroom Teaching ： Physical
+oceanography, ocean survey techniques and
+methods, ocean remote sensing,
+oceanography, marine environment science,
+ocean survey techniques and methods,
+coastal dynamics, coastal engineering.
+② Practices: Marine observation practice,
+marine geophysical practice, marine
+surveying practice, and coastal belt
+dynamics practice.
+③Out-of-class Learning：Guide students
+to participate in mathematical modeling,
+literature retrieval competitions, etc., and
+actively open lectures and reports.
+
+
+[Page 10]
+海洋工程与技术专业
+- 4 -
+No
+. Graduation requirements Ways to achieve（teaching process）
+3
+Design/Development Solutions: Basic
+capabilities for marine engineering
+planning, surveying, design,
+construction, and management, and the
+ability to reflect innovation in the design
+process, taking into account social,
+health, safety, legal, cultural, and
+environmental factors.
+① Classroom Teaching: Engineering
+drawing, coastal engineering, ocean
+surveying, marine engineering structures,
+port hydraulic structures, marine
+geophysics, marine geotechnical
+engineering, marine engineering structural
+reliability.
+②Practices: Engineering drawing practice,
+marine engineering structure practice,
+graduation production practice.
+③Out-of-class Learning： Guide students
+to participate in various engineering design
+competitions, and jointly hold lectures with
+enterprises or business units.
+4
+Research: Understand the development
+history, frontiers and development trends
+of marine engineering and technology,
+track the development direction of
+international marine engineering and
+technology, understand the important
+position and role of marine technology
+in social and economic development,
+and initially master marine engineering
+and technology. The basic methods and
+means of research have the ability to
+discover, propose, analyze and solve
+marine environmental monitoring and
+related problems; have certain
+experimental design, summarize,
+organize, analyze experimental results,
+write papers, and participate in academic
+exchanges.
+① Classroom Teaching ： Introduction to
+marine science, ocean data processing and
+analysis.
+②Practices: graduation thesis design.
+③Out-of-class Learning： Guide students
+to participate in activities such as scientific
+research projects and scientific paper
+presentations for students, and encourage
+students to participate in scientific lectures
+in related fields.
+
+
+[Page 11]
+中国地质大学（武汉）本科培养方案
+- 5 -
+No
+. Graduation requirements Ways to achieve（teaching process）
+5
+Use modern tools: master the necessary
+information technology, apply
+information technology, especially
+numerical simulation technology to
+solve related marine engineering
+technical problems, be able to carry out
+simulation and evaluation of marine
+environment and carry out
+corresponding disaster prevention and
+mitigation work; master data query.
+①Classroom Teaching：Python language
+programming, numerical calculation
+methods, ocean remote sensing,
+computational fluid mechanics foundation,
+ocean numerical simulation, marine
+geographic information system.
+② Practices: Python language course
+design, marine remote sensing experiment.
+③Out-of-class Learning： Guide students
+to use online resources to improve the use
+of modern information technology, and
+encourage students to participate in
+programming and mathematical modeling
+competition.
+6
+Literature search and basic methods of
+using modern information technology to
+obtain relevant information.
+① Classroom Teaching ： Oceanography
+Information Retrieval
+②Practices: Graduate Thesis Design
+
+
+[Page 12]
+海洋工程与技术专业
+- 6 -
+No
+. Graduation requirements Ways to achieve（teaching process）
+7
+Professional and social: with a high
+degree of production safety awareness,
+environmental awareness and
+sustainable development concept,
+familiar with China's marine science and
+technology, environmental protection,
+resource utilization and engineering
+evaluation, etc., policies, regulations and
+marine science and sustainable
+development of national economy The
+strategic relationship can be based on a
+reasonable analysis of the relevant
+background knowledge of the subject
+profession, evaluate the impact of
+problem solutions on society,
+environment, health, safety, law, culture
+and sustainable development, and
+understand the responsibilities;
+① Classroom Teaching ： Basic principles
+of Marxism, an introduction to Mao
+Zedong Thought and the theoretical system
+of socialism with Chinese characteristics,
+an outline of China's modern and
+contemporary history, ideological and
+moral cultivation and legal basis, situation
+and policy, military theory, and various
+elective courses.
+② Practices: Military training, social
+survey.
+③ Out-of-class Learning ： Promote the
+educational activities such as “University
+Student Youth Culture And Art Festival”
+and “Introducing Classic Art In Campus”,
+develop sports meeting, carry out
+enrollment education for freshman and
+graduate education series, develop
+activities like university students summer
+social practice, strengthen team
+construction of academic affairs instructor
+and counselor as well as student cadres,
+improve the education and guidance to
+students.
+8
+Individuals and teams: Ability to assume
+the roles of individuals, team members,
+and responsible individuals in a
+multidisciplinary team;
+①Classroom Teaching：PE
+②Out-of-class Learning：Guide students
+to participate in team competitions such as
+programming and mathematical modeling.
+
+
+[Page 13]
+中国地质大学（武汉）本科培养方案
+- 7 -
+No
+. Graduation requirements Ways to achieve（teaching process）
+9
+Management and communication:
+Understand and master relevant
+management and decision-making
+methods, be able to effectively
+communicate and communicate with
+industry peers and the public on the
+professional issues of this subject, and
+have a certain international perspective,
+able to communicate and communicate
+in a cross-cultural context;
+①Classroom Teaching：College English,
+Ocean Professional English, and infiltrate
+professional English in teaching.
+10
+Lifelong learning: Awareness of
+self-directed learning and lifelong
+learning, with the ability to continuously
+learn and adapt to development.
+① Out-of-class Learning: Encourage
+reading, regularly recommend relevant
+books and documents to students, and carry
+out activities such as reading clubs.
+Major Disciplines: Marine engineering and technology
+Main Courses: Physical oceanography, fluid mechanics, marine structures, port hydraulic
+structures, ocean surveying, ocean survey techniques and methods, marine remote sensing
+applications, marine atmospheric science, coastal dynamics, coastal engineering
+Lab Experiments: Fluid mechanics experiments, ocean remote sensing experiments
+Practical Work: Marine understanding practice, geological understanding practice, marine
+observation practice, marine surveying basic practice, ocean surveying practice, physical
+oceanography practice, coastal engineering practice, coastal belt dynamics practice, graduate
+production Practice, graduation thesis design.
+Requirements for Graduation Credits: 170
+Duration& Degree Granted: Four years，Bachelor of Engineering
+Recommended minor: Information and Computing Science, Computer Science and
+Technology, Data Science and Big Data Technology, Geophysics, Remote Sensing Science
+and Technology.
+Related Specialties: Ship and Ocean Engineering, Marine Resources Development
+
+
+[Page 14]
+海洋工程与技术专业
+- 8 -
+海洋工程与技术专业课程教学计划表
+Course Descriptions of Marine Engineering and Technology
+课程
+类别
+Classi-
+fication
+课程
+编号
+Code
+课程名称
+Course Name
+学
+分
+Crs
+学
+时
+Hrs
+学时分类
+Class Hours 先修
+课程
+Prer
+equi
+site
+cour
+ses
+学期学分分配
+Semester Credits课内学时 课外学时
+讲课
+Lec.
+课内
+实验
+Lab
+实验/
+科研
+实践
+Lab/
+Res.
+研讨
+Dis
+素质
+拓展
+Exp
+一
+1st
+二
+2nd
+三
+3rd
+四
+4th
+五
+5th
+六
+6th
+七
+7th
+八
+8th
+通
+识
+教
+育
+课LiberalEducationCourses
+必
+修Compulsory
+12007800 马克思主义基本原理
+Principles of Marxism 3 48 48 3
+12008100
+毛泽东思想与中国特色社会主义理
+论体系概论
+Introduction to Mao Tse-tung
+Thought and the Theoretical
+System of Socialism with Chinese
+Characteristics
+2 32 32 2
+12008000
+习近平新时代中国特色社会主义思
+想概论
+Introduction to Socialism with
+Chinese Characteristics in new era
+3 48 48 3
+11711800
+中国近现代史纲要
+The Essentials of Modern Chinese
+History
+2 32 32 2
+12007900
+思想道德与法治
+Morality Education and
+Fundamentals of Law
+3 48 48 3
+12005300 形势与政策
+Situation and Policy 2 32 32 每学期平均分配
+113076*0 体育
+Physical Education 4 144 144 1 1 1 1
+109234*0 大学英语
+College English 9 144 144 48 3 3 3
+14300300 军事理论
+Military Theory 2 36 36 2
+42008300 劳动教育（理论） 1 16 16 1
+选
+修
+70400600 生态学概论
+Introduction to Ecology 1.5 24 24 1.5
+包括美育、心理健康课程（各不少于 2 学分）
+总计 10.5 学分，跨学科选修课不低于 4 学分 10.5 168 168 自主选课分配
+小计
+Sum
+43 772 772 48 10 9 9 1
+大
+类
+平
+台
+课
+PlatformCourses
+20215600 海洋科学导论
+Introduction to Marine Science 1 16 16 1
+20119600 普通地质学
+Physical Geology 2.5 40 40 8 2.5
+21947400 Python 语言程序设计
+Python Language Programming 2.5 40 40 16 2.5
+212127*2 高等数学 B
+Advanced Mathematics B 10 160 160 4 6
+21212802 线性代数 B
+Linear Algebra B 2.5 40 40 2.5
+
+
+[Page 15]
+中国地质大学（武汉）本科培养方案
+- 9 -
+课程
+类别
+Classi-
+fication
+课程
+编号
+Code
+课程名称
+Course Name
+学
+分
+Crs
+学
+时
+Hrs
+学时分类
+Class Hours 先修
+课程
+Prer
+equi
+site
+cour
+ses
+学期学分分配
+Semester Credits课内学时 课外学时
+讲课
+Lec.
+课内
+实验
+Lab
+实验/
+科研
+实践
+Lab/
+Res.
+研讨
+Dis
+素质
+拓展
+Exp
+一
+1st
+二
+2nd
+三
+3rd
+四
+4th
+五
+5th
+六
+6th
+七
+7th
+八
+8th
+21213502
+概率论与数理统计 B
+Probability and Mathematics
+Statistics B
+2.5 40 40 2.5
+212130*2 大学物理学 B
+College Physics B 7 112 112 3.5 3.5
+20202800 海洋学基础
+Basic Oceanography 3 48 44 4 3
+22400500 海洋测绘基础
+Basic Marine Surveying 2 32 32 8 2
+小计
+Sum 33 528 524 4 32 9.5 12.5 8.5 2.5 0 0 0 0
+20538302 工程力学 B
+Engineering Mechanics B 4.5 72 72 8 4.5
+22403000 海洋工程制图
+Engineering Drawing 1 16 16 1
+20520700 流体力学
+Fluid Mechanics 2.5 40 40 2.5
+小计
+Sum 8 128 128 8 0 8
+专
+业
+主
+干
+课
+MainSpecialtyCourses
+22406900 物理海洋学
+Physical Oceanography 2 32 32 2
+22401000 海洋测量学
+Marine Surveying 2.5 40 32 8 2.5
+22408300 数值计算方法
+Numerical Computation Method 3 48 48 3
+22406500 生物海洋学
+biological oceanography 2 32 32 2
+22407900 海洋地球物理勘探
+Marine geophysical exploration 2 32 32 2
+21105100 海洋遥感
+Ocean Remote Sensing 2 32 32 2
+22403900 海洋专业文献检索*
+Oceanography Information Retrieval 1.5 24 16 8 1.5
+22406700
+海洋调查技术与方法
+Technology and Methods of Marine
+survey
+2 32 32 16 2
+22406600 化学海洋学
+chemical oceanography 2 32 32 2
+22408400 海洋工程与技术专业英语*
+MET Professional English 1.5 24 24 8 1.5
+小计
+Sum 20.5 328 312 16 16 0 8 0 0 0 2 4 7 4.5 3 0
+
+
+[Page 16]
+海洋工程与技术专业
+- 10 -
+课程
+类别
+Classi-
+fication
+课程
+编号
+Code
+课程名称
+Course Name
+学
+分
+Crs
+学
+时
+Hrs
+学时分类
+Class Hours 先修
+课程
+Prer
+equi
+site
+cour
+ses
+学期学分分配
+Semester Credits课内学时 课外学时
+讲课
+Lec.
+课内
+实验
+Lab
+实验/
+科研
+实践
+Lab/
+Res.
+研讨
+Dis
+素质
+拓展
+Exp
+一
+1st
+二
+2nd
+三
+3rd
+四
+4th
+五
+5th
+六
+6th
+七
+7th
+八
+8th
+专
+业
+选
+修
+课
+Specialty
+Elective
+Courses
+可按方向设课，具体见专业选修课
+列表。共开设 28 学分选修课，选择
+17 分达到毕业要求。
+17 272 自主选择分配
+合计
+Sub-total 121.5 2028 1744 20 56 56 19.5 21.5
+19.
+5
+16 7 4.5 3
+42008300 劳动教育（实践）
+Labor education (practice) 1 4 1
+44300400 军事训练
+Military training 2 2 2
+41947500 Python 语言课程设计
+Course Design for Python Language 1.5 1.5 周 1.5
+40115200 地质认识实习（北戴河）
+Primary Field Training (Beidaihe) 2 2 周 2
+40215800 海洋学基础实习（北戴河）
+Basic Oceanography Training 1 1 周 1
+42408500 程序设计实习
+Programming practice 2 2 周 2
+42405300
+海洋地球物理勘探实习
+Practice of marine geophysical
+exploration
+1.5 1.5周 1.5
+42408600 海洋数据可视化实习
+Visualization practice of marine data 1.5 1.5周 1.5
+42408700
+数值计算方法实习
+Practice of numerical calculation
+method
+1 1周 1
+42401600 海洋观测实习
+Geological Cognition Practice 2 2 周 2
+42403100
+海洋工程制图实习
+Marine Engineering Drawing
+Practice
+1 1 周 1
+42400600 海洋测绘基础实习
+Surveying Practice 1 1 周 1
+42401700 海洋测量学实习
+Marine Surveying Practice 1 1 周 1
+42401900 流体力学实验
+Fluid Mechanics Experiment 2 32 32 2
+42402200 海洋遥感实习
+Oceanic Remote Sensing Practice 1 1 周 1
+42405300 海洋数据处理与分析
+Marine Data Processing and Analysis 2 2 周 2
+42402800 毕业生产实习
+Graduate Practice 4 4 周 4
+42402900 毕业论文设计
+Graduate Thesis Design 12 12 周 12
+42408800
+海洋生物与化学实习
+Practice in Marine Biology and
+Chemistry
+2 2 周 2
+
+
+[Page 17]
+中国地质大学（武汉）本科培养方案
+- 11 -
+课程
+类别
+Classi-
+fication
+课程
+编号
+Code
+课程名称
+Course Name
+学
+分
+Crs
+学
+时
+Hrs
+学时分类
+Class Hours 先修
+课程
+Prer
+equi
+site
+cour
+ses
+学期学分分配
+Semester Credits课内学时 课外学时
+讲课
+Lec.
+课内
+实验
+Lab
+实验/
+科研
+实践
+Lab/
+Res.
+研讨
+Dis
+素质
+拓展
+Exp
+一
+1st
+二
+2nd
+三
+3rd
+四
+4th
+五
+5th
+六
+6th
+七
+7th
+八
+8th
+212169*1 物理实验 A
+Physics Experiments A 2 （64）（4） （60
+） 1 1
+小计
+Sum 43.5
+44..5
+周 3 4 3.5 7.5 3 6.5 4 12
+创
+新
+创
+业
+自
+主
+学
+习Freedomstudy
+ZZ35000
+S
+社会调查
+Social Investigation 2 自主学习
+其他(学科竞赛、发明创造、科研报
+告)
+Others (Contest, Invention,
+Innovation and Research
+Presentation)
+3 自主学习
+小计
+Sum
+5
+总计
+Total
+170
+2028+
+44.5
+周
+1736 20 56 56 22.5 25.5 23 23 10.5 11 7 12
+22408900 海洋结构动力学
+Ocean structural dynamics 2 32 32 2
+22409000
+海洋天然气水合物勘探开发技术
+Exploration and development
+technology of marine natural gas
+hydrate
+2 32 32 2
+22406300 海洋工程结构
+Marine Structure 2 32 32 2
+22400900 港口水工建筑物
+Harbor Hydraulic Structure 2 32 24 8 2
+22401500 海岸工程学
+Coastal Engineering 2 32 32 2
+22405500 海洋岩土工程
+Offshore Geotechnical Engineering 2 32 32 2
+22406400 海洋数值模拟
+Numerical Marine Model 2 32 32 2
+22405700 水动力学
+Hydrodynamics 2 32 32 2
+22407600 海洋地质灾害学
+Submarine geohazards 1.5 24 24 1.5
+22409100 海洋生态学
+marine ecology 1.5 24 24 1.5
+
+
+[Page 18]
+海洋工程与技术专业
+- 12 -
+课程
+类别
+Classi-
+fication
+课程
+编号
+Code
+课程名称
+Course Name
+学
+分
+Crs
+学
+时
+Hrs
+学时分类
+Class Hours 先修
+课程
+Prer
+equi
+site
+cour
+ses
+学期学分分配
+Semester Credits课内学时 课外学时
+讲课
+Lec.
+课内
+实验
+Lab
+实验/
+科研
+实践
+Lab/
+Res.
+研讨
+Dis
+素质
+拓展
+Exp
+一
+1st
+二
+2nd
+三
+3rd
+四
+4th
+五
+5th
+六
+6th
+七
+7th
+八
+8th
+22409200
+海上基础工程理论与设计
+Theory and design of offshore
+foundation engineering
+2 32 32 2
+22404500 海洋环境学
+Science of Marine Environment 1.5 24 24 8 1.5
+22401400 计算流体力学基础
+Computational Fluid Mechanics 2 32 32 2
+22403500 海岸动力学
+Coastal Dynamics 2 32 32 16 2
+22407800 海洋科学专业英语*
+Marine Science Professional English 1.5 24 16 8 1.5
+创新创业类课程
+注： 全英课程须在课程名称后打*标出，通识教育选修课学分未列入具体学期，学院须
+根据学校创新创业自主学习学分认定一览表制订实施细则。
+海洋工程与技术专业课程分类统计
+课程类别
+统计
+通识教育课程
+Liberal
+Education
+Courses
+大类平台课+学科基础课
+Plateform & Disciplinary
+Fundamental Courses
+专业主干课
+Main Specialty
+Courses
+专业选修课
+Specialty
+Elective
+Courses
+实践
+环节
+Practical
+Work
+创新创业
+自主学习
+Freedom
+Study
+学时总计
+Total
+Hour
+学分总计
+Total
+Credits
+必修 选修
+学时/学分 580/31 192/12 664/41.5 328/20.5 272/17
+44.5 周
+/43.5
+5
+2028+44.5
+周
+170
+学分所占比
+例
+25.29% 24.41% 12.06% 9.71% 25.59% 2.94% 100% 100%
+
+
+[Page 19]
+中国地质大学（武汉）本科培养方案
+- 13 -
+海洋工程与技术专业辅修课程教学计划表
+Course Descriptions of Marine Engineering and Technology（Minor）
+课程
+类别
+Classi-
+fication
+课程
+编号
+Code
+课程名称
+Course Name
+学
+分
+Crs
+学
+时
+Hrs
+学时分类
+Class Hours
+先修课程
+Prerequisite
+courses
+学期学分分配
+Semester Credits课内学时 课外学时
+讲课
+Lec.
+课内实
+验 Lab
+实验/科
+研实践
+Lab/Re
+s.
+研讨
+Dis
+素质
+拓展
+Exp
+一
+1st
+二
+2nd
+三
+3rd
+四
+4th
+五
+5th
+六
+6th
+七
+7th
+八
+8th
+学
+科
+基
+础
+课
+Disciplinary
+FundamentalCourses
+20202800 海洋学基础
+Basic Oceanography 3 48 44 4 3
+20520700 流体力学
+Fluid Mechanics 2.5 40 40 2.5
+22405100
+数值计算方法
+Numerical Computation
+Method
+3 48 48 3
+小计
+Sum 9 136 132 4 3 5.5
+专
+业
+主
+干
+课
+MainSpecialtyCourses
+22400700 物理海洋学
+Physical Oceanography 2 32 32 2
+21105100 海洋遥感
+Ocean Remote Sensing 2 32 32 2
+22403400
+海洋调查技术与方法
+Technology and Methods of
+Marine survey
+2 32 32
+16
+2
+22401000 海洋测量学
+Marine Surveying 2.5 40 32 8 2.5
+小计
+Sum
+8.5 136 128 8
+16
+2 2.5 2 2
+合计
+Sub-total 17.5 280 268 12
+16
+5 8 2 2
+实
+践
+环
+节
+PracticalWork
+42401600
+海洋观测实习
+Geological Cognition
+Practice
+2 2 周 2
+42401700 海洋测量学实习
+Marine Surveying Practice 1 1 周 1
+42402200
+海洋遥感实习
+Oceanic Remote Sensing
+Practice
+1 1 周 1
+小计
+Sum 4 4 周 3 0 1
+总计
+Total
+21
+272+
+4 周
+260 12 16
+5 11 2 3
+海洋工程与技术辅修专业课程分类统计
+课程类别
+统计
+学科基础课
+Disciplinary
+Fundamental Courses
+专业主干课
+Main Specialty
+Courses
+实践环节
+Practical
+Work
+学时总计
+Total Hour
+学分总计
+Total Credits
+学时/学分 136/9 136/8.5 4 周/4 272+4 周 21
+学分所占比例 41.86% 39.53% 18.60% 100% 100%
+
+
+[Page 20]
+海洋工程与技术专业
+- 14 -
+《学校与企事业单位联合培养阶段实施方案》
+培养目标：
+本专业着力培养德智体美全面发展，基础厚、素质高、能力强的海洋工程与技术高
+级人才。培养学生树立正确的世界观、人生观、价值观和严谨的科学作风；具备人文社
+科基础知识和人文修养；具有创新精神、实践能力和国际化视野，具备终身学习和自我
+提升的综合能力；掌握扎实的海洋工程与技术领域的专业基础知识、基本理论和基本技
+能，具备在物理海洋、工程水文、海岸带工程等领域从事海洋工程设计、规划管理、海
+洋调查和海洋防灾减灾等方面的工作能力。学生毕业后能够在海洋、自然资源、交通、
+生态环保、水利等相关领域部门从事相关的管理、技术开发和科学研究工作。
+培训重点：
+海洋工程与技术基础认识
+1.海洋工程识图和绘图能力
+2.海洋观测基本技术和设施的了解
+3.海洋工程常见结构物的认识
+解决海洋领域实际问题能力
+1.海洋观测数据的处理与分析能力
+2.海洋环境数值模拟能力
+3.海洋工程三维建模和仿真知识
+4.海洋工程计算能力
+5.海洋观测常用设备的基本操作能力
+培训阶段：
+1.大一阶段进行认知实习。主要进入企事业单位参观，重点参观海洋环境监测站等
+业务单位，了解海洋环境监测和海洋工程领域的主要工作和海洋领域的就业、工作状况
+等内容，提升眼界。
+2.大二阶段进行海洋观测能力和数值模拟能力的培养，通过岸基观测、出海调查等
+形式培养学生的动手能力。
+3.大三阶段进行项目协同开发实践、专业训练、大赛竞技训练，通过学校和相关单
+
+
+[Page 21]
+中国地质大学（武汉）本科培养方案
+- 15 -
+位构建的合作平台，在学校导师或校外导师的指导下，完成具体的海洋工程领域的实际
+项目。
+4.大四阶段进行生产实习。根据学生未来的发展方向，可以选择企业参观和实习，
+进行产业深度考察、实习训练、项目训练，企业对学生进行就业指导和训练，便于学生
+就业；也可以选择留校参与老师的科研项目实习，了解科研项目的论证、立项、实施、
+结题等流程，并对学生科研能力进行指导和训练，便于学生进一步深造。
+课程及学分设置：
+课
+程
+名
+称
+学
+分
+课
+内
+总
+学
+时
+内容
+序
+次
+教学基本内容、重点、难点
+海
+洋
+学
+基
+础
+实
+习
+1 1 周
+1
+在北戴河实习站布置课程设计任务书，进入海洋监测站
+参观，了解海洋环境监测的内容（0.5 周）。
+重点：认真做好参观感想，记录参观内容和过程。
+2
+对海洋观测常用设备进行操作（0.5 周）。
+重点：海洋观测常用设备的基本操作能力。
+3
+进行实习报告编写，以及实习内容的分享与汇报工作
+（0.5 周）。
+重点：对实习阶段的总结和归纳。
+海
+洋
+观
+测
+实
+习
+2 2 周
+1
+选定海洋观测地点，进行出海安全注意事项等相关内容
+的培训（0.5 周）。
+重点：让学生了解出海的风险性，并熟练掌握操作注意
+事项。
+2
+出海观测实习，进行海上数据的收集与整理（0.5 周）。
+重点：出海小组划分时，每组的人数也必须严格把控，
+项目任务必须细化到个人，争取锻炼到每个学生。
+3 实习数据处理与分析（0.5 周）。
+
+
+[Page 22]
+海洋工程与技术专业
+- 16 -
+重点：如何利用计算机进行数据处理，对海洋中的现象
+进行挖掘，并指导工程实践。
+4
+进行实习报告编写，以及实习内容的分享与汇报工作
+（0.5 周）。
+重点：以项目制度编写实习报告，导师需要认真进行评
+估，并给学生提出指导性的意见和建议。
+生
+产
+实
+习
+4.0 4 周
+1
+参观海洋工程相关企业，了解行业内主要企业的工作方
+向、企业结构、生产流程、以及企业不同部门之间的沟
+通合作机制（1 周）
+2
+（1）对于拟直接就业的学生，选择企事业单位等展开
+实习工作，企业对学生进行就业指导和训练（3 周）。
+（2）对于拟继续深造的学生，选择学校或研究所开展
+实习工作，由导师对学生科研进行指导和训练（3 周）
+考核标准及成绩评定：
+作业评价细则及得分
+100~90 89~80 79~70 69~60 59~0
+按时交作业；
+前期调研条理
+清楚，实习报
+告清晰，图片
+绘制美观；训
+练成果完整实
+现初期目标；
+PPT 版式合理，
+格式规范等。
+按时交作业；
+前期调研、实
+习报告等比较
+清晰，图片绘
+制良好；训练
+成果实现初期
+目 标 ； PPT 版
+式比较合理，
+格式比较规范
+等。
+按时交作业；
+前期调研、实
+习报告等基本
+清晰，图片绘
+制能够基本达
+到要求；训练
+成果实现初期
+目 标 ； PPT 版
+式比较合理，
+格式基本规范
+等。
+短 时 迟 交 作
+业；前期调研、
+实习报告等基
+本清晰，模型
+可供辨认，图
+片绘制存在明
+显问题；训练
+成果基本实现
+初期目标；PPT
+版 式 基 本 合
+理，格式基本
+规范等。
+不交或严重超
+时迟交作业；
+前期调研、实
+习报告等不清
+晰，模型无法
+辨认，图片绘
+制不合格；训
+练成果达不到
+初期目标；PPT
+版式不合理，
+基本格式不规
+范等。
+
+
+[Page 23]
+中国地质大学（武汉）本科培养方案
+- 17 -
+工作、生活及安全保障管理：
+1、后勤工作安排
+考虑到学生集体外出实习，后勤工作最为重要的就在于必备物资的准备，必要物资
+清单如下：
+项目 必备物品
+医药用品
+晕车药、四季感冒片、止痛药、消毒水、盐酸小襞碱片(止泻) 安
+瑞克(发烧)、补中益气丸(防中暑)、牛黄解毒丸(防虫，防上火)、
+藿香正气水、红花油、葡萄糖、创口贴、棉棒、纱布、花露水
+日常用品
+换洗衣物、鞋袜、洗簌用品、洗衣液、钱包、银行卡等
+毛巾、水杯、卫生纸、伞等
+手机、电脑、相机、充电器等
+面包、巧克力、压缩饼干、饮用水等
+活动物品 宣传手册、队旗、队服等
+必备证件 身份证、学生证、学校证明、车票等
+其他 地图、指南针、旅行日程表、手电筒等
+2、学生管理制度
+《学生纪律守则》
+1）指导老师应对活动全权负责，遇到意外事故应及时采取措施，保证学生实习的顺
+利进行。
+2）各学生必须遵照指导老师的安排，认真按计划完成各项工作，不得擅自行动，如
+果需要离开，应及时向指导老师报告。
+3）学生实习时，应衣着得体，举止文明，谦虚有礼，自觉维护中国地质大学（武汉）
+的声誉和形象，保持大学生应有的素质和健康的精神风貌，谦虚谨慎，不耻下问。
+4）每位学生注意自身安全，不得擅自离开。在实习过程或日常生活应提高警惕，保
+管好自己的财务，注意个人饮食卫生和交通安全。
+5）各项事务应由集体讨论决定，实行少数服从多数的民主集中制原则，学生要服从
+指导老师的安排。
+《安全性原则》
+
+
+[Page 24]
+海洋工程与技术专业
+- 18 -
+1）学生在出发前应有一定的心理准备，学生必须明确实习期间的艰苦。
+2）学生在实习过程中的每一天的生活起居必须由自己独立完成。
+3）如果有不适应当地生活条件，应当尽快自我调节，以免给身体造成不必要的伤害。
+4）在身体不适的情况下应及时向指导老师反映，不能隐瞒病情。
+5）牢记紧急电话：如当地的医院，公安局，政府和支持单位的电话号码和其它紧急
+号码（报警：110；急救：120；火警：119）。

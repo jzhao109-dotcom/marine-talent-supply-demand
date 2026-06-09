@@ -1,0 +1,1149 @@
+
+
+[Page 1]
+海洋科学（菁英班）专业培养方案
+专业名称与代码：海洋科学（菁英班） 070701
+专业培养目标：
+1.培养学生具有社会责任感、创新精神和实践能力，德智体全面发展；
+2.培养学生具有海洋科学基础理论、基本知识、基本技能及其相关学科的基本知识，
+具有较好的科学思维、素养和创新意识；
+3.培养学生具有一定的国际视野和正确的海洋观，能进行海洋科学研究、教学和管
+理的初步能力；
+4.培养学生能进入硕士研究生阶段学习，或成为在海洋科学及相关领域企事业部门
+从事基础研究、技术开发和技术管理工作方面的专业人才。
+专业毕业要求：
+1.具有较好的人文科学素养、高尚的品德修养，以及本学科专业应具备的职业道德
+和规范；
+2.具有厚实的数、理、化等自然科学基础知识，熟练掌握外语、计算机应用技能；
+3.掌握现代海洋科学，特别是海洋地质与资源方面的基础理论、基本知识；
+4.掌握海洋调查、数据采集处理、成果解释和综合分析的基本方法和技能；
+5.掌握岩矿鉴定、地层与古生物分析和地质构造研究等方面的基本技术和方法；
+6.掌握海洋地质与资源相关工作的基本方法；
+7.初步掌握海洋化学、海洋生物、物理海洋、海洋环境评价的基本方法；
+8.初步掌握资料查询、归纳、整理和综合分析的方法，培养团结协作精神，具有专
+业科技论文撰写和自主学习、适应发展的基本能力。
+毕业要求实现及途径：
+序号 毕 业 要 求 实现途径（教学过程）
+1
+具有较好的人文科学素养和高
+尚的品德修养，以及本学科专
+业应具备的职业道德和规范
+①课堂教学：马克思主义基本原理、毛泽东思想
+与中国特色社会主义理论体系概论、中国近现代
+史纲要、思想道德修养与法律基础、体育、军事
+理论、海洋科学专业导论。
+②课外学习：开展“大学生青年文化艺术节”、“高
+雅艺术进校园”等主题教育活动；开展运动会等
+活动；开展新生入学教育、毕业生系列教育主题
+活动；开展大学生“暑假社会实践”等活动；加
+强学务指导老师、辅导员队伍建设，加强学生干
+部队伍建设，提高对学生的教育引导。
+2
+具有厚实的数、理、化等自然
+科学基础知识，熟练掌握外语、
+计算机应用技能
+①课堂教学：大学英语、Python 语言程序设计 B、
+大学化学 C、高等数学 B、线性代数 B、概率论与
+数理统计 B、大学物理学 B、物理实验 A。
+②课外学习：每年举办大学生挑战杯、英语比赛、
+
+
+[Page 2]
+海洋科学（菁英班）专业
+- 2 -
+序号 毕 业 要 求 实现途径（教学过程）
+数学竞赛、建模比赛等活动。
+3
+掌握现代海洋科学，特别是海
+洋 地 质与 资 源 方 面的 基 础 理
+论、基本知识
+①课堂教学：海洋学基础、大洋底构造地质学、
+海洋沉积学、化学海洋学、海岸动力学、古海洋
+学、海洋地质灾害学、物理海洋学、生物海洋学
+等。
+②课外学习：引导学生参加全国大学生海洋知识
+竞赛、世界海洋日等活动。
+4
+掌握海洋调查、数据采集处理、
+成果解释和综合分析的基本方
+法和技能
+①课堂教学：海洋调查技术与方法、测井地质学、
+海洋地球物理勘探、海洋地震地质学、海洋遥感
+等。
+②课外学习：引导学生参加海岸带调查、大洋科
+学考察等活动。
+5
+掌握岩矿鉴定、地史分析和地
+质构造研究等方面的基本技术
+和方法
+①课堂教学：普通地质学、矿物岩石学、地层及
+古生物学、构造地质学 B、大洋底构造地质学等。
+②课外学习：引导学生参加“寻找李四光”地学
+专业知识竞赛、模拟国际学术会议展板竞赛、岩
+矿石综合鉴定竞赛、高级野外地质路线竞赛等活
+动。
+6 掌握海洋地质与资源工作的基
+本方法
+①课堂教学：海底矿产资源、海洋油气地质学、
+沉积盆地分析、层序地层学原理与应用、天然气
+水合物开采基础等。
+②课外学习：引导大学生参加大学生科研立项、
+大学生科技论文报告会等活动。
+7
+初步掌握海洋化学、海洋生物、
+物理海洋与海洋环境评价的基
+本方法
+①课堂教学：化学海洋学、物理海洋学、生物海
+洋学、大洋科学钻探概论、海洋环境学、海洋测
+绘基础、海洋测量学、海岸工程学等。
+②课外学习：引导学生参加大洋科学考察、环境
+调查、海洋测等活动。
+8
+初步掌握资料查询、归纳、整
+理和综合分析的方法，培养团
+结协作精神，具有专业科技论
+文撰写和自主学习、适应发展
+的基本能力
+①实践教学：海洋测绘基础教学实习、海洋学基
+础实习、地质教学实习、专业教学实习、海洋专
+业课程综合设计、毕业生产实习、毕业论文（设
+计）等。
+②课外学习：专题讲座、课程作业与读书报告、
+学术报告、文献检索讲座与报告等。
+主干学科：海洋科学
+专业核心课程：海洋学基础、大洋底构造地质学、海洋沉积学、化学海洋学、海岸
+动力学、海底矿产资源、海洋调查技术与方法、海洋地球物理勘探、沉积盆地分析、海
+洋油气地质学、物理海洋学、生物海洋学等。
+
+
+[Page 3]
+中国地质大学（武汉）本科培养方案
+- 3 -
+主要专业实验：常见矿物、岩石、化石等鉴定实验；层序地层学原理与应用课程设
+计；海洋地球物理勘探实习；测井资料综合解释课程设计；海洋地质制图与分析；化学
+海洋学实验；海洋工程设计和海洋环境评价分析。
+主要实践性教学环节：为达到培养目标和培养规格的要求，设置了旨在提高学生实
+践能力、技能和综合素质的实践教学环节。主要设置有：计算机程序课程设计、海洋测
+绘基础教学实习、海洋学基础实习、地质教学实习、专业教学实习、海洋专业课程综合
+设计、毕业生产实习、毕业（设计）论文。
+毕业学分要求：不少于 170 个学分。
+学制与学位：四年，理学学士。
+本专业学生可以辅修的其他专业：资源勘查工程、地质学、地球化学、水文与水资
+源工程。
+相近专业：资源勘查工程、地质学、地球化学、水文与水资源工程。
+
+
+[Page 5]
+Program for Marine Science (Elite class)
+Specialty and Code: Marine Science (Elite class) 070701
+Education Objective:
+1. To cultivate students who should love motherland, abide disciplines and laws and
+obtain the professional ethics of arduous working and serve for the society.
+2. To cultivate students who are required to master the basic theories, elemental
+knowledge and fundamental skills for marine science and related discipline, better scientific
+thoughts, accomplishments as well as innovative consciousness.
+3. To cultivate students who are required to mater international perspective, correct
+outlook on oceanography and the initial ability for scientific research, education and
+management on marine science.
+4. The students will also be qualified to ready for the possible postgraduate study, or
+become high-level professionals in marine science and related fields engaged in basic
+research, technological development and technical management.
+Graduation Requirements:
+1. Having good humanities accomplishment and noble moral character, as well as
+professional ethics and standards for this discipline.
+2. Having firm grasp on natural science (math, physics, chemistry, etc.) basics and being
+familiar with foreign language and computer application skills.
+3. Mastery of Basic theories, skills and work methods of modern marine science,
+especially marine geology and marine mineral resources.
+4. Mastery of Basic abilities and methods to perform marine survey, data collection and
+procession, interpretation and synthetically analysis of the information and data.
+5. Mastery of Basic technologies and methods to identify rock, minerals and fossils as
+well as geohistory analysis and structural study.
+6. Mastery of Basic methods to explore marine mineral resources and to investigate
+marine geology.
+7. Mastery of Preliminary abilities for marine engineering design and marine
+environment evaluation.
+8. Mastery of Preliminary capabilities of inquiring, gathering, organizing, and
+comprehensive analyzing data, cultivating teamwork spirit, as well as the abilities for writing
+profession scientific paper, independent study and adapting development.
+Graduation requirements and ways to achieve：
+Number Graduation Requirements Realization Approach（Teaching Process）
+
+
+[Page 6]
+海洋科学（菁英班）专业
+- 6 -
+Number Graduation Requirements Realization Approach（Teaching Process）
+1
+Having good humanities
+accomplishment and noble
+moral character, as well as
+professional ethics and
+standards for this discipline
+①Classroom Teaching: Basic Principles Of
+Marxism, Introduction To Mao Zedong Thought
+And Theoretical System Of Socialism With
+Chinese Characteristics, The Course Of Modern
+And Contemporary Chinese History, Ideological
+And Moral Cultivation And Basic Law Education,
+Physical Culture, Military Theory, Introduction to
+Marine Science.
+② Out-of-class Learning: Promote the
+educational activities such as “University
+Student Youth Culture And Art Festival” and
+“Introducing Classic Art In Campus”, develop
+sports meeting, carry out enrollment education for
+freshman and graduate education series, develop
+activities like university students summer social
+practice, strengthen team construction of academic
+affairs instructor and counselor as well as student
+cadres, improve the education and guidance to
+students.
+2
+Having firm grasp on natural
+science (math, physics,
+chemistry, etc.) basics and
+being familiar with foreign
+language and computer
+application skills.
+①Classroom Teaching：College English, Python
+Programming Language, College Chemistry C,
+Advanced Mathematics B, Linear Algebra B,
+Probability Theory and Mathematical Statistics B,
+College Physics B, Physics Experiment A.
+② Out-of-class Learning：Conduct “Challenge
+Cup”, English competition, math competition
+and modeling contest every year.
+3
+Mastery of Basic theories,
+skills and work methods of
+modern marine science,
+especially marine geology,
+marine chemistry and Physical
+Oceanography.
+①Classroom Teaching：Basic Oceanography,
+Ocean Floor Tectonics, Marine Sedimentology,
+Chemical Oceanography, Costal Dynamics,
+Paleoceanography, Submarine Geohazards,
+Physical Oceanography, Biological Oceanography.
+② Out-of-class Learning：Guide students to
+participate in National Undergraduate Marine
+Knowledge Competition and World Oceans Day.
+4
+Mastery of Basic abilities and
+methods to perform marine
+survey, data collection and
+procession, interpretation and
+synthetically analysis of the
+information and data.
+① Classroom Teaching: Technology and
+Method of Marine survey, Logging Geology,
+Marine Geophysical Exploration, Marine
+Seismic-geology Integrated Interpretation, Ocean
+Remote Sensing, etc.
+② Out-of-class Learning：Guide students to take
+
+
+[Page 7]
+中国地质大学（武汉）本科培养方案
+- 7 -
+Number Graduation Requirements Realization Approach（Teaching Process）
+part in activities such as ocean scientific
+expedition.
+5
+Mastery of Basic technologies
+and methods to identify rock,
+minerals and fossils as well as
+geohistory analysis and
+structural study.
+①Classroom Teaching: Physical Geology,
+Mineral Petrology, Stratigraphy and Paleontology,
+Structural Geology, Ocean Floor Tectonics.
+② Out-of-class Learning: Conduct geoscience
+knowledge contest“Looking For Li Siguang”,
+analog international academic conference panels
+contest, rocks and minerals comprehensive
+identification competition and advanced field
+geological line competition.
+6
+Mastery of Basic methods to
+explore and evaluate marine
+mineral resources.
+①Classroom Teaching: Submarine Mineral
+Resources, Marine Oil & Gas Geology, Analysis
+of Sedimentary Basin, Principle and Application
+of Sequence Stratigraghy, Fundamentals of
+Natural Gas Hydrate Exploitation.
+② Out-of-class Learning: Guide students to
+take part in undergraduate scientific research
+projects and scientific papers report.
+7
+Mastery of Preliminary
+abilities for Marine chemistry,
+Biological Oceanography,
+physical ocean and Marine
+environment assessment.
+①Classroom Teaching: Chemical Oceanography,
+Physical Oceanography, Biological Oceanography,
+Oceanic Science Drilling, Marine Environment
+Science, Basic Marine Surveying, Marine
+Surveying, Coastal Engineering.
+② Out-of-class Learning: Guide students to
+take part in ocean scientific expedition,
+environmental survey and marine surveying.
+8
+Mastery of Preliminary
+capabilities of inquiring,
+gathering, organizing, and
+comprehensive analyzing data,
+cultivating teamwork spirit, as
+well as the abilities for writing
+profession scientific paper,
+independent study and
+adapting development.
+①Practical Teaching: Basic Marine Surveying
+Practice, Basic Oceanography Training,
+Geological Mapping Field Training, Synthetic
+Field Training, Marine Science Curriculum
+Design, Graduation Production Practice,
+Graduation thesis (project), etc.
+② Out-of-class Learning: Seminar, Course
+paper report, Colloquium, Literature searching for
+paper reports.
+Major Disciplines: Marine science
+Main Courses: Basic Oceanography; Ocean Floor Tectonics; Marine Sedimentology;
+Chemical Oceanography; Coastal Dynamics; Submarine Mineral Resources; Technology and
+
+
+[Page 8]
+海洋科学（菁英班）专业
+- 8 -
+Method of Marine Survey; Marine Geophysical Exploration; Sedimentary Basin Analysis,
+Marine Oil & Gas Geology; Physical Oceanography; Biological Oceanography.
+Lab Experiments: Identification of Mineral, Rock, and Fossil; Course Design for Principle
+and application of Sequence Stratigraghy；Marine Geophysical Exploration Practice；Course
+Design for Marine Seismic-geology Integrated Interpretation ； Well logging Data Synthesis
+Interpretation Curriculum Design; Marine Geological Mapping and Synthetic Analysis;
+Marine Geochemical Experiments; Marine Engineering Design and Marine Environment
+Evaluation.
+Practical Work: To meet the requirements of training objective and standard, we set up the
+practical teaching link that aims at improvingthe practical ability, skills and comprehensive
+quality of students, including Computer Programming; Basic Marine Surveying Practice;
+Basic Oceanography Training; Geological Mapping Field Training; Marine Science
+Curriculum Design; Graduate Professional Practice; Thesis Writing or Design.
+Requirements for Graduation Credits: No less than 170 credits
+Duration& Degree Granted: Four years，Bachelor of Science
+Recommended minor: Resource Exploration Techniques and Engineering; Geology;
+Geochemistry; Hydrological and Water Resources Engineering.
+Related Specialties: Resource Exploration Techniques and Engineering; Geology;
+Geochemistry; Hydrological and Water Resources Engineering.
+
+
+[Page 9]
+中国地质大学（武汉）本科培养方案
+- 9 -
+海洋科学（菁英班）专业课程教学计划表
+Course Descriptions of Marine Science (Elite Class)
+课程
+类别
+Classi-
+fication
+课程
+编号
+Code
+课程名称
+Course Name
+学
+分
+Crs
+课
+内
+总
+学
+时
+Hrs
+学时分类
+Class Hours
+先修课程
+Prerequisite
+courses
+学期学分分配
+Semester Credits
+课内学时 课外学时
+一
+1st
+二
+2nd
+三
+3rd
+四
+4th
+五
+5th
+六
+6th
+七
+7th
+八
+8th讲课
+Lec
+课内
+实验
+Lab.
+实验/科
+研实践
+Lab/Res.
+研讨
+Dis
+素质
+拓展
+Exp
+通
+识
+教
+育
+课LiberalEducationCourses
+必
+修Compulsory
+12007800 马克思主义基本原理
+Principles of Marxism 3 48 48 3
+12008100
+毛泽东思想与中国特色社会
+主义理论体系概论
+Introduction to Mao
+Tse-tung Thought and the
+Theoretical System of
+Socialism with Chinese
+Characteristics
+2 32 32 2
+12008000
+习近平新时代中国特色社会
+主义思想概论
+Introduction to Xi Jinping
+Thought on Socialism with
+Chinese
+Characteristics for a New Era
+3 48 48 3
+11711800
+中国近现代史纲要
+The Essentials of Modern
+Chinese History
+2 32 32 2
+12007900
+思想道德与法治
+Ideological morality and rule
+of law
+3 48 32 16 3
+12005300 形势与政策
+Situation and Policy 2 32 32 每学期平均分配
+11307610-
+40
+体育
+Physical Education 4 144 144 1 1 1 1
+10923410-
+30
+大学英语
+College English 9 144 144 48 3 3 3
+14300300 军事理论
+Military Theory 2 36 36 2
+12008200 劳动教育
+Labor Education 1 16 16 1
+选
+修
+70400600 生态学概论
+Introduction to Ecology 1.5 24 24 1.5
+包括美育课程（不少于 2 学分）总计 10.5
+学分，跨学科选修课不低于 4 学分 10.5 168 168
+小计
+Sum
+43 772 756 16 48 10 10.5 9 1
+大
+类
+平
+台
+课
+Platform
+Courses
+20215600
+海洋科学导论
+Introduction to Marine
+Science
+1 16 16 1
+20119600 普通地质学
+Physical Geology 2.5 40 40 8 2.5
+
+
+[Page 10]
+海洋科学（菁英班）专业
+- 10 -
+课程
+类别
+Classi-
+fication
+课程
+编号
+Code
+课程名称
+Course Name
+学
+分
+Crs
+课
+内
+总
+学
+时
+Hrs
+学时分类
+Class Hours
+先修课程
+Prerequisite
+courses
+学期学分分配
+Semester Credits
+课内学时 课外学时
+一
+1st
+二
+2nd
+三
+3rd
+四
+4th
+五
+5th
+六
+6th
+七
+7th
+八
+8th讲课
+Lec
+课内
+实验
+Lab.
+实验/科
+研实践
+Lab/Res.
+研讨
+Dis
+素质
+拓展
+Exp
+21947400
+Python 语言程序设计
+Python Language
+Programming
+2.5 40 40 16 2.5
+21212712-
+22
+高等数学 B
+Advanced Mathematics B 10 160 160 4 6
+21212802 线性代数 B
+Linear Algebra B 2.5 40 40 2.5
+21213502
+概率论与数理统计 B
+Probability and Mathematics
+Statistics B
+2.5 40 40 2.5
+21213012-
+22
+大学物理学 B2
+College Physics B2 7 112 112 3.5 3.5
+21216921 物理实验 A2
+Physics Experiments A2 2 64 4 60 1 1
+20202800 海洋学基础
+Basic Oceanography 3 48 44 4 3
+22409300 海洋测绘基础
+Basic Marine Surveying 2 32 32 8 2
+小计
+Sum
+35 592 528 64 32 9.5 13.5 9.5 2.5
+学
+科
+基
+础
+课
+DisciplinaryFundamentalCourses
+20326903 大学化学 C
+College Chemistry C 3 48 48 3
+20327003
+大学化学实验 C
+College Chemistry
+Experiments C
+1 24 24 1
+20123402 构造地质学 B
+Structural Geology B 2 32 24 8 8 4 4 2
+20113100 矿物岩石学 A
+Mineral petrology A 3 48 10 38 3
+20125900 地层及古生物学
+Stratigraphy and Paleontology 2 32 32 16 2
+小计
+Sum 11 184 114 70 24 4 4 11
+专
+业
+主
+干
+课
+MainSpecialtyCourses
+22406700
+海洋调查技术与方法
+Technology and Methods of
+Marine Survey
+2 32 32 16 2
+22403500 海岸动力学
+Coastal Dynamics 2 32 32 16 2
+22403600 海洋地球化学
+Marine Geochemistry 2 32 32 16 2
+22406800 海洋沉积学*
+Marine Sedimentology 2 32 32 16 矿物岩石学 2
+22403300 大洋底构造地质学
+Ocean Floor Tectonics 2 32 32 16 构造地质学 2
+22407900
+海洋地球物理勘探
+Marine Geophysical
+Exploration
+2 32 32 2
+22403700 海底矿产资源
+Submarine Mineral Resources 2 32 32 8 8 2
+22407200 海洋油气地质学
+Marine Oil & Gas Geology 2 32 32 16 2
+
+
+[Page 11]
+中国地质大学（武汉）本科培养方案
+- 11 -
+课程
+类别
+Classi-
+fication
+课程
+编号
+Code
+课程名称
+Course Name
+学
+分
+Crs
+课
+内
+总
+学
+时
+Hrs
+学时分类
+Class Hours
+先修课程
+Prerequisite
+courses
+学期学分分配
+Semester Credits
+课内学时 课外学时
+一
+1st
+二
+2nd
+三
+3rd
+四
+4th
+五
+5th
+六
+6th
+七
+7th
+八
+8th讲课
+Lec
+课内
+实验
+Lab.
+实验/科
+研实践
+Lab/Res.
+研讨
+Dis
+素质
+拓展
+Exp
+20227400
+沉积盆地分析
+Analysis of Sedimentary
+Basin
+2 32 32 16 2
+22406900 物理海洋学
+Physical Oceanography 2 32 32 2
+22406600 化学海洋学
+Chemical Oceanography 2 32 32 2
+22406500 生物海洋学
+Biological Oceanography 2 32 32 2
+小计
+Sum
+24 384 384 120 8 2 2 12 8
+专
+业
+选
+修
+课
+Specialty
+Elective
+Courses
+具体见专业选修课列表，可
+开设专业选修课共 13 门，学
+分合计 20.5 个，要求学生专
+业选修课学分不少于 8.5 个。
+8.5 136
+合计
+Sub-total 121.5 2068 1782 150 176 12 52 19.5 24 20.5 16.5 12 8
+实
+践
+环
+节
+PracticalWork
+42008300 劳动教育
+Labor practice 1 4 周 1
+44300400 军事训练
+Military Training 2 2 周 2
+41947500
+Python 语言课程设计
+Course Design for C
+Language
+1.5 1.5
+周 1.5
+42400600
+海洋测绘基础实习
+Basic Marine Surveying
+Practice
+1 1 周 1
+40115200
+地质认识实习（北戴河）
+Primary Field Training
+(Beidaihe)
+2 2 周 2
+40215800 海洋学基础实习（北戴河）
+Basic Oceanography Training 1 1 周 1
+40115602 地质教学实习（周口店）
+Geological Field Training 4 4 周 4
+40115702 地质教学实习（秭归）
+Geological Field Training 2 2 周 2
+4240700
+沉积盆地分析与层序地层学
+课程设计
+Course Design for
+Sedimentary Basin Analysis
+and Sequence Stratigraghy
+3 3 周 3
+42404100 专业教学实习
+Professional Field Training 2 2 周 2
+42408000
+海洋地球物理勘探实习
+Marine Geophysical
+Exploration Practice
+1.5
+1.5
+周
+1.5
+42408100
+地震-测井资料地质综合解
+释课程设计
+Course Design for Integrated
+Interpretation of Seismic,
+Logging and Geological Data
+2 2 周 2
+
+
+[Page 12]
+海洋科学（菁英班）专业
+- 12 -
+课程
+类别
+Classi-
+fication
+课程
+编号
+Code
+课程名称
+Course Name
+学
+分
+Crs
+课
+内
+总
+学
+时
+Hrs
+学时分类
+Class Hours
+先修课程
+Prerequisite
+courses
+学期学分分配
+Semester Credits
+课内学时 课外学时
+一
+1st
+二
+2nd
+三
+3rd
+四
+4th
+五
+5th
+六
+6th
+七
+7th
+八
+8th讲课
+Lec
+课内
+实验
+Lab.
+实验/科
+研实践
+Lab/Res.
+研讨
+Dis
+素质
+拓展
+Exp
+40219600
+海洋分析测试课程设计
+Marine Analysis and Testing
+Curriculum Design
+2.5
+2.5
+周
+2.5
+42404200 毕业生产实习
+Graduate Profession Practice 8 8 周 8
+42404300 毕业论文（设计）
+Graduate thesis (project) 10 10 周 10
+小计
+Sum 43.5 43.5
+周 3 3 1.5 6 3 6.5 8 12.5
+创
+新
+创
+业
+自
+主
+学
+习
+Freedomstudy
+ZZ35000S 社会调查
+Social Investigation 2
+其他(含创新创业课程、学科
+竞赛、发明创造、科研报告)
+Others (Start-up, Contest,
+Invention, Innovation and
+Research Presentation)
+3
+小计
+Sum
+5
+总计
+Total
+170
+2068
++
+43.5
+周
+1782 150 176 12 52 22.5 27 23 22.5 15 13.5 8 12.5
+可
+开
+出
+专
+业
+选
+修
+课
+列
+表
+SpecialtyElectiveCourses
+22407100
+层序地层学原理与应用
+Principle and Application of
+Sequence Stratigraghy
+2 32 32 16 2
+22404400 测井地质学
+Well Logging Geology 1.5 24 24 8 1.5
+22408200 海洋地震地质学
+Marine seismic geology 1.5 24 24 8 1.5
+22404500
+海洋环境学
+Science of Marine
+Environment
+1.5 24 24 8 1.5
+22407300 大洋科学钻探概论
+Oceanic Science Drilling 1.5 24 24 8 1.5
+21105100 海洋遥感
+Ocean Remote Sensing 2.0 32 32 1.5
+22404800 古海洋学
+Paleooceanography 1.5 24 24 8 1.5
+22407400 海洋测量学
+Marine Surveying 2 32 32 8 2
+22401500 海岸工程学
+Coastal Engineering 2 32 32 2
+22407500
+天然气水合物开采基础*
+Fundamentals of Natural Gas
+Hydrate Exploitation
+1 16 16 4 4 1
+22407600 海洋地质灾害学
+Submarine geohazards 1.5 24 24 1.5
+
+
+[Page 13]
+中国地质大学（武汉）本科培养方案
+- 13 -
+课程
+类别
+Classi-
+fication
+课程
+编号
+Code
+课程名称
+Course Name
+学
+分
+Crs
+课
+内
+总
+学
+时
+Hrs
+学时分类
+Class Hours
+先修课程
+Prerequisite
+courses
+学期学分分配
+Semester Credits
+课内学时 课外学时
+一
+1st
+二
+2nd
+三
+3rd
+四
+4th
+五
+5th
+六
+6th
+七
+7th
+八
+8th讲课
+Lec
+课内
+实验
+Lab.
+实验/科
+研实践
+Lab/Res.
+研讨
+Dis
+素质
+拓展
+Exp
+22407700
+海洋专业文献检索
+Oceanography Information
+Retrieval
+1 16 12 4 1
+22407800
+海洋科学专业英语*
+Marine Science Professional
+English
+1.5 24 16 8 1.5
+创新创业
+类课程
+注：课程名称后打*标出的为全英课程课程，通识教育选修课学分未列入具体学期。
+
+
+[Page 14]
+海洋科学（菁英班）专业
+- 14 -
+海洋科学（菁英班）专业课程分类统计
+Course Classifications and Statistics of Marine Science (Elite class)
+课程类别
+统计
+通识教育课程
+Liberal
+Education
+Courses
+大类平台课+学科基础课
+Plateform & Disciplinary
+Fundamental Courses
+专业主干课
+Main Specialty
+Courses
+专业选修课
+Specialty
+Elective
+Courses
+实践环节
+Practical
+Work
+创新创业
+自主学习
+Freedom
+Study
+学时总计
+Total
+Hour
+学分总计
+Total
+Credits
+必修 选修
+学时/学分 580 / 31 192 / 12 776/ 46 384/ 24 136 / 8.5 43.5 周 / 43.5 5
+2068+ 43.5
+周
+170
+学分所占比
+例
+25.29% 27.05% 14.11% 5% 25.58% 2.94% 100%
+
+
+[Page 15]
+中国地质大学（武汉）本科培养方案
+- 15 -
+海洋科学（菁英班）专业辅修课程教学计划表
+Course Descriptions of Marine Science (Elite Class) (Minor)
+课程
+类别
+Classi-
+fication
+课程
+编号
+Code
+课程名称
+Course Name
+学
+分
+Crs
+课
+内
+总
+学
+时
+Hrs
+学时分类
+Class Hours 先修课程
+Prerequisit
+e courses
+学期学分分配
+Semester Credits课内学时 课外学时
+讲课
+Lec.
+课内
+实验
+Lab
+实验/科
+研实践
+Lab/Res.
+研
+讨
+Dis
+素质
+拓展
+Exp
+一
+1st
+二
+2nd
+三
+3rd
+四
+4th
+五
+5th
+六
+6th
+七
+7th
+八
+8th
+学
+科
+基
+础
+课
+Disciplinary
+FundamentalCourses
+20202800 海洋学基础
+Basic Oceanography 3 48 44 4 3
+小计
+Sum 3 48 44 4 3
+专
+业
+主
+干
+课
+MainSpecialtyCourses
+22406700
+海洋调查技术与方法
+Technology and Methods of
+Marine Survey
+2 32 32 16 2
+22403500 海岸动力学
+Coastal Dynamics 2 32 32 16 2
+22403600 海洋地球化学
+Marine Geochemistry 2 32 32 16 2
+22403200 海洋沉积学*
+Marine Sedimentology 2 32 32 16 2
+22403300 大洋底构造地质学
+Ocean Floor Tectonics 2 32 32 16 2
+22407900 海洋地球物理勘探
+Marine Geophysical Exploration 2 32 32 32 2
+22403700 海底矿产资源
+Submarine Mineral Resources 2 32 32 8 8 2
+22406500 生物海洋学
+Biological Oceanography 2 32 32 2
+20227400 沉积盆地分析
+Analysis of Sedimentary Basin 2 32 32 16 2
+22406900 物理海洋学
+Physical Oceanography 2 32 32 2
+小计
+Sum 20 320 320 136 8 6 4 8 2
+实
+践
+环
+节
+PracticalWork
+小计
+Sum
+总计
+Total
+23 368 364 4 136 8 6 7 8 2
+
+
+[Page 16]
+海洋科学（菁英班）专业
+- 16 -
+海洋科学（菁英班）专业辅修课程分类统计
+课程类别
+统计
+学科基础课
+Disciplinary
+Fundamental Courses
+专业主干课
+Main Specialty
+Courses
+实践环节
+Practical
+Work
+学时总计
+Total Hour
+学分总计
+Total Credits
+学时/学分 48 / 3 320/ 20 368 23
+学分所占比例 13.04% 86.96% 100%
