@@ -6,5 +6,6 @@ __pycache__/
 venv/
 .env
 *.log
+*.tiff
 .idea/
 .vscode/
